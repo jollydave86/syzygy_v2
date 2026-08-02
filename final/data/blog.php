@@ -51,7 +51,7 @@ HTML,
         'date' => '2026-05-18',
         'eyebrow' => 'Profiles',
         'excerpt' => 'Not side projects for clutter — what each person sounds like when separated from the shared machine.',
-        'image' => '/assets/img/solo-signals/nova-vale.webp',
+        'image' => '/assets/img-optimized/solo-signals/nova-vale.webp',
         'body' => <<<'HTML'
 <p>Solo Signals reveals the members as separate transmissions: Nova’s voltage, Ash’s damaged minimalism, Lyra’s body-clock percussion, Lucien’s electro-rap motion.</p>
 <p>Vanta’s project is intentionally abandoned. Kade’s architecture remains unresolved. Incompleteness is canon — not a missing upload.</p>

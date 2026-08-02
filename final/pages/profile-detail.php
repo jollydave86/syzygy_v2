@@ -17,7 +17,7 @@ $platformLinksMap = $member['links'] ?? [];
             <div class="detail-sidebar__sticky">
                 <div class="detail-cover detail-cover--portrait">
                     <?php if (!empty($member['image']) && syzygy_public_path_exists($member['image'])): ?>
-                        <img src="<?= syzygy_esc(syzygy_encode_public_path($member['image'])); ?>" alt="<?= syzygy_esc($member['name']); ?>">
+                        <img src="<?= syzygy_esc(syzygy_prefer_public_variant($member['image'], [800, 1200])); ?>" alt="<?= syzygy_esc($member['name']); ?>">
                     <?php endif; ?>
                 </div>
                 <p class="detail-meta__label">Platforms</p>

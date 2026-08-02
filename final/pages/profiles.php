@@ -14,7 +14,7 @@
                 <a class="profile-card<?= ($member['status'] ?? '') === 'coming_soon' ? ' profile-card--soon' : ''; ?>" href="<?= syzygy_esc(syzygy_url('/profiles/' . $member['slug'])); ?>">
                     <div class="profile-card__media">
                         <?php if (!empty($member['image']) && syzygy_public_path_exists($member['image'])): ?>
-                            <img src="<?= syzygy_esc(syzygy_encode_public_path($member['image'])); ?>" alt="<?= syzygy_esc($member['name']); ?>" loading="lazy">
+                            <img src="<?= syzygy_esc(syzygy_prefer_public_variant($member['image'], [400, 250])); ?>" alt="<?= syzygy_esc($member['name']); ?>" loading="lazy">
                         <?php endif; ?>
                     </div>
                     <p class="profile-card__badge"><?= syzygy_esc($member['badge'] ?? ''); ?></p>

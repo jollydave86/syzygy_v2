@@ -23,7 +23,7 @@ $members = [
         'chapter_bio' => 'Nova Vale turns the band\'s industrial heart into a full frontal pop-noir detonation. WHITE VOLTAGE is sharp vocals, neon pressure, emotional control, and beautiful damage pushed to maximum brightness.',
         'sound_tags' => ['cinematic industrial rock', 'darkwave', 'electronic rock', 'commanding female lead'],
         'visual_tags' => ['white voltage', 'black chrome', 'solar gold', 'stage halo'],
-        'image' => '/assets/img/solo-signals/nova-vale.webp',
+        'image' => '/assets/img-optimized/solo-signals/nova-vale.webp',
         'tracks' => [
             'White Voltage',
             'Glass Siren',
@@ -80,7 +80,7 @@ $members = [
         'chapter_bio' => 'BODY CLOCK is built on dry snares, floor toms, abrupt stops, human error, and live pressure. Multilingual presence grows from backup/live support into a major role.',
         'sound_tags' => ['live drums', 'dry snare', 'floor toms', 'post-punk rhythm', 'human timing'],
         'visual_tags' => ['drum light', 'motion blur', 'concrete room', 'red pulse'],
-        'image' => '/assets/img/solo-signals/lyra-static.webp',
+        'image' => '/assets/img-optimized/solo-signals/lyra-static.webp',
         'tracks' => [
             'Premier Impact',
             'Doigts Bandés',
@@ -108,7 +108,7 @@ $members = [
         'chapter_bio' => 'NO IDLE SPEED moves: motion → origin → wandering → exploitation → command → vulnerability → transformation → departure.',
         'sound_tags' => ['electro rap', 'industrial hip-hop', '808 pressure', 'breakbeat', 'dark electro'],
         'visual_tags' => ['black bomber', 'asphalt night', 'transit light', 'silver chain'],
-        'image' => '/assets/img/solo-signals/lucien-cross.webp',
+        'image' => '/assets/img-optimized/solo-signals/lucien-cross.webp',
         'tracks' => [
             'NO IDLE SPEED',
             'BACK OF CHAPEL',
@@ -138,7 +138,7 @@ $members = [
         'chapter_bio' => 'Public solo title and tracklist are not locked. This page stays in coming-soon state until David unlocks canon.',
         'sound_tags' => ['darkwave', 'trip-hop', 'haunted club'],
         'visual_tags' => ['velvet shadow', 'cold neon', 'low light'],
-        'image' => '/assets/img/solo-signals/vanta-rey.webp',
+        'image' => '/assets/img-optimized/solo-signals/vanta-rey.webp',
         'tracks' => [],
         'links' => [
             'suno' => '',
@@ -159,7 +159,7 @@ $members = [
         'chapter_bio' => 'No public solo tracklist until the architecture decision is locked. Coming soon.',
         'sound_tags' => ['modular synth', 'ambient score', 'broken beats', 'cinematic ambient'],
         'visual_tags' => ['control room', 'blueprint ghost', 'cold architecture'],
-        'image' => '/assets/img/solo-signals/kade-null.webp',
+        'image' => '/assets/img-optimized/solo-signals/kade-null.webp',
         'tracks' => [],
         'links' => [
             'suno' => '',

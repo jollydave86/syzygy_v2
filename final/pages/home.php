@@ -73,7 +73,7 @@ $highlights = $site['highlights'] ?? [];
         <div class="home-profile-strip">
             <?php foreach (array_slice($members, 0, 4) as $member): ?>
                 <a href="<?= syzygy_esc(syzygy_url('/profiles/' . $member['slug'])); ?>">
-                    <img src="<?= syzygy_esc(syzygy_encode_public_path($member['image'])); ?>" alt="<?= syzygy_esc($member['name']); ?>" loading="lazy">
+                    <img src="<?= syzygy_esc(syzygy_prefer_public_variant($member['image'], [250, 400])); ?>" alt="<?= syzygy_esc($member['name']); ?>" loading="lazy">
                     <span><?= syzygy_esc($member['name']); ?></span>
                 </a>
             <?php endforeach; ?>
