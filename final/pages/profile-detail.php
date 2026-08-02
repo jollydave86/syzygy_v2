@@ -45,6 +45,17 @@ $platformLinksMap = $member['links'] ?? [];
                 <p class="prose"><?= syzygy_esc($member['bio'] ?? ''); ?></p>
                 <p class="prose"><?= syzygy_esc($member['chapter_bio'] ?? ''); ?></p>
 
+                <?php if (!empty($member['release_slug']) || !empty($member['secondary_release_slug'])): ?>
+                    <p>
+                        <?php if (!empty($member['release_slug'])): ?>
+                            <a class="btn btn--primary" href="<?= syzygy_esc(syzygy_url('/music/' . $member['release_slug'])); ?>">Open <?= syzygy_esc($member['release'] ?? 'release'); ?></a>
+                        <?php endif; ?>
+                        <?php if (!empty($member['secondary_release_slug'])): ?>
+                            <a class="btn btn--secondary" href="<?= syzygy_esc(syzygy_url('/music/' . $member['secondary_release_slug'])); ?>">Open <?= syzygy_esc($member['secondary_release'] ?? 'release'); ?></a>
+                        <?php endif; ?>
+                    </p>
+                <?php endif; ?>
+
                 <?php if (!empty($member['tracks'])): ?>
                     <ol class="track-list">
                         <?php foreach ($member['tracks'] as $i => $trackTitle): ?>

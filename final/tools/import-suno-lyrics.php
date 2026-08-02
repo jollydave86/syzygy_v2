@@ -49,12 +49,18 @@ foreach (($playlist['tracks'] ?? []) as $track) {
     $raw = @file_get_contents($apiUrl, false, $context);
     $clip = is_string($raw) ? json_decode($raw, true) : null;
     $prompt = is_array($clip) ? trim((string) ($clip['metadata']['prompt'] ?? '')) : '';
-    $isPublic = is_array($clip) && !empty($clip['is_public']);
     $owner = is_array($clip) ? trim((string) ($clip['handle'] ?? '')) : '';
+    $ownedByArtist = $owner === 'syzygy86';
+    $isPublic = is_array($clip) && !empty($clip['is_public']);
 
-    if ($prompt === '' || !$isPublic || $owner !== 'syzygy86') {
+    // Import owned clips (including private demos) when a prompt exists.
+    if ($prompt === '' || !$ownedByArtist) {
         $failures[] = $title;
         continue;
+    }
+
+    if (!$isPublic) {
+        fwrite(STDOUT, "Importing private owned clip: {$title}\n");
     }
 
     $slug = syzygy_slugify($title);

@@ -3,7 +3,7 @@
     <div class="container">
         <p class="section__eyebrow">Journals</p>
         <h1 class="section__title">Blog</h1>
-        <p class="section__lede">Working notes from the signal. Edit posts in <code>data/blog.php</code>.</p>
+        <p class="section__lede">Working notes from the signal.</p>
     </div>
 </section>
 

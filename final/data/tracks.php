@@ -234,6 +234,75 @@ $playlists = [
             track('THE CHOIR REMAINS (Chapter 20)', 'The Chapel Protocol // Aftermath Sequel', 'https://suno.com/song/50049c52-90e2-44d8-9309-5efed2b0010a'),
         ],
     ],
+
+    'no-idle-speed' => [
+        'label' => 'NO IDLE SPEED',
+        'tracks' => [
+            track('NO IDLE SPEED', 'NO IDLE SPEED', 'https://suno.com/song/40fc89ba-cecd-46f8-9e7c-2f394b96c401'),
+            track('BACK OF CHAPEL', 'NO IDLE SPEED', 'https://suno.com/song/cf656152-a3aa-46d1-b67f-5c0c52385325'),
+            track('OPEN ROADS LIE', 'NO IDLE SPEED', 'https://suno.com/song/638173a4-e223-4fec-af66-6a6475df3fe4'),
+            track('PRIZE MACHINE', 'NO IDLE SPEED', 'https://suno.com/song/9c72649a-2ac0-453c-a1b5-71f5ce2029dc'),
+            track('THE TOMORROWLINE', 'NO IDLE SPEED', 'https://suno.com/song/e8a6f2fe-a452-4297-a941-de23c3f54aed'),
+            track('THE GLASS WATER', 'NO IDLE SPEED', 'https://suno.com/song/80976d05-e052-4255-ac68-c03208eabde7'),
+            track('THE RELAY SAINT', 'NO IDLE SPEED', 'https://suno.com/song/6942cdad-0cda-4685-bfc8-cb62fdddd64d'),
+            track('STILL MOVING', 'NO IDLE SPEED', 'https://suno.com/song/f6bca518-412b-4098-a82a-744e9474b3a6'),
+            track('THE GLASS WATER (demo)', 'NO IDLE SPEED', 'https://suno.com/song/cfa87113-d9c8-444f-9ae5-0948a6c9dbd3'),
+        ],
+    ],
+
+    'white-voltage' => [
+        'label' => 'WHITE VOLTAGE',
+        'tracks' => [
+            track('WHITE VOLTAGE', 'WHITE VOLTAGE', 'https://suno.com/song/2dd317b9-7951-4e58-b770-efad274c317b'),
+            track('GLASS SIREN', 'WHITE VOLTAGE', 'https://suno.com/song/17274ad3-73e0-4ebf-8b3e-b9cdf9495dc5'),
+            track('NO SOFT SIGNAL', 'WHITE VOLTAGE', 'https://suno.com/song/587de9fc-be2e-4908-bcc5-8b046b7043c7'),
+            track('CROWN STATIC', 'WHITE VOLTAGE', 'https://suno.com/song/4d6177c0-e844-4996-b0d2-57e62246c6f1'),
+            track('THE BRIGHTEST LIE', 'WHITE VOLTAGE', 'https://suno.com/song/9da58236-dcfa-46f8-ba06-4b2c0abd7845'),
+            track('UNRELEASED MACHINE', 'WHITE VOLTAGE', 'https://suno.com/song/1e78bf7e-8436-4037-8440-8176e4d99357'),
+            track('UPPER FEVER', 'WHITE VOLTAGE', 'https://suno.com/song/0c66774f-0935-4347-828f-3117829a8330'),
+            track('AFTER THE HALO', 'WHITE VOLTAGE', 'https://suno.com/song/e10112d5-39ec-4b4d-b5f5-dfaf1fd20c09'),
+        ],
+    ],
+
+    'deluxe-queen' => [
+        'label' => 'DELUXE QUEEN',
+        'tracks' => [
+            track('DELUXE QUEEN', 'DELUXE QUEEN', 'https://suno.com/song/ee2d19ab-49a4-4749-8c9c-6933b3d18abc'),
+            track('GLASS LUNG', 'DELUXE QUEEN', 'https://suno.com/song/e9ea2e03-0d8c-4881-8e85-cfd96dcb78f7'),
+            track('STATIC CROWN', 'DELUXE QUEEN', 'https://suno.com/song/2734fbd1-21c3-41b6-87c7-66d87cdd0887'),
+            track('THE CONTRARY', 'DELUXE QUEEN', 'https://suno.com/song/9865faff-2390-4285-bca6-3ed44dff079c'),
+            track('THROAT OF LIGHT', 'DELUXE QUEEN', 'https://suno.com/song/f7fafb02-bc29-4a7d-8422-1e2a4712da97'),
+            track('THE SYMBOL OF THE FUTURE', 'DELUXE QUEEN', 'https://suno.com/song/c633212c-4da2-40ad-a839-8f441e064d13'),
+            track('NEXT SONG', 'DELUXE QUEEN', 'https://suno.com/song/45a3c22c-3628-4649-b3c3-aaf6ef0b62c5'),
+            track('STILL SINGING', 'DELUXE QUEEN', 'https://suno.com/song/96eac0d2-cad6-4313-8157-44549e42a8d2'),
+            track('AFTER VOICE', 'DELUXE QUEEN', 'https://suno.com/song/f0433960-95f2-4e50-bda8-8c774f128f89'),
+            track('THE LAST VOTE', 'DELUXE QUEEN', 'https://suno.com/song/97cea7f6-1759-4b17-b9d7-d5ed8d770c80'),
+        ],
+    ],
+
+    'body-clock' => [
+        'label' => 'BODY CLOCK',
+        'tracks' => [
+            track('PREMIER IMPACT', 'BODY CLOCK', 'https://suno.com/song/005946ce-134b-4a1e-9611-dcabe89f712b'),
+            track('DERRIÈRE TOUT LE MONDE', 'BODY CLOCK', 'https://suno.com/song/74bd47c6-4d5c-44ff-86a2-59a6a7f639ba'),
+            track('MÉMOIRE MUSCULAIRE', 'BODY CLOCK', 'https://suno.com/song/434670fa-1073-4f70-9e2f-9c1e699c24de'),
+            track('LA SALLE QUI SONNE', 'BODY CLOCK', 'https://suno.com/song/5bbd2405-c9ef-436a-aa06-3a7e3194b880'),
+            track('DOIGTS BANDÉS (S)', 'BODY CLOCK', 'https://suno.com/song/1761e4d7-efa9-4833-8145-90171ad9f88b'),
+            track('BODY CLOCK', 'BODY CLOCK', 'https://suno.com/song/5b96aa50-9ed2-4313-adc0-1c60b4d4f9d6'),
+        ],
+    ],
+
+    'the-shape-i-left' => [
+        'label' => 'THE SHAPE I LEFT',
+        'tracks' => [
+            track('NOTHING PERSONAL', 'THE SHAPE I LEFT', 'https://suno.com/song/d14da42e-68ab-466d-bd2e-236dffbabcda'),
+            track('DEAD CHANNEL', 'THE SHAPE I LEFT', 'https://suno.com/song/f18b4468-4d34-4053-99e0-ff2f3d54e219'),
+            track('RENTAL ROOM', 'THE SHAPE I LEFT', 'https://suno.com/song/8b9a3f84-70fd-44d6-a9f0-ba0c394071ec'),
+            track('OLD WOUND RADIO', 'THE SHAPE I LEFT', 'https://suno.com/song/99cd3153-4b92-47d3-88bc-f3fd8eb19e24'),
+            track('WHAT STAYED', 'THE SHAPE I LEFT', 'https://suno.com/song/3b3f7060-9594-4eed-89e3-70276367f02a'),
+            track('THE SHAPE I LEFT', 'THE SHAPE I LEFT', 'https://suno.com/song/2837e353-3f18-420d-b72a-194371dc61e4'),
+        ],
+    ],
 ];
 
 $trackTabs = [

@@ -11,8 +11,26 @@ if (!function_exists('syzygy_esc')) {
 if (!function_exists('syzygy_slugify')) {
     function syzygy_slugify(string $value): string
     {
-        $value = strtolower(trim($value));
-        $value = preg_replace('/[^a-z0-9]+/i', '-', $value) ?? '';
+        $value = trim($value);
+
+        if ($value === '') {
+            return '';
+        }
+
+        if (class_exists('Transliterator')) {
+            $converted = transliterator_transliterate('Any-Latin; Latin-ASCII;', $value);
+            if (is_string($converted) && $converted !== '') {
+                $value = $converted;
+            }
+        } else {
+            $converted = iconv('UTF-8', 'ASCII//TRANSLIT//IGNORE', $value);
+            if ($converted !== false && $converted !== '') {
+                $value = $converted;
+            }
+        }
+
+        $value = strtolower($value);
+        $value = preg_replace('/[^a-z0-9]+/', '-', $value) ?? '';
         return trim($value, '-');
     }
 }

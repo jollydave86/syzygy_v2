@@ -1,0 +1,49 @@
+{
+    "playlist_id": "00f16a2c-f705-45e4-89d8-949ed22cd559",
+    "name": "LYRA STARIC  - Body Clock",
+    "image_url": "https://cdn2.suno.ai/f9176cd0.jpeg",
+    "clips": [
+        {
+            "n": 1,
+            "title": "PREMIER IMPACT",
+            "id": "005946ce-134b-4a1e-9611-dcabe89f712b",
+            "image_url": "https://cdn2.suno.ai/6cb8e2a6-bbcb-4707-ab5b-44d9145a803d.jpeg",
+            "is_public": true
+        },
+        {
+            "n": 2,
+            "title": "DERRI\u00c8RE TOUT LE MONDE",
+            "id": "74bd47c6-4d5c-44ff-86a2-59a6a7f639ba",
+            "image_url": "https://cdn2.suno.ai/video_gen_56ab5b8f-8b85-4366-83ac-5d4670e958ca_video_upload_56ab5b8f-8b85-4366-83ac-5d4670e958ca_cover_snapshot_0s_1784238331_image.jpeg",
+            "is_public": true
+        },
+        {
+            "n": 3,
+            "title": "M\u00c9MOIRE MUSCULAIRE",
+            "id": "434670fa-1073-4f70-9e2f-9c1e699c24de",
+            "image_url": "https://cdn2.suno.ai/video_gen_5bde386e-7d21-4a66-8d6e-89b6ca11e5cd_video_upload_5bde386e-7d21-4a66-8d6e-89b6ca11e5cd_cover_snapshot_0s_1784674015_image.jpeg",
+            "is_public": true
+        },
+        {
+            "n": 4,
+            "title": "LA SALLE QUI SONNE",
+            "id": "5bbd2405-c9ef-436a-aa06-3a7e3194b880",
+            "image_url": "https://cdn2.suno.ai/video_gen_af0b5006-fc49-4d07-a867-beaed02aae08_video_upload_af0b5006-fc49-4d07-a867-beaed02aae08_cover_snapshot_0s_1784674187_image.jpeg",
+            "is_public": true
+        },
+        {
+            "n": 5,
+            "title": "DOIGTS BAND\u00c9S (S)",
+            "id": "1761e4d7-efa9-4833-8145-90171ad9f88b",
+            "image_url": "https://cdn2.suno.ai/95a2bb34-b9b9-496f-9de8-024ed11bd8f5.jpeg",
+            "is_public": true
+        },
+        {
+            "n": 6,
+            "title": "BODY CLOCK",
+            "id": "5b96aa50-9ed2-4313-adc0-1c60b4d4f9d6",
+            "image_url": "https://cdn2.suno.ai/f6b9709d-3537-4f0a-a096-d0717df3fbab.jpeg",
+            "is_public": true
+        }
+    ]
+}

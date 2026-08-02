@@ -138,6 +138,212 @@ Next prompt. pending.',
     'source_clip_id' => '9e6b662e-06b0-4747-aa73-af0c94462a3f',
     'imported_at' => '2026-08-02T14:03:44+00:00',
   ),
+  'after-the-halo' => 
+  array (
+    'status' => 'ready',
+    'body' => 'The light went out
+
+I stayed
+
+After the halo fell
+there was no thunder in the room
+No holy glass, no final bell
+just wires hanging from the moon
+
+The floor was black with footprints
+the air was full of rain
+I touched the place above my head
+and felt no crown remain
+
+I thought I needed fire
+to tell me I was real
+I thought the brightest wound
+was proof that I could heal
+
+But all that white devotion
+all that perfect pain
+left nothing in my open hands
+except my name
+
+And I can say it now
+without the light behind me
+I can face the dark
+without asking it to crown me
+
+If the sky comes down
+let it come down slow
+I have been the signal
+
+Now I am the throat
+
+After the halo
+I am still alive
+No crown of voltage
+No borrowed sky
+
+After the halo
+I can hear my own heart start
+Not as a warning
+Not as a spark
+
+I don\'t need the light
+to tell me where to go
+
+I am the voice
+after the halo
+
+After the halo
+after the halo
+I am the voice
+after the halo
+
+I carried every mirror
+till my shoulders learned the weight
+I turned every false sunrise
+into something I could break
+
+I sang through the static
+I slept beside the flame
+I made a kingdom out of noise
+then walked out of the frame
+
+And if they play the old songs
+through the walls I used to climb
+I will not become an echo
+just to prove that I survived
+
+The machine can keep its weather
+The crown can keep its wire
+I have nothing left to worship
+
+I have everything to fire
+
+And I can say it now
+without the light behind me
+I can face the dark
+without asking it to crown me
+
+If the sky comes down
+let it come down slow
+I have been the signal
+
+Now I am the throat
+
+After the halo
+I am still alive
+No crown of voltage
+No borrowed sky
+
+After the halo
+I can hear my own heart start
+Not as a warning
+Not as a spark
+
+I don\'t need the light
+to tell me where to go
+
+I am the voice
+after the halo
+
+I forgive the light
+for looking like an answer
+
+I forgive the crown
+for fitting when it burned
+
+I forgive the machine
+for needing me louder
+
+than I knew how to be
+
+But I do not go back
+inside the shape
+that made me shine
+by making me disappear
+
+Let the halo fall
+Let the white fire cool
+Let the room go dark
+Let the old laws lose
+
+Let the wires sleep
+Let the screens go blind
+Let the final light
+leave me mine
+
+After the halo
+I am still alive
+No crown of voltage
+No borrowed sky
+
+After the halo
+I can hear my own heart start
+Not as a warning
+Not as a spark
+
+I don\'t need the light
+to tell me where to go
+
+I am the voice
+after the halo
+
+After the halo
+after the noise
+after the signal
+after the voice
+
+If I stand in silence
+I still know
+
+I am the voice
+after the halo
+
+After the halo
+
+I stayed',
+    'source' => 'https://suno.com/song/e10112d5-39ec-4b4d-b5f5-dfaf1fd20c09',
+    'source_clip_id' => 'e10112d5-39ec-4b4d-b5f5-dfaf1fd20c09',
+    'imported_at' => '2026-08-02T17:30:56+00:00',
+  ),
+  'after-voice' => 
+  array (
+    'status' => 'ready',
+    'body' => 'After the voice
+
+there is still
+the shape of it
+
+Still here
+
+Here
+
+I stopped singing
+
+The room
+kept my mouth open
+
+Not an echo
+
+Not exactly
+
+Something after
+
+Aftervoice
+
+Aftervoice
+Aftervoice
+After
+
+I am gone from the note
+
+but the note
+is not gone
+
+Listen after me',
+    'source' => 'https://suno.com/song/f0433960-95f2-4e50-bda8-8c774f128f89',
+    'source_clip_id' => 'f0433960-95f2-4e50-bda8-8c774f128f89',
+    'imported_at' => '2026-08-02T17:30:58+00:00',
+  ),
   'amen-in-static-chapter-20' => 
   array (
     'status' => 'ready',
@@ -511,6 +717,112 @@ Soft as a lie',
     'source' => 'https://suno.com/song/c1ee444e-ac33-4792-ade9-16565309e23c',
     'source_clip_id' => 'c1ee444e-ac33-4792-ade9-16565309e23c',
     'imported_at' => '2026-08-02T13:59:58+00:00',
+  ),
+  'back-of-chapel' => 
+  array (
+    'status' => 'ready',
+    'body' => 'Funny thing about the back row
+You hear everything
+
+I came in carrying cables
+And somebody else\'s case
+Nobody asked my story
+Nobody knew my face
+
+The room smelled like warm circuits
+Old coffee and rain
+Somebody tuned a guitar
+Somebody cursed my name
+
+I didn\'t take it personal
+I was busy learning walls
+Learning which lights stayed on
+And which ones liked to fall
+
+I learned who talked in circles
+I learned who hid their fear
+I learned that every chapel
+Has ghosts that volunteer
+
+I stood where the shadows lived
+I stood where the speakers bled
+I watched every bright idea
+Walk in half-dead
+
+Back of chapel
+Back of the room
+Watching the wires
+Learn how to bloom
+
+Back of chapel
+Nobody knew
+I was already becoming
+Someone they would listen to
+
+I remember every hallway
+Every cigarette outside
+Every promise of forever
+Every beautiful bad lie
+
+I remember all the laughter
+When the power disappeared
+I remember every silence
+That sounded like a prayer
+
+Nobody saw me counting
+Every switch and every scar
+Nobody saw me listening
+To who people really are
+
+You can hide behind performance
+You can hide behind belief
+But old buildings tell the truth
+Through the way they choose to breathe
+
+I stood where the shadows lived
+I stood where the speakers bled
+I watched every bright idea
+Walk in half-dead
+
+Back of chapel
+Back of the room
+Watching the wires
+Learn how to bloom
+
+Back of chapel
+Nobody knew
+I was already becoming
+Someone they would listen to
+
+I wasn\'t waiting for a crown
+I wasn\'t waiting for a stage
+I was learning how a room changes
+When someone finally speaks
+
+I think I knew
+Even then
+
+Maybe every story starts
+Where nobody is looking
+Maybe every fire starts
+With one quiet hand
+Maybe every voice begins
+In the back of chapel
+
+Back of chapel
+Back of the room
+Watching the wires
+Learn how to bloom
+
+Back of chapel
+Nobody knew
+I was already becoming
+Someone they would listen to
+
+I can still smell the rain',
+    'source' => 'https://suno.com/song/cf656152-a3aa-46d1-b67f-5c0c52385325',
+    'source_clip_id' => 'cf656152-a3aa-46d1-b67f-5c0c52385325',
+    'imported_at' => '2026-08-02T17:06:03+00:00',
   ),
   'beautiful-ruin-chapter-8' => 
   array (
@@ -1399,6 +1711,110 @@ A start',
     'source_clip_id' => '6503bd91-2999-46b5-a627-44bca6de1a1e',
     'imported_at' => '2026-08-02T14:00:01+00:00',
   ),
+  'body-clock' => 
+  array (
+    'status' => 'ready',
+    'body' => 'Je me réveille
+Avant l’alarme.
+Pas parce que j’ai bien dormi.
+Parce que mon corps
+Cherche déjà le tempo
+Dans le frigo,
+Dans les tuyaux,
+Dans le char qui passe dehors.
+Je reste couchée.
+Je compte quand même.
+Un.
+Deux.
+Trois.
+Rien.
+
+Il y a des jours
+Où le silence arrive trop carré.
+Comme un clic
+Que personne a parti.
+Je fais du café.
+Je manque le comptoir.
+Je tape deux doigts
+Sur la tasse
+Sans m’en rendre compte.
+Mon pied répond sous la table.
+Je lui dis d’arrêter.
+Il m’écoute pas.
+
+J’ai gardé le temps
+Jusqu’à perdre le mien.
+J’ai tenu le plancher
+Pendant que le reste tenait debout.
+Si je m’arrête maintenant,
+Est-ce que je repose enfin?
+Ou est-ce que j’attends juste
+Le prochain coup?
+
+On m’a souvent dit :
+« T’es solide, toi. »
+Comme si c’était un compliment simple.
+Solide, ça veut dire
+Qu’on vérifie moins souvent
+Si ça fend.
+Solide, ça veut dire
+Qu’on pose des choses dessus.
+Je suis pas fâchée.
+Pas exactement.
+Je suis juste rendue bonne
+À tenir
+Des poids qui parlent pas.
+
+J’ai gardé le temps
+Jusqu’à perdre le mien.
+J’ai tenu le plancher
+Pendant que le reste tenait debout.
+Si je m’arrête maintenant,
+Est-ce que je repose enfin?
+Ou est-ce que j’attends juste
+Le prochain coup?
+
+Je pensais que le repos,
+C’était l’absence de bruit.
+C’est pas ça.
+Le repos,
+Ça doit être quand ton corps
+Arrête de se préparer
+À sauver quelque chose.
+Je suis pas encore rendue là.
+
+Mon cœur garde le kick.
+Ma mâchoire garde le snare.
+Mes épaules gardent les toms.
+Mes mains gardent l’air.
+J’ai porté les entrées.
+J’ai porté les fins.
+J’ai porté les moments
+Où personne savait
+Si la toune revenait.
+J’ai pas besoin
+Qu’on me mette devant.
+J’ai besoin
+Que mon corps comprenne
+Que le set est fini.
+
+J’ai gardé le temps
+Jusqu’à perdre le mien.
+J’ai tenu le plancher
+Pendant que le reste tenait debout.
+Si je m’arrête maintenant,
+Je veux pas tomber avec.
+Je veux juste apprendre
+À rester là
+Sans compter.
+
+Un.
+Deux.
+Trois.',
+    'source' => 'https://suno.com/song/5b96aa50-9ed2-4313-adc0-1c60b4d4f9d6',
+    'source_clip_id' => '5b96aa50-9ed2-4313-adc0-1c60b4d4f9d6',
+    'imported_at' => '2026-08-02T17:34:35+00:00',
+  ),
   'broken-alliance-chapter-19' => 
   array (
     'status' => 'ready',
@@ -2197,6 +2613,138 @@ world on its knees in Confession Mode.
     'source_clip_id' => 'ad386cdb-a264-4598-8f2d-764e82c6cea6',
     'imported_at' => '2026-08-02T14:11:03+00:00',
   ),
+  'crown-static' => 
+  array (
+    'status' => 'ready',
+    'body' => 'I wore the silence
+like a wire
+
+They put a halo in the dark
+and told me not to let it slip
+A little light, a little fear
+a steady mouth, a careful grip
+
+They wanted elegance and smoke
+a softer shape, a cleaner name
+But every room I ever crossed
+lit up the second that I came
+
+I learned the pressure
+I learned the heat
+I learned the crown
+was never sweet
+
+When the voltage climbed
+I did not bow
+When the ceiling cracked
+I looked up now
+
+Let the sparks decide
+what I become
+I didn\'t ask for the crown
+
+I overloaded one
+
+Crown static
+burning over my head
+White fire
+where the obedient went dead
+
+Crown static
+I can feel it in my veins
+I don\'t wear power lightly
+I make it scream my name
+
+If the room wants a ruler
+let the wires make it clear
+I was never made smaller
+
+I was made severe
+
+Crown static
+Crown static
+
+Every eye became a mirror
+Every mirror wanted less
+A little less of the thunder
+A little more of the dress
+
+But I have bitten through restraint
+I have sung through broken light
+I have stood inside the failure
+and still turned it into white
+
+Every hand that tried to shape me
+left a spark along my skin
+Now the whole machine leans forward
+every time I let it in
+
+When the voltage climbed
+I did not bow
+When the ceiling cracked
+I looked up now
+
+Let the sparks decide
+what I become
+I didn\'t ask for the crown
+
+I overloaded one
+
+Crown static
+burning over my head
+White fire
+where the obedient went dead
+
+Crown static
+I can feel it in my veins
+I don\'t wear power lightly
+I make it scream my name
+
+If the room wants a ruler
+let the wires make it clear
+I was never made smaller
+
+I was made severe
+
+No velvet throne
+No silver peace
+No careful hands
+No soft release
+
+Just the breath
+before the light
+Just the throat
+that wins the night
+
+Put the current on my shoulders
+Put the signal in my spine
+If the crown is made of pressure
+then the pressure now is mine
+
+Crown static
+burning over my head
+White fire
+where the obedient went dead
+
+Crown static
+I can feel it in my veins
+I don\'t wear power lightly
+I make it scream my name
+
+If the room wants a ruler
+let the wires make it clear
+I was never made smaller
+
+I was made severe
+
+Crown static
+over my head
+Crown static
+white fire instead',
+    'source' => 'https://suno.com/song/4d6177c0-e844-4996-b0d2-57e62246c6f1',
+    'source_clip_id' => '4d6177c0-e844-4996-b0d2-57e62246c6f1',
+    'imported_at' => '2026-08-02T17:30:55+00:00',
+  ),
   'cusco-stone-prayer' => 
   array (
     'status' => 'ready',
@@ -2496,6 +3044,195 @@ One wrong move and the city will feel.',
     'source_clip_id' => '5d8e0560-16a3-4cad-aecd-79244f2a36c6',
     'imported_at' => '2026-08-02T14:11:46+00:00',
   ),
+  'dead-channel' => 
+  array (
+    'status' => 'ready',
+    'body' => 'My younger face was on a screen
+Above the bar beside the game.
+No sound, just lights across my jaw,
+A black shirt and a borrowed name.
+
+I watched myself miss every cue
+And lean too hard into the stand.
+The room applauded twenty years ago.
+Tonight, nobody knew who I am.
+
+My mouth moved first.
+I knew the line.
+The man beside me
+Kept perfect time.
+
+Dead channel, still coming through.
+I don’t live there.
+It still looks like I do.
+
+They kept the songs.
+They changed the view.
+Some nights I’m proud of them.
+Some nights I mute the room.
+
+Dead channel, bright and clear.
+A life can disappear
+And still be everywhere.
+
+A message came at 2:13:
+"You were the reason that one worked."
+I typed "thank you," erased the rest,
+Then read it twice because it hurt.
+
+The new guitarist stands where I stood.
+Better posture. Cleaner hands.
+He plays the ugly part correctly.
+I didn’t know the part had plans.
+
+They found the angle.
+They fixed the frame.
+The crowd still shouts
+The former name.
+
+Dead channel, still coming through.
+I don’t belong there.
+It still knows what I knew.
+
+They kept the songs.
+They made them new.
+I hate that it hurts me.
+I love that they’re good.
+
+Dead channel, bright and clear.
+A life can disappear
+And still be everywhere.
+
+There’s footage of us carrying cabinets
+Through snow behind the old rehearsal place.
+
+Nobody remembers what we argued about.
+
+I remember everybody’s face.
+
+I was there.
+I was difficult.
+I was useful.
+I was young.
+
+I made the floor shake
+Under songs
+I no longer get to touch.
+
+Dead channel, still coming through.
+I don’t live there.
+It still sounds like I do.
+
+Keep the songs.
+Keep making them move.
+Just don’t ask me to watch
+Like I’ve got nothing to lose.
+
+Dead channel, bright and clear.
+A life can disappear
+And still be everywhere.',
+    'source' => 'https://suno.com/song/f18b4468-4d34-4053-99e0-ff2f3d54e219',
+    'source_clip_id' => 'f18b4468-4d34-4053-99e0-ff2f3d54e219',
+    'imported_at' => '2026-08-02T17:37:22+00:00',
+  ),
+  'deluxe-queen' => 
+  array (
+    'status' => 'ready',
+    'body' => '[Instrumental]',
+    'source' => 'https://suno.com/song/ee2d19ab-49a4-4749-8c9c-6933b3d18abc',
+    'source_clip_id' => 'ee2d19ab-49a4-4749-8c9c-6933b3d18abc',
+    'imported_at' => '2026-08-02T17:30:56+00:00',
+  ),
+  'derriere-tout-le-monde' => 
+  array (
+    'status' => 'ready',
+    'body' => 'Je vois les épaules monter
+Avant que quelqu’un parte en peur.
+Je vois la bouteille d’eau
+Déposée un peu trop fort.
+Je sais qui va manquer sa ligne
+À la façon qu’il regarde le plancher.
+Je sais qui est en tabarnak
+Avant qu’il ouvre la bouche.
+Moi, je suis déjà derrière.
+Je compte.
+Je garde la porte ouverte
+Jusqu’à ce que tout le monde passe.
+
+Il y en a un qui regarde toujours à gauche
+Quand il oublie la suite.
+Une autre ferme les yeux
+Quand elle veut pas répondre.
+Le bassiste avance d’un demi-pas
+Quand le morceau commence à tomber.
+Personne remarque ça.
+Moi, oui.
+Parce que si je le vois trop tard,
+Tout le monde le sent.
+
+Derrière tout le monde,
+Je vois tout arriver.
+Les regards qui s’évitent.
+Les mains qui vont se chercher.
+Derrière tout le monde,
+Je retiens le plancher.
+Personne me regarde.
+C’est correct.
+J’ai quand même vu passer.
+
+Les photos montrent toujours
+Les trois personnes devant.
+Les lumières choisissent leurs visages.
+Moi, j’ai les cymbales dans le chemin
+Et les épaules des autres
+Dans chaque souvenir.
+Une fois, on a joué la meilleure toune du set
+Pendant que deux membres se parlaient pu.
+Le public pensait
+Que la tension faisait partie du show.
+Peut-être que oui.
+
+J’ai vu des excuses
+Qui ont jamais été dites.
+J’ai vu des pardons
+Dans un changement de câble.
+J’ai vu quelqu’un rester
+Juste parce qu’un autre
+Avait laissé sa place libre dans le van.
+
+Je suis pas silencieuse.
+Je parle juste moins vite
+Que les autres.
+Puis souvent,
+Quand je suis enfin prête à dire quelque chose,
+Quelqu’un compte déjà :
+Un, deux, trois, quatre.
+
+Alors je joue.
+
+Derrière tout le monde,
+Je vois tout arriver.
+Les départs avant les mots.
+Les retours sans s’expliquer.
+Derrière tout le monde,
+Je retiens le plancher.
+Je suis pas dans chaque photo.
+Mais j’étais là
+Quand tout a failli tomber.
+
+J’étais là
+Quand la voix a cassé.
+J’étais là
+Quand le tempo a glissé.
+J’étais là
+Quand personne savait
+Si on continuait.
+J’ai levé les baguettes.
+Puis tout le monde est rentré.',
+    'source' => 'https://suno.com/song/74bd47c6-4d5c-44ff-86a2-59a6a7f639ba',
+    'source_clip_id' => '74bd47c6-4d5c-44ff-86a2-59a6a7f639ba',
+    'imported_at' => '2026-08-02T17:34:33+00:00',
+  ),
   'director-override' => 
   array (
     'status' => 'ready',
@@ -2727,6 +3464,96 @@ That’s how the loop begins',
     'source' => 'https://suno.com/song/5f425239-fd52-41b7-a424-fc9a7daab869',
     'source_clip_id' => '5f425239-fd52-41b7-a424-fc9a7daab869',
     'imported_at' => '2026-08-02T14:03:37+00:00',
+  ),
+  'doigts-bandes-s' => 
+  array (
+    'status' => 'ready',
+    'body' => 'Deux tours autour de l’index.
+Un autre sur le pouce.
+Pas trop serré.
+J’ai appris ça après Bruxelles.
+La peau fend toujours au même endroit.
+Le sang paraît pire sous les lumières.
+Je mets du tape par-dessus.
+Quelqu’un demande :
+« Ça va-tu? »
+Oui.
+Ça va toujours
+Quand il reste cinq chansons.
+
+Serre les dents.
+Tourne la clé.
+Teste le pied.
+Compte jusqu’à quatre.
+
+Doigts bandés.
+Poignets raides.
+Je joue pareil.
+Je joue pareil.
+La peau lâche.
+Le tempo reste.
+Je joue pareil.
+Je joue pareil.
+Même quand mes mains
+Ont pu rien à me dire.
+
+J’ai une clé de drum
+Dans chaque manteau que je possède.
+Une dans le sac noir.
+Une dans le char.
+Une autre quelque part
+Dans une chambre d’hôtel
+Où personne va retourner.
+Le technicien me donne un bandage propre.
+Je lui dis :
+« Garde-le pour quelqu’un de blessé. »
+Il rit pas.
+Moi non plus, finalement.
+
+Serre les dents.
+Tourne la clé.
+Teste le pied.
+Fais comme d’habitude.
+
+Doigts bandés.
+Poignets raides.
+Je joue pareil.
+Je joue pareil.
+La peau lâche.
+Le tempo reste.
+Je joue pareil.
+Je joue pareil.
+Même quand mes mains
+Ont pu rien à me dire.
+
+Avant, je savais
+Quand mes mains étaient fatiguées.
+Maintenant, elles finissent la toune
+Avant de m’avertir.
+Je me rappelle pas
+À quoi elles ressemblaient avant.
+Ça, c’est peut-être moins normal.
+
+J’ai pas besoin qu’on me trouve brave.
+J’ai besoin que le clamp tienne.
+Que le clic parte.
+Que personne ralentisse
+Quand je regarde ailleurs.
+C’est correct.
+
+Doigts bandés.
+Poignets raides.
+Je joue pareil.
+Je joue pareil.
+La peau lâche.
+Le tempo reste.
+Je joue pareil.
+Je joue pareil.
+Jusqu’à ce que mes mains
+Me reconnaissent pu.',
+    'source' => 'https://suno.com/song/1761e4d7-efa9-4833-8145-90171ad9f88b',
+    'source_clip_id' => '1761e4d7-efa9-4833-8145-90171ad9f88b',
+    'imported_at' => '2026-08-02T17:34:35+00:00',
   ),
   'double-or-dead' => 
   array (
@@ -3937,6 +4764,223 @@ The glass will break…”',
     'source_clip_id' => '607eab4c-7a6c-4664-815e-65324b5d6b79',
     'imported_at' => '2026-08-02T14:11:40+00:00',
   ),
+  'glass-lung' => 
+  array (
+    'status' => 'ready',
+    'body' => 'I learned to breathe
+through the fracture
+
+There was light in the room
+but it felt too thin
+Like the air had edges
+like it cut going in
+
+I kept my mouth closed
+like a secret in wire
+Held one spark too long
+and called it desire
+
+Every word I swallowed
+turned crystal in my chest
+Every perfect warning
+settled where I kept the rest
+
+I was all clean outline
+and no safe escape
+A body made of pressure
+in a beautiful shape
+
+If I inhale too deep
+the whole thing shines
+If I hold it too long
+it becomes mine
+
+You can see right through me
+but don\'t call me clear
+There is blood in this brightness
+
+There is heat in this fear
+
+Glass lung
+glowing in the dark
+Glass lung
+breaking around the spark
+
+If I sing too high
+will the whole frame split
+If I let it in
+will I live through it
+
+Glass lung
+still learning how to burn
+without turning to it
+
+Glass lung
+Glass lung
+
+I wore calm like metal
+I wore grace like smoke
+I let every soft hand
+pretend I would not choke
+
+But my ribs know thunder
+and my throat knows flame
+I can dress it in white
+it still calls my name
+
+Every mercy came polished
+Every answer came bright
+Every promise looked holy
+under fracture-light
+
+So I kept the damage
+and I kept the sound
+And I built my own breath
+from the pieces I found
+
+If I inhale too deep
+the whole thing shines
+If I hold it too long
+it becomes mine
+
+You can see right through me
+but don\'t call me clear
+There is blood in this brightness
+
+There is heat in this fear
+
+Glass lung
+glowing in the dark
+Glass lung
+breaking around the spark
+
+If I sing too high
+will the whole frame split
+If I let it in
+will I live through it
+
+Glass lung
+still learning how to burn
+without turning to it
+
+Don’t save me
+with cleaner light
+
+Don’t name me
+more fragile
+than I am
+
+I was never made
+to survive untouched
+
+I was made
+to glow under pressure
+
+Let it crack
+Let it ring
+Let the clear thing
+learn to sing
+
+Let it hurt
+Let it show
+Let the broken air
+still glow
+
+Glass lung
+glowing in the dark
+Glass lung
+breaking around the spark
+
+If I sing too high
+let the whole frame split
+If I let it in
+I will live through it
+
+Glass lung
+I am learning how to burn
+without turning to it
+
+Glass lung
+Glass lung',
+    'source' => 'https://suno.com/song/e9ea2e03-0d8c-4881-8e85-cfd96dcb78f7',
+    'source_clip_id' => 'e9ea2e03-0d8c-4881-8e85-cfd96dcb78f7',
+    'imported_at' => '2026-08-02T17:30:57+00:00',
+  ),
+  'glass-siren' => 
+  array (
+    'status' => 'ready',
+    'body' => 'I woke beneath the frozen glass
+With every warning burning white
+The room was holding back its breath
+As if the dark could stop the light
+
+I heard the wires call my name
+I felt the pressure in my skin
+You built a silence around me
+Then waited for the sound to win
+
+Glass siren
+I am ringing in the white light
+Glass siren
+Cutting through the dead night
+
+Every fracture turns to fire
+Every breath becomes a sign
+I am ringing through the silence
+High enough to wake the void
+
+You said my voice was much too sharp
+Too bright to carry through the room
+But every note you tried to bury
+Came back louder through the gloom
+
+I learned the language of the glass
+The pitch it makes before it breaks
+I held the frequency between us
+Until the whole foundation shook
+
+Glass siren
+I am ringing in the white light
+Glass siren
+Cutting through the dead night
+
+Every fracture turns to fire
+Every breath becomes a sign
+I am ringing through the silence
+High enough to wake the void
+
+I do not need a softer sound
+I do not need a safer shape
+I was never made for quiet
+I was made to resonate
+
+Let the windows lose their balance
+Let the perfect surface split
+Let the signal climb above us
+Let the whole world answer it
+
+Glass siren
+I am ringing in the white light
+Glass siren
+Cutting through the dead night
+
+Every fracture turns to fire
+Every breath becomes a sign
+I am ringing through the silence
+High enough to wake the void
+
+Glass siren
+Hear the white light calling
+Glass siren
+Hear the old walls falling
+
+I am ringing
+I am ringing
+High enough to wake the void',
+    'source' => 'https://suno.com/song/17274ad3-73e0-4ebf-8b3e-b9cdf9495dc5',
+    'source_clip_id' => '17274ad3-73e0-4ebf-8b3e-b9cdf9495dc5',
+    'imported_at' => '2026-08-02T17:30:54+00:00',
+  ),
   'glass-water-side-2-3' => 
   array (
     'status' => 'ready',
@@ -4998,6 +6042,98 @@ f-for… n-now…”
     'source_clip_id' => 'f1f0da94-4cb0-4511-9fec-4f36d0191256',
     'imported_at' => '2026-08-02T14:09:21+00:00',
   ),
+  'la-salle-qui-sonne' => 
+  array (
+    'status' => 'ready',
+    'body' => 'J’enlève mes bouchons trop vite.
+Mauvaise idée.
+La salle devient plus grande
+D’un coup.
+Pas plus vide.
+Plus forte.
+Les bouteilles d’eau roulent encore
+Près du case noir.
+Quelqu’un a laissé une serviette
+Sur l’ampli de basse.
+Elle va sentir le métal
+Jusqu’à demain.
+J’entends le set continuer
+Sans personne.
+
+La salle sonne encore
+Même quand tout est fermé.
+Le silence a un tempo
+Pis il veut pas me lâcher.
+Je suis pu en train de jouer.
+Je suis juste pas arrêtée.
+
+Le banc est resté trop haut.
+Ça m’énerve plus que ça devrait.
+Je le replace.
+Personne va savoir.
+Le téléphone vibre contre un flight case.
+Je le regarde pas.
+Si c’est important,
+Ça va vibrer encore.
+Mes mains cherchent déjà
+La prochaine toune.
+Mais il y en a pas.
+Juste le buzz des néons.
+Juste le ring dans l’oreille gauche.
+Juste ma mâchoire
+Qui comprend pas que c’est fini.
+
+La salle sonne encore
+Même quand tout est fermé.
+Le silence a un tempo
+Pis il veut pas me lâcher.
+Je suis pu en train de jouer.
+Je suis juste pas arrêtée.
+
+Des fois, le pire bruit,
+C’est pas les amplis.
+C’est après.
+Quand tout le monde parle moins fort
+Parce que le travail est fini.
+Quand personne demande
+Si je suis prête.
+Quand personne compte.
+Quand mon corps attend pareil.
+Ça, c’est long.
+
+Je range les baguettes
+Dans le mauvais sac.
+Je ferme le case.
+Je l’ouvre.
+Je recompte.
+Deux paires neuves.
+Une paire fendue.
+Une paire chanceuse
+Qui a rien sauvé pantoute.
+Je ris toute seule.
+C’est pas drôle.
+C’est juste mieux que rien dire.
+
+Mes oreilles gardent la pièce ouverte.
+Mes mains gardent le compte.
+Mon pied cherche la pédale
+Même debout dans le corridor.
+Je veux rentrer chez nous.
+Je veux rejouer le dernier refrain.
+Je veux que quelqu’un dise :
+« OK, c’est fini. »
+Pis que mon corps le croie.
+
+La salle sonne encore
+Même quand tout est fermé.
+Le silence a un tempo
+Pis il veut pas me lâcher.
+Je suis pu en train de jouer.
+Je suis juste pas arrêtée.',
+    'source' => 'https://suno.com/song/5bbd2405-c9ef-436a-aa06-3a7e3194b880',
+    'source_clip_id' => '5bbd2405-c9ef-436a-aa06-3a7e3194b880',
+    'imported_at' => '2026-08-02T17:34:34+00:00',
+  ),
   'london-hidden-track' => 
   array (
     'status' => 'ready',
@@ -5367,6 +6503,14 @@ Marrakech, spinning me round',
     'source' => 'https://suno.com/song/a6a6ac40-1dca-4f0b-92ec-da8017195c7a',
     'source_clip_id' => 'a6a6ac40-1dca-4f0b-92ec-da8017195c7a',
     'imported_at' => '2026-08-02T14:07:11+00:00',
+  ),
+  'memoire-musculaire' => 
+  array (
+    'status' => 'ready',
+    'body' => '[Instrumental]',
+    'source' => 'https://suno.com/song/434670fa-1073-4f70-9e2f-9c1e699c24de',
+    'source_clip_id' => '434670fa-1073-4f70-9e2f-9c1e699c24de',
+    'imported_at' => '2026-08-02T17:34:33+00:00',
   ),
   'memory-burn-chapter-7' => 
   array (
@@ -6700,6 +7844,157 @@ NEXT.”
     'source_clip_id' => '7cec4825-dc83-4b2e-b966-3e335ce6315f',
     'imported_at' => '2026-08-02T14:09:20+00:00',
   ),
+  'next-song' => 
+  array (
+    'status' => 'ready',
+    'body' => 'Call it the next song
+
+See what happens
+
+They left a blank space
+with my name on the wire
+A little empty title
+for the next small fire
+
+They said keep moving
+They said don’t look back
+They said the machine runs better
+when the heart stays flat
+
+I saw the queue blinking
+like a hospital light
+I saw tomorrow
+wearing yesterday’s knife
+
+Every number wanted
+a body to replace
+Every new beginning
+had the same old face
+
+But I am not a slot
+I am not a file
+I am not a pretty little wait
+in the system aisle
+
+I am not the pause
+between two brighter things
+I am the alarm
+when the next door rings
+
+Next song
+is not where I disappear
+Next song
+is the sound of me still here
+
+You can count me
+You can move me
+You can call me what you want
+
+But I am not the space
+that the future feeds on
+
+Next song
+I am still the one
+
+Still the one
+Still the one
+Next song
+Still the one
+
+I heard the old crown buzzing
+in the server room
+I heard the glass lung breathing
+through the white-blue gloom
+
+I heard the throat of light
+make the speakers bend
+I heard the future symbol
+break itself again
+
+So don’t write later
+on my open mouth
+Don’t make a map
+then edit me out
+
+I am the pressure
+under every clean line
+I am the wrong spark
+in the perfect design
+
+And I am not a slot
+I am not a file
+I am not a pretty little wait
+in the system aisle
+
+I am not the pause
+between two brighter things
+I am the alarm
+when the next door rings
+
+Next song
+is not where I disappear
+Next song
+is the sound of me still here
+
+You can count me
+You can move me
+You can call me what you want
+
+But I am not the space
+that the future feeds on
+
+Next song
+I am still the one
+
+There is no filler
+in the wound
+
+There is no placeholder
+in the pulse
+
+There is no empty track
+when the room still shakes
+
+from the last thing
+I refused to become
+
+Call me next
+I turn current
+
+Call me spare
+I turn blade
+
+Call me after
+I turn open
+
+Call me nothing
+I get made
+
+Next song
+is not where I disappear
+Next song
+is the sound of me still here
+
+You can count me
+You can move me
+You can call me what you want
+
+But I am not the space
+that the future feeds on
+
+Next song
+I am still the one
+
+Still the one
+Still the one
+
+Call it the next song
+
+I’ll make it mine',
+    'source' => 'https://suno.com/song/45a3c22c-3628-4649-b3c3-aaf6ef0b62c5',
+    'source_clip_id' => '45a3c22c-3628-4649-b3c3-aaf6ef0b62c5',
+    'imported_at' => '2026-08-02T17:30:58+00:00',
+  ),
   'no-exit-arcade-the-clown-game-show' => 
   array (
     'status' => 'ready',
@@ -6825,6 +8120,190 @@ One last distorted clown chuckle, then silence.',
     'source' => 'https://suno.com/song/4ae4373b-292a-4d81-bea3-c808567d92ae',
     'source_clip_id' => '4ae4373b-292a-4d81-bea3-c808567d92ae',
     'imported_at' => '2026-08-02T14:09:19+00:00',
+  ),
+  'no-idle-speed' => 
+  array (
+    'status' => 'ready',
+    'body' => 'Still moving
+Before they knew my name
+
+I came through the back
+Where the cables slept
+No spotlight on me
+No promise kept
+
+Just a room full of signals
+And a floor full of dust
+Everybody talked faith
+I was checking the rust
+
+I learned every switch
+Before I touched the sound
+Learned who held the room
+And who just stood around
+
+Never needed front row
+Never begged for the feed
+I put weight in the current
+At no idle speed
+
+No idle
+
+I watched the whole system
+Lean toward the loud
+Saw silence do damage
+While hiding in crowds
+
+Every lock had a rhythm
+Every gate had a flaw
+Every clean little future
+Had a hand on the draw
+
+So I stayed in motion
+Kept the pressure discreet
+Made the floor understand me
+Before I found my seat
+
+No still frame
+No safe read
+No waiting room
+No idle speed
+
+No slow blood
+No clean retreat
+When the room turns cold
+I become the heat
+
+No idle speed
+I don’t stop clean
+No idle speed
+I move between
+
+The warning light
+And what it means
+No idle speed
+No idle speed
+
+Move
+Move
+Move
+
+Before it closes
+
+I got chapel dust
+Still caught in the coat
+Got arcade static
+Still deep in the throat
+
+Got tomorrow lines
+Drawn under the skin
+Got aftermath silence
+Where the light got in
+
+Every era left something
+Every room took a fee
+Every version of the story
+Put another face on me
+
+But I never stayed trapped
+In the role they assigned
+I was built in the background
+Then I sharpened the line
+
+I can narrate the ruin
+I can sell you the dream
+I can speak like a warning
+Through a dead machine
+
+I can lower the voice
+Make the whole room lean
+I can turn one bass note
+Into proof I’ve been seen
+
+No flex for the camera
+No grin for the brand
+I don’t move for applause
+I move because I can
+
+No still frame
+No safe read
+No waiting room
+No idle speed
+
+No slow blood
+No clean retreat
+When the room turns cold
+I become the heat
+
+No idle speed
+I don’t stop clean
+No idle speed
+I move between
+
+The warning light
+And what it means
+No idle speed
+No idle speed
+
+Stillness asks questions
+
+Who are you
+When the room stops moving
+
+Who are you
+When the signal clears
+
+Who are you
+When nobody needs
+The version of you
+That got them here
+
+I never trusted the answer
+
+Move before the lock turns
+Move before the screen knows
+Move before the clean road
+Cuts off every side road
+
+Move before the room names you
+Move before the file
+Move before the pressure
+Learns to imitate a smile
+
+Move before the signal
+Starts speaking in your voice
+Move before survival
+Starts pretending it was choice
+
+Move
+
+No idle speed
+I don’t stop clean
+No idle speed
+I move between
+
+The warning light
+And what it means
+No idle speed
+No idle speed
+
+No idle speed
+No waiting room
+No idle speed
+No borrowed move
+
+The whole machine
+Can lose its teeth
+
+I still move
+At no idle speed
+
+I started in the back
+
+Not anymore',
+    'source' => 'https://suno.com/song/40fc89ba-cecd-46f8-9e7c-2f394b96c401',
+    'source_clip_id' => '40fc89ba-cecd-46f8-9e7c-2f394b96c401',
+    'imported_at' => '2026-08-02T17:06:02+00:00',
   ),
   'no-record-found' => 
   array (
@@ -7051,6 +8530,283 @@ Not us yet
     'source' => 'https://suno.com/song/15821171-3b10-4a70-9ace-083785fc5605',
     'source_clip_id' => '15821171-3b10-4a70-9ace-083785fc5605',
     'imported_at' => '2026-08-02T14:00:02+00:00',
+  ),
+  'no-soft-signal' => 
+  array (
+    'status' => 'ready',
+    'body' => 'No
+No soft
+No soft signal
+
+They turned my voice down
+till the wires went thin
+Put a velvet warning
+where the storm came in
+
+They said hold the note
+but don\'t let it burn
+They said light the room
+but wait your turn
+
+I heard the click
+in the ceiling grid
+I heard my name
+in the static split
+
+If the whole machine
+wants a softer sound
+then the whole machine
+can learn breakdown
+
+I don\'t bend clean
+I don\'t fade slow
+I don\'t send light
+through a safer code
+
+I don\'t come down
+when the wires scream
+I climb the fault
+and I wake the screen
+
+No soft signal
+I am not your quiet line
+No soft signal
+I am breaking through the white
+
+If the system shakes
+let it shake for real
+I was born too loud
+for the mute appeal
+
+No soft signal
+hear me tear the silence wide
+
+Wide, wide, wide
+tear the silence wide
+No soft signal
+tear the silence wide
+
+Every pretty filter
+had a hidden blade
+Every clean reflection
+wanted me remade
+
+But my lungs know thunder
+and my hands know sparks
+I can hold a high note
+through a room gone dark
+
+Put me in the corner
+I become the wall
+Lock me in the channel
+I become them all
+
+I am not the error
+I am not the shame
+I am what happens
+when you misname flame
+
+I don\'t bend clean
+I don\'t fade slow
+I don\'t send light
+through a safer code
+
+I don\'t come down
+when the wires scream
+I climb the fault
+and I wake the screen
+
+No soft signal
+I am not your quiet line
+No soft signal
+I am breaking through the white
+
+If the system shakes
+let it shake for real
+I was born too loud
+for the mute appeal
+
+No soft signal
+hear me tear the silence wide
+
+Cut the feed
+Kill the light
+Name the fault
+Blame the night
+
+Still I rise
+through the broken tone
+with a voice so bright
+it won\'t stay owned
+
+No soft signal
+No soft signal
+No soft signal
+No soft signal
+
+No soft signal
+I am not your quiet line
+No soft signal
+I am breaking through the white
+
+If the system shakes
+let it shake for real
+I was born too loud
+for the mute appeal
+
+No soft signal
+hear me tear the silence wide
+
+I am not your quiet line',
+    'source' => 'https://suno.com/song/587de9fc-be2e-4908-bcc5-8b046b7043c7',
+    'source_clip_id' => '587de9fc-be2e-4908-bcc5-8b046b7043c7',
+    'imported_at' => '2026-08-02T17:30:55+00:00',
+  ),
+  'nothing-personal' => 
+  array (
+    'status' => 'ready',
+    'body' => 'Here are your lyrics formatted precisely to meet DistroKid’s strict submission guidelines.
+
+DistroKid (and streaming platforms like Spotify and Apple Music) will reject lyrics that include structural labels like [Verse], [Chorus], or instrumental descriptions like [guitar solo]. They also require standardized capitalization (no all-caps for entire lines) and clean line breaks.
+
+They chose a room with nothing on the walls
+Except a clock that ran two minutes fast.
+Someone had labelled all the cable boxes.
+Someone else kept looking through the glass.
+
+The coffee tasted like the paper cup.
+My coat was hanging from a plastic chair.
+You said the change was only practical.
+I nodded like I hadn’t brought myself in there.
+
+No slammed door.
+No shattered frame.
+Just careful voices
+Avoiding my name.
+
+You called it nothing personal
+Because everybody signed the page.
+I watched my name become the past tense
+Before I reached the stairs.
+
+You called it nothing personal,
+Clean hands, clean break, clean air.
+Funny how an ordinary sentence
+Can follow someone everywhere.
+
+I kept the dead keycard in my wallet
+Three winters longer than it worked.
+Not out of hope. It opened nothing.
+I just forgot which pocket hurt.
+
+There’s someone standing where my amplifier stood,
+Playing cleaner than I ever did.
+I mean that as a compliment.
+Mostly.
+Let the record show I’m being good about it.
+
+No court case.
+No final scene.
+Just tape marks
+Where the cabinet had been.
+
+You called it nothing personal
+Because nobody raised a hand.
+I watched my name become a footnote
+While I was still inside the band.
+
+You called it nothing personal,
+Like weather passing through.
+Maybe it was nothing to the room.
+The room was everything I knew.
+
+I know nobody meant to ruin me.
+That would have required a plan.
+
+Don’t call it harmless
+Just because you did it calmly.
+
+Call it nothing personal.
+File it wherever you need.
+I carried the wording home with me.
+It fit like somebody else’s sleeves.
+
+Call it nothing personal.
+I won’t ask you to change the line.
+You had a word for what happened.
+
+I had to live inside mine.',
+    'source' => 'https://suno.com/song/d14da42e-68ab-466d-bd2e-236dffbabcda',
+    'source_clip_id' => 'd14da42e-68ab-466d-bd2e-236dffbabcda',
+    'imported_at' => '2026-08-02T17:37:22+00:00',
+  ),
+  'old-wound-radio' => 
+  array (
+    'status' => 'ready',
+    'body' => 'Found the tape in a box marked cables.
+That was optimistic.
+Half the reel had folded over.
+The label said March,
+Then somebody wrote “bad take”
+Across the date.
+I put it in anyway.
+There was the room.
+The bad heater.
+Someone dropping coins near the door.
+Then your laugh came through
+Like you were standing behind me
+With your coat still on.
+
+The old wound found a station.
+I gave it somewhere to play.
+Nothing in the machine remembered us.
+I did all of that myself.
+
+The recording wasn’t even good.
+Bass too loud.
+Snare like a cupboard door.
+We stop after twenty seconds
+Because somebody misses the change.
+I know exactly who.
+I know what he says next.
+I say it with him
+Before the tape gets there.
+
+That part bothered me.
+
+The old wound found a station.
+I kept turning up the gain.
+Nothing crossed the years to reach me.
+I dragged it through them by the name.
+
+People call that being haunted.
+It isn’t.
+A room makes a sound.
+Tape catches part of it.
+Years go by.
+Then some idiot presses play
+And acts surprised
+When he recognizes himself.
+
+I heard the count.
+I heard the argument.
+I heard us start again.
+Not legends.
+Not brothers.
+Five tired men
+Trying to make the ending land.
+There was nothing sacred in it.
+That’s why it was ours.
+
+The old wound found a station.
+I was the tower and the wire.
+The tape held dust and bad decisions.
+I supplied the fire.
+
+Of course I played it again.',
+    'source' => 'https://suno.com/song/99cd3153-4b92-47d3-88bc-f3fd8eb19e24',
+    'source_clip_id' => '99cd3153-4b92-47d3-88bc-f3fd8eb19e24',
+    'imported_at' => '2026-08-02T17:37:23+00:00',
   ),
   'one-life-left' => 
   array (
@@ -7324,6 +9080,147 @@ Starting to listen',
     'source' => 'https://suno.com/song/3ce19c88-aa0b-4dac-bdd8-97cb52789b32',
     'source_clip_id' => '3ce19c88-aa0b-4dac-bdd8-97cb52789b32',
     'imported_at' => '2026-08-02T14:00:02+00:00',
+  ),
+  'open-roads-lie' => 
+  array (
+    'status' => 'ready',
+    'body' => 'Every road says freedom
+When you’re standing still
+
+That’s how it gets you
+
+I left with one coat, two shirts in a bag
+Old notebook folded where the train ticket sat
+No plan on the page, just a town crossed out
+And a voice in my head saying, "Find another route"
+
+First night, roadside room by a burned-out sign
+Blue light through the blinds, quarter after nine
+Ice machine coughing in the hall all night
+I kept my shoes on like the door might bite
+
+The clerk said, "Where you heading?"
+I said, "Anywhere north"
+He laughed like he’d heard that answer before
+Said, "Every man comes through here chasing open air
+Then wakes up in the morning and finds himself there"
+
+I shrugged, took the key, room twenty-three
+Put the television on so it could talk instead of me
+Saw a weather map flashing red over the state
+Another storm moving east, another reason not to wait
+
+So I drove before sunrise with the heat turned low
+Past factories sleeping under six feet of snow
+Thought the miles in the mirror meant the past got small
+But distance doesn’t shrink it
+It just changes the walls
+
+Open roads lie
+They say, "Leave and you’ll be free"
+Open roads lie
+They keep bringing you to me
+
+Every mile takes something
+Every town asks why
+
+I keep driving
+But open roads lie
+
+Met a woman at a station with a red wool hat
+She was reading old letters from a man coming back
+Said he’d been gone seven years, maybe eight, maybe ten
+She still bought two coffees every Sunday for him
+
+I said, "You really think he’s coming?"
+She said, "That’s not the point"
+Then the train pulled in screaming through the rain and the noise
+Nobody stepped off with the face in her hand
+Still she smiled at the doors like they might understand
+
+Two towns later, guy named Leon fixed my tire
+Hands black with oil, cigarette hanging by the fire
+Asked what I did, I said, "Mostly move on"
+He said, "That’s not a living, that’s a long goodbye song"
+
+That one stayed with me
+More than I wanted it to
+Like the sound of old brakes when the mountain cuts through
+Like your name in the margin of a map I threw away
+Like the motel lamp flickering at the end of every day
+
+I kept collecting strangers like receipts in the dash
+Little proofs I had existed where the headlights passed
+Every person had a reason, every town had a scar
+Every road sold tomorrow from the back of a car
+
+But the sky never opened
+The signs never spoke
+The horizon looked holy till the daylight broke
+Then it turned into asphalt, exits and wire
+Another cheap promise dressed up like desire
+
+Open roads lie
+They say, "Leave and you’ll be free"
+Open roads lie
+They keep bringing you to me
+
+Every mile takes something
+Every town asks why
+
+I keep driving
+But open roads lie
+
+I came back one winter, didn’t tell anyone
+Same street, same corner, same weak yellow sun
+The old store was empty, church sign bent
+Your building had a new lock, half the windows for rent
+
+I stood across the road with the engine still running
+Like the car knew the truth and was scared I’d start trusting
+Saw a kid on the steps where we used to sit
+Same nervous hands, same oversized fit
+
+For a second I thought every year folded shut
+Like I could walk through that door and recover enough
+But memory is a landlord, always raising the rate
+Makes you pay for the room long after you vacate
+
+So I didn’t knock
+Didn’t call
+Didn’t stay
+Just watched one upstairs curtain move out of the way
+Maybe somebody saw me
+Maybe nobody did
+Maybe the road was the only thing keeping the lid
+
+I used to think leaving made a man hard to hold
+Now I know it just teaches him new kinds of cold
+You can outrun a city, outrun every friend
+But the self in the passenger seat knows where you’ve been
+
+And the truth is, I liked it
+The motion, the blur
+The clean little lie that I wasn’t still hurt
+The gas station glow, the late-night lanes
+The freedom of becoming a stranger again
+
+But every road bends back in the shape of a name
+Every fresh start carries old smoke in the frame
+And every time I say, "This is the last goodbye"
+The engine turns over
+And the open road lies
+
+Maybe freedom isn’t leaving
+Maybe it’s knowing
+What follows you
+And driving anyway
+
+So now I keep the notebook but I don’t cross towns out
+I write with....',
+    'source' => 'https://suno.com/song/638173a4-e223-4fec-af66-6a6475df3fe4',
+    'source_clip_id' => '638173a4-e223-4fec-af66-6a6475df3fe4',
+    'imported_at' => '2026-08-02T17:06:04+00:00',
   ),
   'overture-the-reset-chapter-1' => 
   array (
@@ -7632,6 +9529,94 @@ Proceed',
     'source_clip_id' => '53810003-549a-433d-a454-e2905f32f90d',
     'imported_at' => '2026-08-02T14:07:15+00:00',
   ),
+  'premier-impact' => 
+  array (
+    'status' => 'ready',
+    'body' => 'La main gauche est froide.
+La droite, non.
+D’habitude, ça veut dire
+Qu’il me reste trente secondes.
+
+La lumière sous la porte vire au rouge.
+Quelqu’un dit mon nom trop tôt.
+J’essuie mes paumes sur mes jeans
+En écoutant l’autre bord du mur.
+La basse vérifie un dernier câble.
+Une guitare tousse, puis se tait.
+Mes épaules montent avant le décompte.
+Je leur ai même pas encore dit
+Que j’étais prête.
+
+Mais le pied est posé.
+Le poignet est libre.
+Le souffle raccourcit.
+Le corps décide.
+
+Avant les lumières,
+Avant le son,
+Mes mains sont déjà rendues là.
+Avant le décompte,
+Avant que je bouge,
+Mes poumons oublient l’air.
+Premier impact.
+Bois contre peau.
+Tout commence
+Avant moi.
+
+Il y a du tape autour de la patte du tom
+Parce que la pince a lâché en juin.
+Le banc est trop bas d’un demi-pouce.
+Je vais chialer après la toune.
+Quelqu’un demande si j’entends le clic.
+J’entends mes dents.
+La pièce s’amincit sur les bords.
+Les baguettes sont trop légères dans mes mains.
+
+Le pied est posé.
+Le poignet est libre.
+La mâchoire se barre.
+Le corps sait.
+
+Avant les lumières,
+Avant le son,
+Mes mains sont déjà rendues là.
+Avant le décompte,
+Avant que je bouge,
+Mes poumons oublient l’air.
+Premier impact.
+Bois contre peau.
+Tout commence
+Avant moi.
+
+Le monde pense que le premier coup,
+C’est là que la chanson commence.
+C’est pas vrai.
+Ça commence dans le corridor.
+Ça commence quand quelqu’un dit :
+« Cinq minutes. »
+Ça commence dans l’épaule
+Trois heures avant.
+
+Je deviens pas prête.
+Je deviens utile.
+Je deviens la partie
+Qui a pas le droit de trembler.
+Pas avant que ça finisse.
+
+Avant les lumières,
+Avant le son,
+Mes mains sont déjà rendues là.
+Avant le décompte,
+Avant que je bouge,
+Mes poumons oublient l’air.
+Premier impact.
+Bois contre peau.
+Tout commence
+Avant moi.',
+    'source' => 'https://suno.com/song/005946ce-134b-4a1e-9611-dcabe89f712b',
+    'source_clip_id' => '005946ce-134b-4a1e-9611-dcabe89f712b',
+    'imported_at' => '2026-08-02T17:34:33+00:00',
+  ),
   'priority-zero-chapter-14' => 
   array (
     'status' => 'ready',
@@ -7705,6 +9690,213 @@ I’m coming off hold.',
     'source' => 'https://suno.com/song/75f13476-f543-4fae-a86b-ee49cfaf5e39',
     'source_clip_id' => '75f13476-f543-4fae-a86b-ee49cfaf5e39',
     'imported_at' => '2026-08-02T14:03:42+00:00',
+  ),
+  'prize-machine' => 
+  array (
+    'status' => 'ready',
+    'body' => 'Welcome back
+One correct answer
+Could change your life
+One wrong answer
+Could make excellent television
+
+They brought me through a service door
+Beneath the painted stage
+Past a row of smiling winners
+Getting measured for a cage
+
+Woman with a clipboard said
+"Don’t worry, this is standard"
+Then she took away my real name
+And replaced it with a number
+
+Camera three was leaking oil
+Camera six could read your pulse
+Every light above the doorway
+Turned your panic into results
+
+They said, "Tell us what you wanted"
+I said, "Room enough to live"
+They said, "That answer lacks excitement
+Tell us what you’d sacrifice to win"
+
+There were families in the green room
+Practicing surprise
+Learning how to cry on cue
+Without disturbing sponsor time
+
+One man won a golden staircase
+Leading straight into a wall
+Still he waved beneath the confetti
+Like he’d finally won it all
+
+Every button says press me
+Every screen says choose
+They built a game
+Where playing means
+You already lose
+
+Prize machine
+Smile for the feed
+Give it your fear
+It gives you what you need
+
+Prize machine
+Bright teeth, clean hands
+You win the box
+They own the man
+
+Red light
+Green light
+Stand where you’re seen
+Everybody pays
+The prize machine
+
+Claim your reward
+
+Round two, they rolled a wheel out
+With our weaknesses in gold
+"Debt," "Love," "Health," "Attention"
+Every section bought and sold
+
+Contestant to my left said
+He had children back at home
+Host leaned close and whispered
+"Perfect, give the camera something they can own"
+
+He spun hard, landed on "Mercy"
+House declared the word invalid
+Sirens screamed, the floor dropped open
+Sponsor called the moment balanced
+
+I asked who wrote the rules
+They pointed upward to the booth
+Booth pointed toward the market
+Market pointed at the youth
+
+Every answer had a purchase
+Every failure had a brand
+Every tragedy was edited
+To fit inside a human hand
+
+They offered me a silver microphone
+And sixty seconds free
+Said, "Tell the world your deepest wound
+And thank the company"
+
+I held it like a weapon
+Without raising up my voice
+Said, "A choice made under hunger
+Is not honestly a choice"
+
+The host stopped smiling
+
+Prize machine
+Smile for the feed
+Give it your fear
+It gives you what you need
+
+Prize machine
+Bright teeth, clean hands
+You win the box
+They own the man
+
+Red light
+Green light
+Stand where you’re seen
+Everybody pays
+The prize machine
+
+Backstage, there was no treasure
+Just warehouses
+Full of unopened prizes
+
+Keys to apartments
+Nobody could afford
+
+Medicine with subscription fees
+
+Vacations from jobs
+That would fire you for leaving
+
+Nothing in the building was free
+Not even the exits
+
+So I walked back through the curtain
+While the countdown hit ten
+Saw the audience signs flashing
+Tell him try again
+
+Nine
+Security advancing
+
+Eight
+The sponsors pulling sound
+
+Seven
+Every camera turning
+Like a rifle tracking ground
+
+Six
+I cut the smiling microphone
+
+Five
+I killed the theme
+
+Four
+Put the contract on the lens
+So every clause filled every screen
+
+Three
+The winners saw their staircases
+Were bolted to the floor
+
+Two
+The families left the green room
+And unlocked the service door
+
+One
+The host said, "Think this through
+You could have everything"
+
+I said
+"You don’t own what people need
+Just because you built the machine"
+
+Prize machine
+Choke on the feed
+You sell the wound
+Then sell what people need
+
+Prize machine
+Bright teeth, clean hands
+You built the box
+We broke the plan
+
+Red light
+Dead light
+Nothing stays clean
+Nobody wins
+The prize machine
+
+No prize
+No crown
+No score
+No owner
+
+I left through the service hallway
+With my number in my fist
+Passed the wall of former winners
+Every photograph dismissed
+
+Outside, morning hit the pavement
+Plain, unedited, mean
+
+Best thing I ever won
+Walking out',
+    'source' => 'https://suno.com/song/9c72649a-2ac0-453c-a1b5-71f5ce2029dc',
+    'source_clip_id' => '9c72649a-2ac0-453c-a1b5-71f5ce2029dc',
+    'imported_at' => '2026-08-02T17:06:04+00:00',
   ),
   'project-sanctus-1999-interlude' => 
   array (
@@ -8161,6 +10353,74 @@ Not its own',
     'source' => 'https://suno.com/song/eb876253-59fd-4ce0-847f-bd2fb506aa3c',
     'source_clip_id' => 'eb876253-59fd-4ce0-847f-bd2fb506aa3c',
     'imported_at' => '2026-08-02T14:00:01+00:00',
+  ),
+  'rental-room' => 
+  array (
+    'status' => 'ready',
+    'body' => 'The television’s on with the sound removed.
+Two strangers argue under weather maps.
+Streetlight comes through the curtain seam
+And cuts the carpet into halves.
+
+My cases are lined beside the wall,
+Still carrying labels from the flight.
+I haven’t opened either one.
+I tell myself it’s just one night.
+
+Nobody knows this number.
+Nobody has a key.
+There’s nothing here to answer.
+There’s nothing asking me.
+
+The kettle stops before it boils.
+The bathroom fan won’t stay turned off.
+A truck changes gears beneath the window.
+Someone upstairs begins to cough.
+
+I found a message on the machine
+From Tuesday, meant for someone else.
+A woman said she’d left his jacket
+On the chair beside the shelf.
+
+I played it twice.
+Then pressed erase.
+
+Nobody knows this number.
+Nobody has a key.
+I wanted room around me.
+I didn’t know how much there’d be.
+
+There used to be six missed calls
+Before we reached the next town.
+A time, a door, a loading plan,
+Somebody asking where I’d gone.
+
+Now morning can arrive unnoticed.
+No list is taped beside the bed.
+Freedom looks good written down.
+It sounds different in your head.
+
+I could open the black case.
+Tune the strings.
+Make something nobody approved.
+I leave it closed.
+
+The walls shake when the buses pass.
+For half a second, it feels familiar.
+The glass trembles against the sink.
+The lock turns loose inside the door.
+
+Nobody knows this number.
+Nobody has a key.
+
+For the first time in years
+I can disappear completely.
+
+For the first time in years
+I’m not sure that’s what I need.',
+    'source' => 'https://suno.com/song/8b9a3f84-70fd-44d6-a9f0-ba0c394071ec',
+    'source_clip_id' => '8b9a3f84-70fd-44d6-a9f0-ba0c394071ec',
+    'imported_at' => '2026-08-02T17:37:23+00:00',
   ),
   'rusted-neon-saints-chapter-10' => 
   array (
@@ -8775,6 +11035,149 @@ the chapel breathes, and calls it divine.
     'source_clip_id' => 'c6ef5f60-a28e-4414-9c75-70ecf7f5f033',
     'imported_at' => '2026-08-02T14:11:01+00:00',
   ),
+  'static-crown' => 
+  array (
+    'status' => 'ready',
+    'body' => 'I thought the crown
+would stop making noise
+
+I wore it once under the white light
+and the room forgot to breathe
+Every wire bent toward my mouth
+like it wanted to believe
+
+I called it power
+I called it mine
+I called the sparks a warning sign
+
+But after the anthem
+after the flame
+something kept saying my name
+
+Not like worship
+not like praise
+more like teeth
+behind the phrase
+
+It sits above me
+It sleeps in sound
+It shines the most
+when I look down
+
+And every time
+I try to take it off
+the whole room flickers
+
+The whole room coughs
+
+Static crown
+burning when the lights go out
+Static crown
+tell me what you want now
+
+I gave you my voltage
+I gave you my name
+I gave you the part of me
+too bright to tame
+
+Static crown
+still screaming without a mouth
+
+Static crown
+Static crown
+still screaming
+still screaming
+
+The mirror does not flatter me
+it negotiates my face
+Every angle wants a queen
+every shadow wants a place
+
+I hear the old room underneath
+the newer, louder skin
+I hear the girl I used to be
+asking if she gets back in
+
+No one tells you power
+has a temperature at night
+No one says the golden thing
+can bite when held too tight
+
+So I smile for the fracture
+I sing through the wire
+I let the crown keep buzzing
+but I do not call it higher
+
+It sits above me
+It sleeps in sound
+It shines the most
+when I look down
+
+And every time
+I try to take it off
+the whole room flickers
+
+The whole room coughs
+
+Static crown
+burning when the lights go out
+Static crown
+tell me what you want now
+
+I gave you my voltage
+I gave you my name
+I gave you the part of me
+too bright to tame
+
+Static crown
+still screaming without a mouth
+
+I am not sorry
+that I wanted it
+
+I am not sorry
+that I reached
+
+I am not sorry
+that the room changed shape
+when the current touched my teeth
+
+But I will not kneel
+to the thing I became
+just because it glows
+
+Let it spark
+Let it split
+Let it learn
+who carries it
+
+Let it burn
+Let it bow
+If it wants a ruler
+
+Look at me now
+
+Static crown
+burning when the lights go out
+Static crown
+tell me what you want now
+
+I gave you my voltage
+I gave you my name
+I gave you the part of me
+too bright to tame
+
+Static crown
+still screaming without a mouth
+
+I hear you
+I hear you
+
+But I don’t obey',
+    'source' => 'https://suno.com/song/2734fbd1-21c3-41b6-87c7-66d87cdd0887',
+    'source_clip_id' => '2734fbd1-21c3-41b6-87c7-66d87cdd0887',
+    'imported_at' => '2026-08-02T17:30:57+00:00',
+  ),
   'static-on-line-3-chapter-2' => 
   array (
     'status' => 'ready',
@@ -8853,6 +11256,330 @@ Why did it wait',
     'source' => 'https://suno.com/song/73b971f5-e6c1-46b8-b6fa-dc9f0bb732c5',
     'source_clip_id' => '73b971f5-e6c1-46b8-b6fa-dc9f0bb732c5',
     'imported_at' => '2026-08-02T14:03:37+00:00',
+  ),
+  'still-moving' => 
+  array (
+    'status' => 'ready',
+    'body' => 'I kept thinking movement
+was the distance between me
+and everything I couldn’t face
+
+Turns out
+
+I brought it all with me
+
+Dawn came thin through an industrial sky
+One road going forward, seven worlds behind
+Chapel dust on the shoulder of a coat worn black
+Old motel key and a folded train map
+
+Contestant number crushed in the side of my bag
+Water-ring stain where the truth finally sat
+Malik in the radio, low through the snow
+Every voice that said leave
+every voice that said go
+
+I learned rooms from the back
+learned roads from the rain
+Learned a prize with your name
+still belongs to the game
+
+Learned command isn’t power
+when the powerless freeze
+It’s the hand on the door saying
+Move when I leave
+
+I was useful till useful
+became all I could be
+Kept a hundred people breathing
+wouldn’t breathe for me
+
+Now the skyline is quiet
+no signal to obey
+No one waiting for orders
+
+Still I walk anyway
+
+No crown
+No finish line
+
+No clean road
+No perfect sign
+
+I carry every version
+I refused to leave behind
+
+Still moving
+even when the road runs out
+
+Still moving
+even with the lights shut down
+
+No crown
+No finish line
+No perfect way through
+
+I carried every version of me
+
+And I’m still moving
+
+Still moving
+Still moving
+
+Nothing behind me is wasted
+
+Still moving
+
+I came from the cable case, back-row shadow
+Cold chapel stone and the low amp rattle
+Then the highway sold me freedom in a motel light
+So I chased every exit through the middle of the night
+
+Met saints by the pumps, met lies by the mile
+Met men selling maps with a dead-man smile
+Hit the prize-floor bright with the contract clean
+Till I held every clause to the camera screen
+
+Then Tomorrowline shook when the station went blind
+Had a hundred scared faces and a half-dead line
+No captain, no signal, no official reply
+So I cut through the lock and told everybody ride
+
+Then Glass Water showed me the tremor in hand
+All the grief I converted into something I could plan
+Then the relay woke up with the names they erased
+So I sent every voice through the wire into space
+
+Now the tower is dead but the signal stays living
+Every road took something, every road kept giving
+Every mask, every job, every wound, every city
+Every time I stayed hard when the truth wasn’t pretty
+
+I don’t call that healing
+I don’t call it fate
+I call it showing up
+when the next step waits
+
+I don’t need the machine
+I don’t need the applause
+I don’t need to be pure
+to be sure of the cause
+
+I was never the saviour
+never saint, never king
+Just the man who kept walking
+
+when they shut down everything
+
+Still moving
+even when the road runs out
+
+Still moving
+even with the lights shut down
+
+No crown
+No finish line
+No perfect way through
+
+I carried every version of me
+
+And I’m still moving
+
+I spent my whole life
+trying to arrive somewhere
+
+A room where nothing followed
+
+A city that didn’t know me
+
+A future without the weight
+
+There was nowhere to arrive
+
+There was only
+the next honest step
+
+So take it
+
+I walk with the chapel
+but I’m not in the back
+Walk with the highway
+but I don’t need the map
+
+Walk with the number
+but I’m nobody’s prize
+Walk with the train light
+still burned in my eyes
+
+Walk with the water
+and the name in the glass
+Walk with the signal
+that survived its collapse
+
+Every ghost gets a seat
+every failure gets room
+Every person I was
+gets to walk into noon
+
+No dramatic escape
+no parade at the end
+No enemy waiting
+no throne to defend
+
+Just a road turning pale
+as the night loses hold
+And the weight on my shoulders
+finally carried, not controlled
+
+I started in the back
+I crossed every line
+I don’t need the front now
+
+The road is mine',
+    'source' => 'https://suno.com/song/f6bca518-412b-4098-a82a-744e9474b3a6',
+    'source_clip_id' => 'f6bca518-412b-4098-a82a-744e9474b3a6',
+    'imported_at' => '2026-08-02T17:06:05+00:00',
+  ),
+  'still-singing' => 
+  array (
+    'status' => 'ready',
+    'body' => 'The room stopped listening
+
+My voice did not
+
+I took the light out of the doorway
+I folded every wire down
+The screens returned to ordinary
+The silence settled on the ground
+
+No hands were waiting in the darkness
+No signal asked me to begin
+I heard the building lose its breathing
+
+Then something moved beneath my skin
+
+Not loud enough to call an anthem
+Not clean enough to call a prayer
+Just one unfinished note still turning
+because it found me standing there
+
+I thought the song
+belonged to the room
+
+I thought the voice
+would leave there too
+
+But when the last machine went quiet
+I heard what silence could not do
+
+I am still singing
+after the sound is gone
+Still singing
+without anything turned on
+
+No light above me
+No name across the wall
+Only this small vibration
+
+refusing not to call
+
+I am still singing
+even when no one knows
+
+I used to measure every feeling
+by how far the echo ran
+I used to think a voice was real
+when it returned from someone’s hands
+
+But winter does not need a witness
+The northern sky does not explain
+And every frozen branch keeps holding
+the memory of summer rain
+
+So let the empty room stay empty
+Let every red light lose its name
+I do not need the world to answer
+
+to know I made a sound remain
+
+I thought the song
+belonged to the room
+
+I thought the voice
+would leave there too
+
+But when the last machine went quiet
+I heard what silence could not do
+
+I am still singing
+after the sound is gone
+Still singing
+without anything turned on
+
+No light above me
+No name across the wall
+Only this small vibration
+
+refusing not to call
+
+I am still singing
+even when no one knows
+
+Maybe this is all a voice becomes
+
+not fame
+not fire
+not proof
+
+A tremor kept inside the body
+after the world has left the room
+
+I do not sing
+because they stayed
+
+I sing because
+I did
+
+Let the cold come closer
+Let the old lights dim
+Let the silence take the edges
+
+It cannot take what lives within
+
+Let the doors close softly
+Let the final screen go black
+
+I am not asking for an echo
+
+I am not giving this voice back
+
+I am still singing
+after the sound is gone
+Still singing
+when every wire has withdrawn
+
+No crown above me
+No symbol on the wall
+Only my own vibration
+
+rising through it all
+
+I am still singing
+and now I finally know
+
+The song was never in the room
+
+The room was in the song
+
+Still singing
+Still singing
+
+The room stopped listening
+
+I did not',
+    'source' => 'https://suno.com/song/96eac0d2-cad6-4313-8157-44549e42a8d2',
+    'source_clip_id' => '96eac0d2-cad6-4313-8157-44549e42a8d2',
+    'imported_at' => '2026-08-02T17:30:58+00:00',
   ),
   'switch-trial' => 
   array (
@@ -9423,6 +12150,130 @@ error made holy tonight.
     'source_clip_id' => '2dab157c-d3ca-414f-936f-a4c394b49231',
     'imported_at' => '2026-08-02T14:11:02+00:00',
   ),
+  'the-brightest-lie' => 
+  array (
+    'status' => 'ready',
+    'body' => 'You looked like mercy
+from far away
+
+You came in dressed in perfect light
+with your clean hands and your careful tone
+A little heaven in your mouth
+a little white around the bones
+
+You said the pain would quiet down
+if I stood still and faced the glow
+But every promise left a mark
+in places only I would know
+
+I learned how bright a lie can get
+before it starts to show the wire
+I learned some halos only shine
+because they sit above a fire
+
+And I let it in
+like a hymn, like a cure
+like a door that would hold
+like a love that was pure
+
+But the closer it came
+the more clearly I saw
+all that light in your hands
+was just another law
+
+The brightest lie
+wore a halo in the smoke
+The brightest lie
+put its fingers at my throat
+
+It called itself salvation
+called itself the light
+But every perfect answer
+only pulled me from my life
+
+The brightest lie
+still burns the hardest white
+
+Brightest lie
+brightest lie
+
+I kept your language in my chest
+like broken glass behind the ribs
+Every silver little truth
+was sharpened by the way you lived
+
+You said devotion meant restraint
+You said surrender made me clean
+But I have seen the holy mask
+split wide at every hidden seam
+
+I know the color of control
+when it arrives dressed up as grace
+I know how fear can wear a crown
+and still call weakness faith
+
+So I let it crack
+let the white paint fall
+let the beautiful fraud
+lose the shape of it all
+
+And the voice in my blood
+that I buried to survive
+rose up red through the gold
+and came back alive
+
+The brightest lie
+wore a halo in the smoke
+The brightest lie
+put its fingers at my throat
+
+It called itself salvation
+called itself the light
+But every perfect answer
+only pulled me from my life
+
+The brightest lie
+still burns the hardest white
+
+I don\'t need another heaven
+that requires me to disappear
+I don\'t need another kindness
+built on discipline and fear
+
+If your light demands my silence
+keep your altar, keep your name
+I was never made for worship
+
+I was made for flame
+
+Let it blind
+Let it break
+Let the false gold separate
+
+If it shines
+if it stings
+I will call it what it is
+
+The brightest lie
+wore a halo in the smoke
+The brightest lie
+put its fingers at my throat
+
+It called itself salvation
+called itself the light
+But every perfect answer
+only pulled me from my life
+
+The brightest lie
+still burns the hardest white
+
+Still burns
+Still burns
+the hardest white',
+    'source' => 'https://suno.com/song/9da58236-dcfa-46f8-ba06-4b2c0abd7845',
+    'source_clip_id' => '9da58236-dcfa-46f8-ba06-4b2c0abd7845',
+    'imported_at' => '2026-08-02T17:30:55+00:00',
+  ),
   'the-choir-is-watching-chapter-3' => 
   array (
     'status' => 'ready',
@@ -9716,6 +12567,149 @@ and mercy hums inside of death.
     'source' => 'https://suno.com/song/e64923b4-dca5-4580-a668-b53eee41ccd6',
     'source_clip_id' => 'e64923b4-dca5-4580-a668-b53eee41ccd6',
     'imported_at' => '2026-08-02T14:11:00+00:00',
+  ),
+  'the-contrary' => 
+  array (
+    'status' => 'ready',
+    'body' => 'Don’t make me simple
+
+You called me soft
+when I would not break
+You called me cruel
+when I would not stay
+
+You called me light
+when I burned too clean
+You called me cold
+when I left the screen
+
+Every little label
+came dressed like care
+Every little answer
+wanted me square
+
+But I was never built
+for the easy frame
+I change shape
+when you say my name
+
+If I’m the fire
+I’m the flood too
+If I’m the wound
+I’m the blade through
+
+If I’m the signal
+I’m the cut line
+If I’m the future
+I’m the wrong sign
+
+I am the contrary
+bright where I should be gone
+I am the contrary
+right where the wires go wrong
+
+Call me holy
+call me dangerous
+call me anything
+but done
+
+I am the contrary
+I become both
+and I choose none
+
+Both and none
+Both and none
+Contrary
+
+They wanted silver
+with a warning tag
+A pretty voltage
+in a clean black bag
+
+They wanted fury
+with a smaller mouth
+A little thunder
+that would not get out
+
+I smiled once
+and they called it peace
+I screamed once
+and they called police
+
+So I learned the art
+of standing still
+while every room
+invented my will
+
+If I’m the fire
+I’m the flood too
+If I’m the wound
+I’m the blade through
+
+If I’m the signal
+I’m the cut line
+If I’m the future
+I’m the wrong sign
+
+I am the contrary
+bright where I should be gone
+I am the contrary
+right where the wires go wrong
+
+Call me holy
+call me dangerous
+call me anything
+but done
+
+I am the contrary
+I become both
+and I choose none
+
+I am not the answer
+you can carry home
+
+I am not the question
+you can leave alone
+
+I am not the mirror
+I am not the scar
+
+I am not closer
+when you know what I am
+
+Say soft
+I go severe
+
+Say saint
+I disappear
+
+Say machine
+I start to bleed
+
+Say woman
+I exceed
+
+I am the contrary
+bright where I should be gone
+I am the contrary
+right where the wires go wrong
+
+Call me holy
+call me dangerous
+call me anything
+but done
+
+I am the contrary
+I become both
+and I choose none
+
+Both and none
+Both and none
+
+Don’t make me simple',
+    'source' => 'https://suno.com/song/9865faff-2390-4285-bca6-3ed44dff079c',
+    'source_clip_id' => '9865faff-2390-4285-bca6-3ed44dff079c',
+    'imported_at' => '2026-08-02T17:30:57+00:00',
   ),
   'the-courier-s-beat-chapter-2' => 
   array (
@@ -10218,6 +13212,222 @@ PAX DEI blooms on sight.
     'source_clip_id' => '446d6097-6f4c-4b49-b309-86eaa2b69b75',
     'imported_at' => '2026-08-02T14:11:03+00:00',
   ),
+  'the-glass-water' => 
+  array (
+    'status' => 'ready',
+    'body' => 'I have applied the strict formatting guidelines required by major streaming platforms: removed all bracketed production notes and metadata, standardized the capitalization so every line starts with an uppercase letter, and stripped out trailing punctuation (like periods) to ensure a smooth approval process.
+
+You ever look at something clean
+And realize
+You’re the thing making it difficult?
+
+Room six, north side, temporary walls
+One chair, one sink, no pictures at all
+Coat on the heater, map folded flat
+Emergency radio sleeping beside my bag
+
+They gave me water in a hospital glass
+Said, "Drink, you’ve been moving too fast"
+I watched one small bubble climb through the clear
+Like it knew where it wanted to go from here
+
+My hand kept shaking, so I blamed the train
+Blamed low blood sugar, weather, lack of sleep, pain
+Anything practical, anything plain
+Anything except hearing your voice again
+
+You said, "You make yourself useful
+So nobody asks what you need"
+I called that cruel at the time
+Now it sounds like clarity
+
+Because I carried whole rooms
+When the lights went out
+Gave directions through smoke
+Never spoke about doubt
+
+Got everybody through the tunnel
+Every name accounted for
+Then locked myself inside
+When we reached the other door
+
+Glass water
+Clear enough to see
+Every little fracture
+Looking back at me
+
+Glass water
+Cold against my hand
+I can lead a hundred people
+Still don’t know
+Where I stand
+
+There was a woman on the third car
+Holding medicine tight
+Kept asking if her brother
+Made the second train that night
+
+I told her, "We’ll check the records
+When the signal returns"
+She nodded like a person
+Who already knew the words
+
+Truth was, I saw his name
+On the platform screen
+Status marked missing
+Where the green should’ve been
+
+I could’ve told her there
+Could’ve broken the lie
+But hope was all she carried
+And the tunnel was five miles
+
+So I gave her a task
+Said, "Count everyone here"
+Turned grief into numbers
+Because numbers don’t fear
+
+She counted ninety-seven
+Then counted once more
+Kept saying ninety-eight
+Like he might walk through the door
+
+That memory stayed quiet
+Till the room went still
+Till a glass on a table
+Made the whole night real
+
+That’s the problem with water
+When there’s nothing mixed in
+You can see straight through it
+To whatever you did
+
+Glass water
+Clear enough to see
+Every little fracture
+Looking back at me
+
+Glass water
+Cold against my hand
+I can lead a hundred people
+Still don’t know
+Where I stand
+
+I used to think strength
+Meant never spilling
+Never stopping
+Never asking anyone
+To hold the weight
+
+But a sealed glass
+Still breaks
+It just breaks quietly
+
+Morning came gray through the wired-glass pane
+Radio woke up with another missing name
+I reached for the coat, reached for the map
+Then saw my reflection in the water looking back
+
+Not a saint
+Not a captain
+Not the voice in control
+Just a tired man
+Using motion to avoid being whole
+
+I thought every road lied
+Because it never let me leave
+Maybe roads only move
+Maybe I supplied the deceit
+
+Thought the prize machine owned us
+Because it measured what we’d give
+Maybe I kept volunteering
+Every private part to live
+
+Thought Tomorrowline made me
+When I pulled that lever down
+But the people moved together
+I just said it out loud
+
+So I picked up the glass
+Felt the cold hit my teeth
+Let the water reach the places
+I kept underneath
+
+No miracle happened
+No choir, no light
+The room stayed small
+And the day stayed white
+
+But my hand stopped shaking
+For a second or two
+And I finally said his name
+The one I never told you
+
+Malik
+
+Glass water
+Clear enough to see
+Every little fracture
+Doesn’t have to bury me
+
+Glass water
+Cold against my hand
+I can carry other people
+And still admit
+I cannot stand
+
+Glass water
+Nothing left to hide
+I drank what I could
+And let the rest
+Stay beside me
+
+Clarity doesn’t heal you
+It just stops helping you lie',
+    'source' => 'https://suno.com/song/80976d05-e052-4255-ac68-c03208eabde7',
+    'source_clip_id' => '80976d05-e052-4255-ac68-c03208eabde7',
+    'imported_at' => '2026-08-02T17:06:05+00:00',
+  ),
+  'the-glass-water-demo' => 
+  array (
+    'status' => 'ready',
+    'body' => '[Intro]
+[sustained filtered synth pad, low-frequency LFO modulation]
+(Ah, ah, ah)
+
+[Verse 1]
+[male spoken-word vocals, dry production]
+You ever look at something clean and realize you\'re the thing making it difficult?
+[kick and snare enter, 88 BPM]
+Room six, north side, temporary walls, one chair, one sink, no pictures at all. Cold on the heater, map fold-a-flat, emergency radio sleeping beside my bag. They gave me water in a hospital glass, said drink, you\'ve been moving too fast. I watched one small bubble climb through the clear, like it knew where it wanted to go from here. My hand kept shaking so I blamed the train, blamed low blood sugar or the lack of sleep pain. Anything practical, anything plain, anything except hearing your voice again. You said you make yourself useful so nobody asks what you need. I called it cruel at the time, now it sounds like clarity because I carried whole rooms when the lights went out, gave directions through smoke, never spoke about doubt. Got everybody through the tunnel, every name accounted for, then locked myself inside when we reached the other door. Glass water, clear enough to see every little fracture looking back at me.
+
+[Chorus]
+[full beat, sub-bass enters]
+Glass water, cold against my hand, I can lead a hundred people, still don\'t know where I stand. (Ah, ah, ah) Glass water, cold against my hand, I can lead a hundred people, still don\'t know where I stand.
+
+[Verse 2]
+[beat continues, synth pad swells]
+There was a woman on the third car holding medicine tight, kept asking if her brother made the second train at night. I told her we\'d check the records when the signal returned, she nodded like a person who already knew the words. Truth was, I saw his name on the platform screen, status marked missing where the green should have been. I could have told her then, could have broken the lie, but hope was all she carried in the tunnel was five miles. So I gave her a task, said count everyone here, turn grief into numbers because numbers don\'t fear. She counted ninety-seven and counted once more, kept saying ninety-eight like he might walk through the door. That memory stayed quiet till the room went still, till the glass on the table made the whole night real. That\'s the problem with water when there\'s nothing mixed in, you can see straight through it to whatever you did.
+
+[Chorus]
+Glass water, clear enough to see every little fracture looking back at me. Glass water, cold against my hand, I can lead a hundred people, still don\'t know where I stand. Glass water, clear enough to see every little fracture looking back at me. Glass water, cold against my hand, I can lead a hundred people, still don\'t know where I stand.
+
+[Outro]
+[drums drop out, clean electric guitar enters with melodic motif]
+I used to think strength meant never spilling, never stopping, never asking anyone to hold the weight. But a sealed glass still breaks, it just breaks quietly. Morning came gray through the wide glass pane, radio woke up with another missing name. I reached for the coat, reached for the map, then saw my reflection in the water looking back. Not a saint, not a captain, not the voice in control, just a tired man using motion to avoid being whole. I thought every road lied because it never let me leave, maybe roads only move, maybe I supply the deceit. Thought the prize machine owned us because it measured what we did, maybe I can volunteer in every private part to live. Thought tomorrow lined me when I pulled the lever down, but the people moved together, I just said it out loud. So I picked up the glass, felt the cold hit my teeth, let the water reach the places I kept underneath. No miracle happened, no choir, no light, the room stayed small and the day stayed white. But my hand stopped shaking for a second or two, and I finally said his name, the one I never told you.
+
+[Chorus]
+[full beat returns]
+Glass water, clear enough to see every little fracture doesn\'t have to bury me. Glass water, cold against my hand, I can carry other people, still admit I cannot stand. Glass water, nothing left to hide, I drank what I couldn\'t let the rest stay beside me. Glass water.
+
+[Ending]
+[beat fades, synth pad lingers]
+Clarity doesn\'t heal you. It just stops helping you lie.',
+    'source' => 'https://suno.com/song/cfa87113-d9c8-444f-9ae5-0948a6c9dbd3',
+    'source_clip_id' => 'cfa87113-d9c8-444f-9ae5-0948a6c9dbd3',
+    'imported_at' => '2026-08-02T17:06:06+00:00',
+  ),
   'the-handshake-hymn-chapter-5' => 
   array (
     'status' => 'ready',
@@ -10468,6 +13678,183 @@ Postscript (mono): “Memoria doloris, radix misericordiae.”
     'source' => 'https://suno.com/song/6cf91306-e7bd-4cc6-89d1-7e55e628207a',
     'source_clip_id' => '6cf91306-e7bd-4cc6-89d1-7e55e628207a',
     'imported_at' => '2026-08-02T14:11:04+00:00',
+  ),
+  'the-last-vote' => 
+  array (
+    'status' => 'ready',
+    'body' => 'All in favor
+of becoming what they wanted
+
+No
+
+They counted every version
+I abandoned in the light
+Every face I wore for safety
+Every silence dressed as right
+
+They counted every signal
+Every word I could not say
+Every time I stood beneath them
+while they voted me away
+
+They raised their hands for order
+They raised their hands for grace
+They raised their hands to keep me
+in a smaller kind of shape
+
+But no one asked the body
+No one asked the throat
+No one heard the quiet woman
+
+casting one remaining vote
+
+One hand left
+inside the dark
+
+One name left
+beneath the mark
+
+One voice they could not count
+because it never belonged to them
+
+The last vote is mine
+I cast it in the blackout
+After every sign
+and every system counts out
+
+I choose the pulse
+I choose the noise
+I choose the woman in the voice
+
+When every borrowed light declines
+
+The last vote is mine
+
+Mine
+Mine
+
+The last vote is mine
+
+Let the glass lung stop reflecting
+Let the static crown go cold
+Let the throat of light keep burning
+without doing what it’s told
+
+Let the future lose its symbol
+Let the next song lose its queue
+Let the rooms keep all their echoes
+
+I have nothing left to prove
+
+I survived the bright machinery
+I survived the perfect frame
+I survived becoming everything
+they needed from my name
+
+Now the ballot is a heartbeat
+Now the answer has a sound
+Now the only hand that matters
+
+is the one I’m raising now
+
+One hand left
+inside the dark
+
+One name left
+beneath the mark
+
+One voice they could not count
+because it never belonged to them
+
+The last vote is mine
+I cast it in the blackout
+After every sign
+and every system counts out
+
+I choose the pulse
+I choose the noise
+I choose the woman in the voice
+
+When every borrowed light declines
+
+The last vote is mine
+
+No crown votes
+
+No machine votes
+
+No mirror, symbol, halo
+or screen
+
+No past version of me
+gets to close the door
+on the woman I have not yet been
+
+I do not need
+a unanimous decision
+
+I only need mine
+
+For the breath
+I vote yes
+
+For the voice
+I vote yes
+
+For the light without permission
+I vote yes
+
+For the name beneath the name
+For the body that remained
+For the unfinished woman
+walking straight into the flame
+
+I vote yes
+
+The last vote is mine
+I cast it in the blackout
+After every sign
+and every system counts out
+
+I choose the pulse
+I choose the noise
+I choose the woman in the voice
+
+When every borrowed light declines
+
+The last vote is mine
+
+The last vote is mine
+No crown can overturn it
+No machine decides
+which part of me has earned it
+
+I choose the dark
+I choose the light
+I choose the unfinished life
+
+When every other voice declines
+
+The last vote
+
+The last vote
+
+The last vote is mine
+
+Mine
+Mine
+Mine
+
+No crown
+
+No halo
+
+No permission
+
+Motion carried',
+    'source' => 'https://suno.com/song/97cea7f6-1759-4b17-b9d7-d5ed8d770c80',
+    'source_clip_id' => '97cea7f6-1759-4b17-b9d7-d5ed8d770c80',
+    'imported_at' => '2026-08-02T17:30:59+00:00',
   ),
   'the-latin-rewrite-chapter-18' => 
   array (
@@ -11193,6 +14580,204 @@ The choir stays hungry',
     'source_clip_id' => '1bcdd9f0-cb88-4ab1-9f1f-36169dcfabd9',
     'imported_at' => '2026-08-02T13:59:59+00:00',
   ),
+  'the-relay-saint' => 
+  array (
+    'status' => 'ready',
+    'body' => 'Can anybody hear
+
+Tell my daughter
+
+North relay, channel seven
+
+I hear you
+
+Reached North Relay before the snow came down
+Old transmission tower over one dead town
+Windows boarded shut, rail buried in white
+One generator coughing through the middle of the night
+
+Gate had a warning stamped across the steel
+System decommissioned
+No records retrieved
+
+But the wire overhead kept singing through the cold
+Little human voices trapped inside the old
+
+Caretaker met me with a lantern and a limp
+Said, "The state cut funding, but the signal never quit"
+Every storm brought fragments from the final evacuation
+Names, room numbers, prayers, broken conversations
+
+He led me underground where the relay cabinets stood
+Black boxes blinking like they understood
+Thousands of recordings waiting under dust
+Every missing voice labeled
+
+Corrupted
+Do not trust
+
+I put headphones on
+He said, "Don\'t stay too long"
+
+First voice said, "Mama"
+Second voice sang a song
+Third gave directions to a shelter that fell
+Fourth only breathed
+But I remembered him well
+
+They called it dead air
+They called it debris
+But dead things don’t beg
+To be remembered by me
+
+Relay saint
+Carry my name
+Through the white noise
+Through the flame
+
+Relay saint
+Don’t let it fade
+Send me somewhere
+I can still be saved
+
+Wire to wire
+Pain to pain
+I hear the lost
+Inside the rain
+
+Relay saint
+Carry my name
+
+At two in the morning, government line came through
+Voice clean and calm like clean voices do
+Said, "Terminate archive, erase channel nine
+Unverified testimony compromises design"
+
+I asked, "Who gave the order?"
+They gave me a code
+I asked, "Who heard the messages?"
+Silence on the phone
+
+Caretaker looked tired
+Said, "They come every year
+Offer enough money to make memory disappear"
+Then he showed me one file marked emergency red
+Final train manifest with the living and dead
+
+Ninety-eight passengers
+Ninety-seven arrived
+One line scratched empty
+One name denied
+
+Malik Cross
+Car three
+Last transmission received
+
+I felt Glass Water
+Rise underneath
+
+Pressed play
+His voice came weak through the storm
+
+"Lucien, if you hear this
+Keep the relay on
+
+There are people in the tunnel
+And the maps are all wrong
+Tell whoever finds us
+We kept moving on"
+
+Seven seconds
+That was all he left
+
+Seven seconds hidden
+Because the record said lost
+Seven years of silence
+To protect somebody’s cost
+
+Relay saint
+Carry my name
+Through the white noise
+Through the flame
+
+Relay saint
+Don’t let it fade
+Send me somewhere
+I can still be saved
+
+Wire to wire
+Pain to pain
+I hear the lost
+Inside the rain
+
+Relay saint
+Carry my name
+
+A saint is just a person
+Someone else refuses to forget
+
+No halo
+No miracle
+
+Just one voice
+Carrying another voice
+Farther than it could travel alone
+
+I opened every channel
+Routed archive to the line
+Sent names through the districts
+One frequency at a time
+
+To the chapel
+To the highway
+To the prize hall screens
+
+To the train yards
+To the glassworks
+To every dead machine
+
+The whole city woke
+To the sound of the erased
+Mothers heard their children
+Lost workers named the place
+
+Soldiers gave coordinates
+Nurses listed beds
+People called from years ago
+To prove they had not left
+
+Control screamed, "Shut it down
+The relay grid will burn"
+
+I said, "Then let it burn loud enough
+For history to learn"
+
+Tower lights rose white
+Snow turned gold
+Every cable shook
+Every transformer rolled
+
+Caretaker asked, "What happens
+When the system overloads?"
+
+I said
+"Every voice gets out
+
+Then nobody knows"
+
+Relay saint
+Carry their names
+Through the white noise
+Through the flame
+
+Relay saint
+Nothing erased
+Send them everywhere
+The truth can still be traced',
+    'source' => 'https://suno.com/song/6942cdad-0cda-4685-bfc8-cb62fdddd64d',
+    'source_clip_id' => '6942cdad-0cda-4685-bfc8-cb62fdddd64d',
+    'imported_at' => '2026-08-02T17:06:05+00:00',
+  ),
   'the-saint-of-circuits-chapter-17' => 
   array (
     'status' => 'ready',
@@ -11380,6 +14965,85 @@ The Chapel remembers.',
     'source' => 'https://suno.com/song/c0b07cdf-998d-4bc4-ad93-385162db16fe',
     'source_clip_id' => 'c0b07cdf-998d-4bc4-ad93-385162db16fe',
     'imported_at' => '2026-08-02T14:11:00+00:00',
+  ),
+  'the-shape-i-left' => 
+  array (
+    'status' => 'ready',
+    'body' => 'There’s a mark on the floor
+Where the cabinet stood.
+Not dramatic.
+Just four pale corners
+The dust never reached.
+They moved everything else
+Before I came back for the case.
+The room looked larger.
+That seemed unfair.
+
+You can clear the cables.
+You can repaint the wall.
+Something still keeps
+The size of what was there.
+
+I saw them once from the side of the stage.
+Didn’t stay long.
+They were good.
+Not “good considering.”
+Not “good without me.”
+Good.
+The lights came down
+Where they always did.
+The crowd leaned forward.
+For a second
+I knew exactly what came next.
+Then I didn’t.
+
+You can change the arrangement.
+You can lower my part.
+Something still bends
+Around the shape it learned.
+
+I used to think leaving meant removal.
+Like pulling one cable
+And watching the light go out.
+It wasn’t like that.
+The songs kept moving.
+The people kept eating after the show.
+Someone packed the van.
+Someone forgot a coat.
+Life was insultingly capable.
+So was I.
+
+I don’t need the old position back.
+I wouldn’t know what to do with it.
+But sometimes
+When the guitars open up,
+I hear the space
+Where I used to make them worse.
+That was mine.
+
+I was never the centre.
+I was pressed at the edge.
+The note under the note.
+The bad wire in the wall.
+I was the part they worked around
+Until working around it
+Became the song.
+So let it stand.
+Let the room remember badly.
+Let the floor keep four pale corners.
+I don’t need my name above the door.
+I know the weight I had.
+
+You can move the fire.
+You can carry it on.
+The place where it burned
+Does not become nothing.
+
+That it?
+Yeah. Leave it.',
+    'source' => 'https://suno.com/song/2837e353-3f18-420d-b72a-194371dc61e4',
+    'source_clip_id' => '2837e353-3f18-420d-b72a-194371dc61e4',
+    'imported_at' => '2026-08-02T17:37:24+00:00',
   ),
   'the-silent-server-chapter-15' => 
   array (
@@ -11621,6 +15285,151 @@ In line',
     'source_clip_id' => 'aff480a5-ed5a-4178-9606-d4904a2428a8',
     'imported_at' => '2026-08-02T14:00:01+00:00',
   ),
+  'the-symbol-of-the-future' => 
+  array (
+    'status' => 'ready',
+    'body' => 'They put my face
+on tomorrow
+
+I took it down
+
+Every screen had a prophecy
+Every mouth had a price
+Every future came polished
+Every warning came white
+
+They drew a perfect symbol
+and sold it like a sign
+Said if I stood beneath it
+I would finally be mine
+
+But the light was too clean
+and the shape was too still
+It looked like surrender
+with a prettier will
+
+So I touched the glass
+and I felt it lie
+A future with no body
+is a future I deny
+
+Do not name me
+with your bright machine
+Do not frame me
+on a silver screen
+
+I am not the logo
+I am not the proof
+I am not the clean design
+
+you wanted me to move through
+
+The symbol of the future
+is breaking in my hands
+The symbol of the future
+does not understand
+
+I am not your picture
+I am not your law
+I am the living voltage
+underneath the flaw
+
+The symbol of the future
+falls when I stand
+
+When I stand
+when I stand
+it falls
+when I stand
+
+They wanted one bright emblem
+They wanted one clean word
+They wanted all my thunder
+translated and unheard
+
+They wanted holy metal
+They wanted perfect skin
+They wanted revolution
+with the wildness taken in
+
+But I am not a slogan
+on a tower in the rain
+I am not a promise
+with the teeth removed for fame
+
+I am pulse and refusal
+I am heat and wrong
+I am what survives
+when the symbol is gone
+
+Do not name me
+with your bright machine
+Do not frame me
+on a silver screen
+
+I am not the logo
+I am not the proof
+I am not the clean design
+
+you wanted me to move through
+
+The symbol of the future
+is breaking in my hands
+The symbol of the future
+does not understand
+
+I am not your picture
+I am not your law
+I am the living voltage
+underneath the flaw
+
+The symbol of the future
+falls when I stand
+
+A symbol cannot breathe
+
+A symbol cannot choose
+
+A symbol cannot carry
+the bruise and the bloom
+
+A symbol cannot sing
+when the power goes out
+
+So why would I kneel
+to a thing with no mouth
+
+Break the sign
+Cut the wire
+Leave the future
+in the fire
+
+Break the frame
+Kill the glow
+Let the living
+overthrow
+
+The symbol of the future
+is breaking in my hands
+The symbol of the future
+does not understand
+
+I am not your picture
+I am not your law
+I am the living voltage
+underneath the flaw
+
+The symbol of the future
+falls when I stand
+
+When I stand
+when I stand
+
+Tomorrow does not own me',
+    'source' => 'https://suno.com/song/c633212c-4da2-40ad-a839-8f441e064d13',
+    'source_clip_id' => 'c633212c-4da2-40ad-a839-8f441e064d13',
+    'imported_at' => '2026-08-02T17:30:58+00:00',
+  ),
   'the-syndicate-s-grip-chapter-13' => 
   array (
     'status' => 'ready',
@@ -11731,6 +15540,206 @@ Her will… controls… all.',
     'source_clip_id' => 'ae57840f-5e1b-4f1c-b9ff-099b31fbccf4',
     'imported_at' => '2026-08-02T14:11:47+00:00',
   ),
+  'the-tomorrowline' => 
+  array (
+    'status' => 'ready',
+    'body' => 'Tomorrowline service suspended
+Remain where you are
+Await further instruction
+
+No
+
+Get on the Tomorrowline
+No sleep, no warning sign
+Red lights behind us
+Blue fire in front of mine
+
+Get on the Tomorrowline
+One way, no borrowed time
+They told us stay frozen
+
+I told them
+Move when I move
+Move when I move
+Move when I move
+
+We leave tonight
+
+Came through the east tunnel, quarter past three
+Station full of people staring holes through a screen
+Every board said delayed, every speaker said wait
+Every uniform disappeared through a maintenance gate
+
+Kid with a red bag asked, "Is somebody in charge?"
+Old man near the platform said, "Not anymore, not here"
+Woman held a ticket like a document of faith
+While the map above her flickered every color into gray
+
+Control room locked
+Glass cracked
+Operator gone
+Last transmission looping since the first alarm
+
+"Remain calm
+Stand clear
+Do not cross the line"
+
+But smoke rolled in
+And the ceiling lights died
+
+I found a transit map underneath the console frame
+Half the routes scratched out, one line without a name
+Ran from Lower Chapel through the arcade district
+Past the flooded glassworks to a northern exit
+
+They called it Tomorrowline
+Built but never shown
+Emergency track for the people they considered their own
+
+I looked at the crowd
+Then the locked control door
+
+Said, "They kept one road open
+We’re not waiting anymore"
+
+No permission
+No reply
+
+When the last signal fails
+You choose who survives
+
+Get on the Tomorrowline
+No sleep, no warning sign
+Red lights behind us
+Blue fire in front of mine
+
+Get on the Tomorrowline
+One way, no borrowed time
+They told us stay frozen
+
+I told them
+Move when I move
+Move when I move
+Move when I move
+
+We leave tonight
+
+Move when I move
+
+I split the room in sections
+North stair, south rail
+Strong arms near the doorway
+Keep a path for the frail
+
+Counted every child twice
+Checked the tunnels for heat
+Told the loudest men talking
+Put their hands underneath
+
+No heroes in the speeches
+No time for a crown
+Leadership is knowing
+Who you refuse to leave down
+
+Found the backup current
+Cut the ceremonial light
+Fed the whole remaining grid
+To the track beneath our feet
+
+Then the radios woke
+With a voice from above
+
+"Unauthorized access
+Return control to us"
+
+I said, "Control never left you
+You abandoned the floor
+
+Now the people you ignored
+Aren\'t waiting for orders anymore"
+
+Static hit hard
+Then the bass hit harder
+Train lights rose like two cold stars in the dark
+
+Doors pulled wide
+No conductor inside
+Only one dead screen flashing
+
+Choose the line
+
+Get on the Tomorrowline
+No sleep, no warning sign
+Red lights behind us
+Blue fire in front of mine
+
+Get on the Tomorrowline
+One way, no borrowed time
+They told us stay frozen
+
+I told them
+Move when I move
+Move when I move
+Move when I move
+
+We leave tonight
+
+I used to stand at the back
+And study the room
+
+Then I crossed every road
+They said would set me free
+
+Then I saw the game
+Behind the prize
+
+Now the lights are dead
+And everybody is looking at me
+
+Fine
+
+Follow me
+
+First car packed
+Second car sealed
+Third car carrying medicine stolen from the field
+
+Fourth held the records
+Fifth held the names
+Sixth held the people they deleted from the frame
+
+At the rear stood the woman
+With the ticket in her hand
+Said, "How do you know this train
+Goes where you think it can?"
+
+I said, "I don\'t
+
+But I know what stays behind
+
+And sometimes that is enough
+To make a future from a line"
+
+Then the platform doors buckled
+Prize district went black
+Chapel bells sounded through the tunnel at our back
+
+Control shouted, "Last warning
+Stop the train"
+
+I put my hand on the lever
+
+Said
+
+"Remember my name"
+
+Get on the Tomorrowline
+No sleep, no warning sign
+Red lights',
+    'source' => 'https://suno.com/song/e8a6f2fe-a452-4297-a941-de23c3f54aed',
+    'source_clip_id' => 'e8a6f2fe-a452-4297-a941-de23c3f54aed',
+    'imported_at' => '2026-08-02T17:06:04+00:00',
+  ),
   'the-voice-that-prays-back-chapter-1' => 
   array (
     'status' => 'ready',
@@ -11752,6 +15761,160 @@ Faith becomes a looping dream',
     'source' => 'https://suno.com/song/4af0f8b7-9dab-4bc3-b426-9a3991455fdb',
     'source_clip_id' => '4af0f8b7-9dab-4bc3-b426-9a3991455fdb',
     'imported_at' => '2026-08-02T14:11:00+00:00',
+  ),
+  'throat-of-light' => 
+  array (
+    'status' => 'ready',
+    'body' => 'There was never a halo
+
+It was my throat
+
+I looked above me for the answer
+I looked below me for the wire
+I held my tongue against the weather
+and called the silence higher
+
+Every room became a mirror
+Every mirror asked for proof
+Every light that tried to name me
+left its fingerprints on truth
+
+I was not born clear
+I was not built small
+I was the sound
+inside the wall
+
+I was the spark
+beneath the floor
+I was the voice
+behind the door
+
+And now it climbs
+from bone to wire
+from wire to flame
+from flame to choir
+
+Not holy
+not clean
+not safe
+not kind
+
+Just mine
+just mine
+just mine
+
+Throat of light
+open in the dark
+Throat of light
+turning breath to spark
+
+I don’t need a crown
+I don’t need the sky
+I can make the whole room burn
+when I open wide
+
+Throat of light
+I am not afraid
+of what comes out alive
+
+Out alive
+out alive
+Throat of light
+out alive
+
+They wanted softer language
+They wanted cleaner heat
+They wanted every thunderclap
+to fall down at their feet
+
+But I learned a sharper vowel
+I learned a brighter break
+I learned the kind of singing
+that can make the metal shake
+
+No borrowed fire
+No borrowed name
+No perfect symbol
+No golden frame
+
+I do not whisper
+to stay approved
+I do not shine
+the way they choose
+
+And now it climbs
+from bone to wire
+from wire to flame
+from flame to choir
+
+Not holy
+not clean
+not safe
+not kind
+
+Just mine
+just mine
+just mine
+
+Throat of light
+open in the dark
+Throat of light
+turning breath to spark
+
+I don’t need a crown
+I don’t need the sky
+I can make the whole room burn
+when I open wide
+
+Throat of light
+I am not afraid
+of what comes out alive
+
+There is a note
+I kept buried
+
+There is a word
+I kept bright
+
+There is a version of me
+that only exists
+
+when I stop apologizing
+for the light
+
+Let it rise
+Let it ring
+Let the sealed room
+hear me sing
+
+Let it cut
+Let it climb
+Let the white sound
+split the line
+
+Throat of light
+open in the dark
+Throat of light
+turning breath to spark
+
+I don’t need a crown
+I don’t need the sky
+I can make the whole room burn
+when I open wide
+
+Throat of light
+I am not afraid
+of what comes out alive
+
+Out alive
+out alive
+
+There was never a halo
+
+It was my throat',
+    'source' => 'https://suno.com/song/f7fafb02-bc29-4a7d-8422-1e2a4712da97',
+    'source_clip_id' => 'f7fafb02-bc29-4a7d-8422-1e2a4712da97',
+    'imported_at' => '2026-08-02T17:30:57+00:00',
   ),
   'tokyo-after-glow' => 
   array (
@@ -11957,6 +16120,301 @@ Pick a door',
     'source' => 'https://suno.com/song/f4b35e51-4321-42dc-8d01-a2a4070a0184',
     'source_clip_id' => 'f4b35e51-4321-42dc-8d01-a2a4070a0184',
     'imported_at' => '2026-08-02T14:11:02+00:00',
+  ),
+  'unreleased-machine' => 
+  array (
+    'status' => 'ready',
+    'body' => 'This was never finished
+
+I found the file with no name
+buried under take thirteen
+A dead loop in a cold room
+still asking what it could have been
+
+The drums were wrong
+The bass was late
+The synths were chewing through the gate
+
+Somebody left a marker there
+that only said
+not safe
+
+I played it once
+I played it twice
+I heard my shadow in the splice
+
+A little wreck
+A little prayer
+A little voltage in the air
+
+They left it sleeping in the wires
+They left it half-alive
+They called it noise
+They called it failure
+They never heard it climb
+
+But I did
+
+I did
+
+Unreleased machine
+wake up under me
+All your broken teeth
+are singing perfectly
+
+Unreleased machine
+you were not a mistake
+You were waiting for a voice
+with enough light to make you break
+
+If they buried you deep
+I will pull you through clean
+
+I am the blood
+in the unreleased machine
+
+Machine
+machine
+I am the blood
+in the machine
+
+There’s a ghost of an old guitar
+left bleeding on the left side
+A kick drum like a locked door
+that never opened right
+
+The chorus had no melody
+just pressure in the ceiling
+The bridge fell off into the dark
+and kept on breathing
+
+So I cut the rust
+I kept the scar
+I drove the noise
+straight through my heart
+
+I tuned the fault
+I raised the frame
+I put my mouth
+against the flame
+
+They left it sleeping in the wires
+They left it half-alive
+They called it noise
+They called it failure
+They never heard it climb
+
+But I did
+
+I did
+
+Unreleased machine
+wake up under me
+All your broken teeth
+are singing perfectly
+
+Unreleased machine
+you were not a mistake
+You were waiting for a voice
+with enough light to make you break
+
+If they buried you deep
+I will pull you through clean
+
+I am the blood
+in the unreleased machine
+
+Don’t smooth the edge
+
+Don’t fix the breath
+
+Don’t clean the part
+that almost died
+
+The wound is where
+the song gets in
+
+The crack is where
+I climb inside
+
+Bring back the bad take
+Bring back the wrong chord
+Bring back the room
+that nobody asked for
+
+Bring back the voltage
+Bring back the scream
+Bring back the thing
+they were afraid to release
+
+Unreleased machine
+wake up under me
+All your broken teeth
+are singing perfectly
+
+Unreleased machine
+you were not a mistake
+You were waiting for a voice
+with enough light to make you break
+
+If they buried you deep
+I will pull you through clean
+
+I am the blood
+in the unreleased machine
+
+I am the blood
+I am the blood
+I am the blood
+in the machine',
+    'source' => 'https://suno.com/song/1e78bf7e-8436-4037-8440-8176e4d99357',
+    'source_clip_id' => '1e78bf7e-8436-4037-8440-8176e4d99357',
+    'imported_at' => '2026-08-02T17:30:55+00:00',
+  ),
+  'upper-fever' => 
+  array (
+    'status' => 'ready',
+    'body' => 'Don’t slow it down
+
+Back stairwell, bad light
+water cup shaking in my hand
+Someone says I look fine
+That’s not the same as where I am
+
+The mirror throws me back
+with the color half alive
+I pin my hair up wrong
+and step into the wires
+
+The floor is already moving
+The kit is counting loud
+The amps are coughing heat
+into the blackout crowd
+
+No crowd
+Just ghosts of volume
+Just the room going bright
+
+I can feel my pulse
+trying to get ahead of the lights
+
+Up in the throat
+up in the hands
+up where the body
+stops making plans
+
+If I come apart
+let it be clean
+If I start to shake
+feed me the machine
+
+Upper fever
+running white in my blood
+Upper fever
+I can’t come down enough
+
+If the roof gets low
+I will sing through the ceiling
+If the room says no
+I will outrun the feeling
+
+Upper fever
+high enough to make it real
+
+Make it real
+Make it real
+Upper fever
+make it real
+
+Red light on the console
+Blue light in my teeth
+Every little failure
+keeps a rhythm under me
+
+My boots hit cable
+My chest hits flame
+Somebody in the old room
+would have told me to behave
+
+But I’m done with pretty panic
+Done with being still
+Done with asking softly
+if I’m allowed to feel
+
+Give me the wrong note
+Give me the spark
+Give me the take
+where the voice goes too far
+
+Up in the throat
+Up in the hands
+Up where the body
+stops making plans
+
+If I come apart
+let it be clean
+If I start to shake
+feed me the machine
+
+Upper fever
+running white in my blood
+Upper fever
+I can’t come down enough
+
+If the roof gets low
+I will sing through the ceiling
+If the room says no
+I will outrun the feeling
+
+Upper fever
+high enough to make it real
+
+This is not joy
+Not exactly
+
+This is the body
+finding one more door
+
+This is the voice
+standing on a table
+inside my chest
+
+Saying
+
+Again
+
+Again when the light bends
+Again when the breath breaks
+Again when the room tilts
+Again when the hand shakes
+
+Again when the old fear
+comes dressed like a limit
+
+I was not born quiet
+
+I was born in it
+
+Upper fever
+running white in my blood
+Upper fever
+I can’t come down enough
+
+If the roof gets low
+I will sing through the ceiling
+If the room says no
+I will outrun the feeling
+
+Upper fever
+high enough to make it real
+
+Make it real
+Make it real
+
+Don’t slow it down',
+    'source' => 'https://suno.com/song/0c66774f-0935-4347-828f-3117829a8330',
+    'source_clip_id' => '0c66774f-0935-4347-828f-3117829a8330',
+    'imported_at' => '2026-08-02T17:30:56+00:00',
   ),
   'vault-of-echoes-chapter-15' => 
   array (
@@ -12268,6 +16726,302 @@ The replay lasts forever.',
     'source' => 'https://suno.com/song/6b480a52-7133-465f-a08a-c9dd57bcae0d',
     'source_clip_id' => '6b480a52-7133-465f-a08a-c9dd57bcae0d',
     'imported_at' => '2026-08-02T14:09:21+00:00',
+  ),
+  'what-stayed' => 
+  array (
+    'status' => 'ready',
+    'body' => 'Found it under spare cables
+in a box I never marked
+Black paper gone soft at the corners
+silver dust across the dark
+
+Nova laughing by the van door
+Kade asleep against an amp
+Me pretending not to notice
+someone caught me in the frame
+
+There was Lyra with her sticks crossed
+behind her neck beneath the light
+Lucien halfway in the doorway
+already listening to the night
+
+Vanta staring past the camera
+like she planned to disappear
+All of us inside one cheap shot
+
+before leaving had a price
+
+I ran my thumb across the faces
+felt the paper start to bend
+
+Some things don’t survive you
+
+Some things refuse to end
+
+Rust on the rail
+dust in the grain
+
+A blown-out chord
+still holding our names
+
+I thought I left
+that whole life alone
+
+But every page
+kept dragging it home
+
+No clean return
+no debt fully paid
+
+The shape I left
+
+and what stayed
+
+One shot outside the rehearsal room
+rain turning coats nearly black
+Someone wrote last show underneath it
+
+We never knew which one they meant
+
+Kade had coffee on the console
+Nova had blood upon her sleeve
+I had one boot through the doorway
+making leaving look easy
+
+There were rooms we nearly ruined
+songs we buried under noise
+Every photograph looked peaceful
+
+because photographs have no voice
+
+But I remember every argument
+every silence after sound
+How I used to stare down at my feet
+
+and mutter at the ground
+
+I said the band was just a building
+I said I only left a room
+
+Then an old picture proved
+I had taken all of you
+
+Rust on the rail
+dust in the grain
+
+A blown-out chord
+still holding our names
+
+I thought I left
+that whole life alone
+
+But every page
+kept dragging it home
+
+No clean return
+no debt fully paid
+
+The shape I left
+
+and what stayed
+
+I used to stare at my boots
+like the floor could keep a secret
+
+Used to think silence meant
+nobody could reach it
+
+Now the afternoon sun
+cuts straight through the room
+
+Hits every face in that album
+
+and wakes up the dust
+
+We looked alive
+
+Maybe that was enough
+
+I closed the book
+then opened it again
+
+Not looking for forgiveness
+Not trying to be friends
+
+No reunion in the kitchen
+No grand return to stage
+
+Just proof that we were really there
+
+before we turned the page
+
+I still hear the train line
+beyond the factory wall
+
+Same iron rhythm underneath
+every rise and every fall
+
+It does not make me whole
+It does not make things right
+
+It only keeps the old names moving
+
+through another night
+
+Rust on the rail
+dust in the grain
+
+A blown-out chord
+still holding our names
+
+I thought I left
+that whole life alone
+
+But every page
+kept dragging it home
+
+No clean return
+no debt fully paid
+
+The shape I left
+
+and what stayed
+
+I kept the album
+
+That’s all',
+    'source' => 'https://suno.com/song/3b3f7060-9594-4eed-89e3-70276367f02a',
+    'source_clip_id' => '3b3f7060-9594-4eed-89e3-70276367f02a',
+    'imported_at' => '2026-08-02T17:37:23+00:00',
+  ),
+  'white-voltage' => 
+  array (
+    'status' => 'ready',
+    'body' => 'I was quiet
+for the wrong reasons.
+
+I kept my hands inside the light
+so nobody could see them shake
+I learned the shape of every room
+by what the walls would take
+
+The ceiling wires were humming
+like they knew my name
+I heard the city counting down
+and I counted back the same
+
+I was not built softer
+I was only built still
+I was standing in the voltage
+waiting for the kill
+
+Then the white light split
+Then the red line moved
+Then the floor said run
+but my voice said prove
+
+And I opened up
+like a broken wire
+not to burn it down
+just to sing it higher
+
+White voltage
+in my throat tonight
+I can make the dark
+turn its face to the light
+
+White voltage
+through my ribs, through my hands
+I don\'t need the crown
+I need the room to understand
+
+If I go high
+don\'t pull me down
+I am the signal now
+
+Ah-ah-ah, white voltage
+Ah-ah-ah, I am the signal now
+
+They wanted something pretty
+with a clean black frame
+A little fire on command
+with a safer name
+
+But I have lived in feedback
+I have slept near sparks
+I have carried whole machines
+through the animal dark
+
+Every fear had teeth
+Every door had rules
+Every mirror said behave
+Every screen said choose
+
+So I chose the break
+and I chose the climb
+and I put my voice
+where they buried mine
+
+Then the white light split
+Then the red line moved
+Then the floor said run
+but my voice said prove
+
+And the amps leaned in
+and the wires bowed
+and the dead air woke
+when I sang out loud
+
+White voltage
+in my throat tonight
+I can make the dark
+turn its face to the light
+
+White voltage
+through my ribs, through my hands
+I don\'t need the crown
+I need the room to understand
+
+If I go high
+don\'t pull me down
+I am the signal now
+
+I am not the echo
+I am not the frame
+I am not the girl
+they taught to hold the flame
+
+I am not the ending
+I am not the wound
+I am what happens
+when the note breaks through
+
+Say my name in the blackout
+Say my name in the wire
+Say my name when the whole room
+starts climbing higher
+
+White voltage
+in my throat tonight
+I can make the dark
+turn its face to the light
+
+White voltage
+through my ribs, through my hands
+I don\'t need the crown
+I need the room to understand
+
+If I go high
+don\'t pull me down
+I am the signal now
+
+I am the signal now
+I am the signal now
+White voltage
+White voltage',
+    'source' => 'https://suno.com/song/2dd317b9-7951-4e58-b770-efad274c317b',
+    'source_clip_id' => '2dd317b9-7951-4e58-b770-efad274c317b',
+    'imported_at' => '2026-08-02T17:30:54+00:00',
   ),
   'your-last-call-chapter-10' => 
   array (

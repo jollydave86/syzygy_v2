@@ -20,6 +20,11 @@ $platformLinksMap = $release['links'] ?? [];
                 <p class="detail-meta__label">Platforms</p>
                 <?php require dirname(__DIR__) . '/includes/platform-links.php'; ?>
                 <p class="detail-meta__text"><?= syzygy_esc($release['summary'] ?? ''); ?></p>
+                <?php if (!empty($release['member_slug'])): ?>
+                    <p>
+                        <a class="btn btn--secondary" href="<?= syzygy_esc(syzygy_url('/profiles/' . $release['member_slug'])); ?>">Artist profile</a>
+                    </p>
+                <?php endif; ?>
             </div>
         </aside>
 

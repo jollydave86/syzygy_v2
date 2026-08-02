@@ -1,0 +1,49 @@
+{
+    "playlist_id": "ca8ca69d-8a37-4a21-98f1-c64aafe01452",
+    "name": "ASH VEX - The Shape I Left",
+    "image_url": "https://cdn2.suno.ai/66817075.jpeg",
+    "clips": [
+        {
+            "n": 1,
+            "title": "NOTHING PERSONAL",
+            "id": "d14da42e-68ab-466d-bd2e-236dffbabcda",
+            "image_url": "https://cdn2.suno.ai/video_gen_92217347-b4da-4598-a8dc-cc7d8f15dcc6_video_upload_92217347-b4da-4598-a8dc-cc7d8f15dcc6_cover_snapshot_0s_1783899312_image.jpeg",
+            "is_public": true
+        },
+        {
+            "n": 2,
+            "title": "DEAD CHANNEL",
+            "id": "f18b4468-4d34-4053-99e0-ff2f3d54e219",
+            "image_url": "https://cdn2.suno.ai/video_gen_7a90d374-6668-4aad-980e-74077c72d606_video_upload_7a90d374-6668-4aad-980e-74077c72d606_cover_snapshot_0s_1783986549_image.jpeg",
+            "is_public": true
+        },
+        {
+            "n": 3,
+            "title": "RENTAL ROOM",
+            "id": "8b9a3f84-70fd-44d6-a9f0-ba0c394071ec",
+            "image_url": "https://cdn2.suno.ai/video_gen_9aac64ed-d5a3-43a4-8c65-9b574269d5d2_video_upload_9aac64ed-d5a3-43a4-8c65-9b574269d5d2_cover_snapshot_0s_1783901141_image.jpeg",
+            "is_public": true
+        },
+        {
+            "n": 4,
+            "title": "OLD WOUND RADIO",
+            "id": "99cd3153-4b92-47d3-88bc-f3fd8eb19e24",
+            "image_url": "https://cdn2.suno.ai/video_gen_234da4c4-e9cb-45ac-b635-2c5eca3f4e95_video_upload_234da4c4-e9cb-45ac-b635-2c5eca3f4e95_cover_snapshot_0s_1783987353_image.jpeg",
+            "is_public": true
+        },
+        {
+            "n": 5,
+            "title": "WHAT STAYED",
+            "id": "3b3f7060-9594-4eed-89e3-70276367f02a",
+            "image_url": "https://cdn2.suno.ai/d76cef12-aaac-4469-8408-ecec235c49ac.jpeg",
+            "is_public": true
+        },
+        {
+            "n": 6,
+            "title": "THE SHAPE I LEFT",
+            "id": "2837e353-3f18-420d-b72a-194371dc61e4",
+            "image_url": "https://cdn2.suno.ai/video_gen_91647ba0-da0b-4ebf-9e79-9302f47e5f65_video_upload_91647ba0-da0b-4ebf-9e79-9302f47e5f65_cover_snapshot_0s_1784154551_image.jpeg",
+            "is_public": true
+        }
+    ]
+}

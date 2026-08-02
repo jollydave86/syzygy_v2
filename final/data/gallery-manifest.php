@@ -215,4 +215,88 @@ return [
             ['title' => 'The Black Spring', 'file' => '99-extra-cover-art.webp', 'variant' => 'cover_art', 'random_eligible' => false],
         ],
     ],
+
+    [
+        'id' => 'no-idle-speed',
+        'label' => 'NO IDLE SPEED — Lucien Cross',
+        'folder' => 'no-idle-speed',
+        'items' => [
+            ['title' => 'NO IDLE SPEED (Playlist Cover)', 'file' => '00 - Playlist Cover.webp', 'variant' => 'cover_art', 'random_eligible' => false],
+            ['title' => 'NO IDLE SPEED', 'file' => '01-no-idle-speed.webp'],
+            ['title' => 'BACK OF CHAPEL', 'file' => '02-back-of-chapel.webp'],
+            ['title' => 'OPEN ROADS LIE', 'file' => '03-open-roads-lie.webp'],
+            ['title' => 'PRIZE MACHINE', 'file' => '04-prize-machine.webp'],
+            ['title' => 'THE TOMORROWLINE', 'file' => '05-the-tomorrowline.webp'],
+            ['title' => 'THE GLASS WATER', 'file' => '06-the-glass-water.webp'],
+            ['title' => 'THE RELAY SAINT', 'file' => '07-the-relay-saint.webp'],
+            ['title' => 'STILL MOVING', 'file' => '08-still-moving.webp'],
+            ['title' => 'THE GLASS WATER (demo)', 'file' => '09-the-glass-water-demo.webp'],
+        ],
+    ],
+
+    [
+        'id' => 'white-voltage',
+        'label' => 'WHITE VOLTAGE — Nova Vale',
+        'folder' => 'white-voltage',
+        'items' => [
+            ['title' => 'WHITE VOLTAGE (Playlist Cover)', 'file' => '00 - Playlist Cover.webp', 'variant' => 'cover_art', 'random_eligible' => false],
+            ['title' => 'WHITE VOLTAGE', 'file' => '01-white-voltage.webp'],
+            ['title' => 'GLASS SIREN', 'file' => '02-glass-siren.webp'],
+            ['title' => 'NO SOFT SIGNAL', 'file' => '03-no-soft-signal.webp'],
+            ['title' => 'CROWN STATIC', 'file' => '04-crown-static.webp'],
+            ['title' => 'THE BRIGHTEST LIE', 'file' => '05-the-brightest-lie.webp'],
+            ['title' => 'UNRELEASED MACHINE', 'file' => '06-unreleased-machine.webp'],
+            ['title' => 'UPPER FEVER', 'file' => '07-upper-fever.webp'],
+            ['title' => 'AFTER THE HALO', 'file' => '08-after-the-halo.webp'],
+        ],
+    ],
+
+    [
+        'id' => 'deluxe-queen',
+        'label' => 'DELUXE QUEEN — Nova Vale',
+        'folder' => 'deluxe-queen',
+        'items' => [
+            ['title' => 'DELUXE QUEEN (Playlist Cover)', 'file' => '00 - Playlist Cover.webp', 'variant' => 'cover_art', 'random_eligible' => false],
+            ['title' => 'DELUXE QUEEN', 'file' => '01-deluxe-queen.webp'],
+            ['title' => 'GLASS LUNG', 'file' => '02-glass-lung.webp'],
+            ['title' => 'STATIC CROWN', 'file' => '03-static-crown.webp'],
+            ['title' => 'THE CONTRARY', 'file' => '04-the-contrary.webp'],
+            ['title' => 'THROAT OF LIGHT', 'file' => '05-throat-of-light.webp'],
+            ['title' => 'THE SYMBOL OF THE FUTURE', 'file' => '06-the-symbol-of-the-future.webp'],
+            ['title' => 'NEXT SONG', 'file' => '07-next-song.webp'],
+            ['title' => 'STILL SINGING', 'file' => '08-still-singing.webp'],
+            ['title' => 'AFTER VOICE', 'file' => '09-after-voice.webp'],
+            ['title' => 'THE LAST VOTE', 'file' => '10-the-last-vote.webp'],
+        ],
+    ],
+
+    [
+        'id' => 'body-clock',
+        'label' => 'BODY CLOCK — Lyra Static',
+        'folder' => 'body-clock',
+        'items' => [
+            ['title' => 'BODY CLOCK (Playlist Cover)', 'file' => '00 - Playlist Cover.webp', 'variant' => 'cover_art', 'random_eligible' => false],
+            ['title' => 'PREMIER IMPACT', 'file' => '01-premier-impact.webp'],
+            ['title' => 'DERRIÈRE TOUT LE MONDE', 'file' => '02-derriere-tout-le-monde.webp'],
+            ['title' => 'MÉMOIRE MUSCULAIRE', 'file' => '03-memoire-musculaire.webp'],
+            ['title' => 'LA SALLE QUI SONNE', 'file' => '04-la-salle-qui-sonne.webp'],
+            ['title' => 'DOIGTS BANDÉS (S)', 'file' => '05-doigts-bandes-s.webp'],
+            ['title' => 'BODY CLOCK', 'file' => '06-body-clock.webp'],
+        ],
+    ],
+
+    [
+        'id' => 'the-shape-i-left',
+        'label' => 'THE SHAPE I LEFT — Ash Vex',
+        'folder' => 'the-shape-i-left',
+        'items' => [
+            ['title' => 'THE SHAPE I LEFT (Playlist Cover)', 'file' => '00 - Playlist Cover.webp', 'variant' => 'cover_art', 'random_eligible' => false],
+            ['title' => 'NOTHING PERSONAL', 'file' => '01-nothing-personal.webp'],
+            ['title' => 'DEAD CHANNEL', 'file' => '02-dead-channel.webp'],
+            ['title' => 'RENTAL ROOM', 'file' => '03-rental-room.webp'],
+            ['title' => 'OLD WOUND RADIO', 'file' => '04-old-wound-radio.webp'],
+            ['title' => 'WHAT STAYED', 'file' => '05-what-stayed.webp'],
+            ['title' => 'THE SHAPE I LEFT', 'file' => '06-the-shape-i-left.webp'],
+        ],
+    ],
 ];
