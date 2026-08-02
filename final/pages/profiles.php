@@ -2,7 +2,7 @@
 <section class="page-header">
     <div class="container">
         <p class="section__eyebrow">Solo Signals</p>
-        <h1 class="section__title">Profiles</h1>
+        <h1 class="section__title">Solo Signals</h1>
         <p class="section__lede">What each person sounds like when separated from the shared SYZYGY.VOID machine.</p>
     </div>
 </section>

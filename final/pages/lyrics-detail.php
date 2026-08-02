@@ -35,8 +35,8 @@ $albumLyricsHref = $releaseSlug !== ''
         <?php else: ?>
             <div class="coming-soon-banner">
                 <p class="section__eyebrow">Transmission Pending</p>
-                <h2 class="section__title section__title--sm">Lyrics Not Loaded</h2>
-                <p>Edit <code>data/lyrics.php</code> and add an override for slug <code><?= syzygy_esc($lyric['slug']); ?></code> with <code>status = ready</code> and your lyric body.</p>
+                <h2 class="section__title section__title--sm">Lyrics Incoming</h2>
+                <p>This track’s lyric sheet is not public yet. Check back soon, or open the song on Suno while the archive updates.</p>
             </div>
         <?php endif; ?>
     </div>

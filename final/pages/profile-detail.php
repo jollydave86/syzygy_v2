@@ -5,7 +5,7 @@ $platformLinksMap = $member['links'] ?? [];
 ?>
 <section class="page-header">
     <div class="container">
-        <p class="section__eyebrow"><a href="<?= syzygy_esc(syzygy_url('/profiles')); ?>">Profiles</a> / <?= syzygy_esc($member['badge'] ?? ''); ?></p>
+        <p class="section__eyebrow"><a href="<?= syzygy_esc(syzygy_url('/profiles')); ?>">Solo Signals</a> / <?= syzygy_esc($member['badge'] ?? ''); ?></p>
         <h1 class="section__title"><?= syzygy_esc($member['name']); ?></h1>
         <p class="section__lede"><?= syzygy_esc($member['role']); ?></p>
     </div>

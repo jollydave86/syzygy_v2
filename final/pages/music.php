@@ -3,7 +3,7 @@
     <div class="container">
         <p class="section__eyebrow">Catalog</p>
         <h1 class="section__title">Music</h1>
-        <p class="section__lede">Featured transmissions plus eight public release worlds, each with its own sound, visual language, and story system.</p>
+        <p class="section__lede">Serialized release worlds and Solo Signals — each with its own sound, visual language, and story system.</p>
     </div>
 </section>
 

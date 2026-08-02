@@ -1,6 +1,13 @@
 <?php
 declare(strict_types=1);
 
+if (PHP_SAPI !== 'cli') {
+    http_response_code(403);
+    header('Content-Type: text/plain; charset=UTF-8');
+    echo "CLI only.\n";
+    exit(1);
+}
+
 $id = $argv[1] ?? '5bf0841f-9637-47ee-8d95-6d241c20455f';
 $url = 'https://studio-api.prod.suno.com/api/playlist/' . $id;
 $raw = @file_get_contents($url);

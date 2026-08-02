@@ -1,9 +1,16 @@
 RewriteEngine On
+Options -Indexes
 
-# Serve existing files and directories as-is
+# Deny direct web access to app internals and build tools.
+RewriteRule ^(config|data|includes|tools|previews)(/|$) - [F,L]
+
+# Never execute leftover PHP helpers under assets.
+RewriteRule ^assets/.*\.php$ - [F,L]
+
+# Serve existing public files and directories as-is.
 RewriteCond %{REQUEST_FILENAME} -f [OR]
 RewriteCond %{REQUEST_FILENAME} -d
 RewriteRule ^ - [L]
 
-# Front controller for clean URLs
+# Front controller for clean URLs.
 RewriteRule ^ index.php [L]

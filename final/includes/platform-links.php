@@ -23,7 +23,7 @@ $platformClass = $platformClass ?? 'platform-links';
                 <?= syzygy_esc($item['label']); ?>
             </a>
         <?php else: ?>
-            <span class="platform-links__link platform-links__link--soon" title="Paste URL in data files">
+            <span class="platform-links__link platform-links__link--soon" title="Link coming soon">
                 <?= syzygy_esc($item['label']); ?> · Soon
             </span>
         <?php endif; ?>

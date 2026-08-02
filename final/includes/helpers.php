@@ -172,12 +172,14 @@ if (!function_exists('syzygy_render')) {
         global $site, $releases, $playlists, $trackTabs, $featuredPool, $members, $gallery, $merch, $blogPosts, $lyrics, $contact, $foreverLandTeaser, $contactFormState;
 
         extract($vars, EXTR_SKIP);
+        $schemaPage = $vars['schemaPage'] ?? $page;
         $pageFile = dirname(__DIR__) . '/pages/' . $page . '.php';
 
         if (!is_file($pageFile)) {
             http_response_code(404);
             $pageFile = dirname(__DIR__) . '/pages/404.php';
             $pageTitle = ($site['name'] ?? 'SYZYGY.VOID') . ' | 404';
+            $schemaPage = '404';
         }
 
         require dirname(__DIR__) . '/includes/layout-start.php';

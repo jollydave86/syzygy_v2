@@ -56,7 +56,7 @@ $members = [
         'chapter_bio' => 'Ash’s philosophy: stop adding layers. The song already hurts. THE SHAPE I LEFT concerns the outline, absence, and permanent negative space left behind after departure.',
         'sound_tags' => ['industrial desert rock', 'damaged trip-hop', 'nocturnal post-punk', 'low spoken vocal'],
         'visual_tags' => ['concrete wall', 'black jacket', 'old wound', 'dead channel'],
-        'image' => '/assets/img/solo-signals/ash-vex.webp',
+        'image' => '/assets/img-optimized/solo-signals/ash-vex.webp',
         'release_slug' => 'the-shape-i-left',
         'tracks' => [
             'NOTHING PERSONAL',
@@ -143,7 +143,7 @@ $members = [
         'release' => null,
         'teaser' => 'Intentionally abandoned Solo Signals fragment. Title and tracklist remain unresolved.',
         'bio' => 'Vanta joins after the original SYZYGY period and becomes a destabilizing force. Her Solo Signals project is intentionally incomplete — incompleteness is part of the story.',
-        'chapter_bio' => 'Public solo title and tracklist are not locked. This page stays in coming-soon state until David unlocks canon.',
+        'chapter_bio' => 'Public solo title and tracklist are not locked. This page stays in coming-soon state until the fragment is unlocked.',
         'sound_tags' => ['darkwave', 'trip-hop', 'haunted club'],
         'visual_tags' => ['velvet shadow', 'cold neon', 'low light'],
         'image' => '/assets/img-optimized/solo-signals/vanta-rey.webp',

@@ -1,6 +1,13 @@
 <?php
 declare(strict_types=1);
 
+if (PHP_SAPI !== 'cli') {
+    http_response_code(403);
+    header('Content-Type: text/plain; charset=UTF-8');
+    echo "CLI only.\n";
+    exit(1);
+}
+
 /**
  * Optimize Solo Signals portraits into webp variants.
  *
@@ -26,6 +33,7 @@ $jobs = [
     'nova-vale.jpg' => 'nova-vale',
     'lyra-static.jpg' => 'lyra-static',
     'lucien-cross.jpg' => 'lucien-cross',
+    'ash-vex.webp' => 'ash-vex',
     'kade-null.jpg' => 'kade-null',
     'vanta-ray.jpg' => 'vanta-rey', // member slug spelling
 ];

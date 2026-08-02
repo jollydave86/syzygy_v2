@@ -1,6 +1,13 @@
 <?php
 declare(strict_types=1);
 
+if (PHP_SAPI !== 'cli') {
+    http_response_code(403);
+    header('Content-Type: text/plain; charset=UTF-8');
+    echo "CLI only.\n";
+    exit(1);
+}
+
 $root = dirname(__DIR__);
 $srcUrl = 'https://cdn2.suno.ai/c77d0996.jpeg';
 $tmp = sys_get_temp_dir() . DIRECTORY_SEPARATOR . 'tomorrowline-cover-src.jpg';
