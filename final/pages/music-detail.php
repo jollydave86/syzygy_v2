@@ -15,7 +15,7 @@ $platformLinksMap = $release['links'] ?? [];
         <aside class="detail-sidebar">
             <div class="detail-sidebar__sticky">
                 <div class="detail-cover">
-                    <img src="<?= syzygy_esc(syzygy_encode_public_path($release['cover'])); ?>" alt="<?= syzygy_esc($release['title']); ?>">
+                    <img src="<?= syzygy_esc(syzygy_encode_public_path($release['cover'])); ?>" alt="<?= syzygy_esc($release['title']); ?>" width="600" height="600" loading="eager" decoding="async" fetchpriority="high">
                 </div>
                 <p class="detail-meta__label">Platforms</p>
                 <?php require dirname(__DIR__) . '/includes/platform-links.php'; ?>

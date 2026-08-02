@@ -42,15 +42,6 @@ $schemaGraph = syzygy_build_schema_graph((string) $schemaPage, [
 <!DOCTYPE html>
 <html lang="<?= syzygy_esc(str_replace('_', '-', (string) $locale)); ?>">
 <head>
-    <?php if ($gtmId !== ''): ?>
-    <!-- Google Tag Manager -->
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','<?= syzygy_esc($gtmId); ?>');</script>
-    <!-- End Google Tag Manager -->
-    <?php endif; ?>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="format-detection" content="telephone=no">
@@ -80,11 +71,35 @@ $schemaGraph = syzygy_build_schema_graph((string) $schemaPage, [
     <meta name="twitter:image" content="<?= syzygy_esc($ogImageAbs); ?>">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;500;600;700&family=Rajdhani:wght@500;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="<?= syzygy_esc(syzygy_encode_public_path('/assets/css/style.css')); ?>?v=<?= $assetVersion; ?>">
+    <?php if ($gtmId !== ''): ?>
+    <link rel="preconnect" href="https://www.googletagmanager.com">
+    <link rel="dns-prefetch" href="https://www.googletagmanager.com">
+    <?php endif; ?>
+    <?php
+    $heroPreloadBase = '/assets/img-optimized/hero-bg.webp';
+    $heroPreload = syzygy_prefer_public_variant($heroPreloadBase, [800, 1200, 400]);
+    if (($schemaPage ?? '') === 'home'):
+    ?>
+    <link rel="preload" as="image" href="<?= syzygy_esc($heroPreload); ?>" fetchpriority="high" imagesizes="100vw" imagesrcset="<?= syzygy_esc(syzygy_prefer_public_variant($heroPreloadBase, [800])); ?> 800w, <?= syzygy_esc(syzygy_prefer_public_variant($heroPreloadBase, [1200])); ?> 1200w">
+    <?php endif; ?>
+    <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;600;700&family=Rajdhani:wght@600;700&display=swap">
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;600;700&family=Rajdhani:wght@600;700&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
+    <noscript><link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;600;700&family=Rajdhani:wght@600;700&display=swap" rel="stylesheet"></noscript>
+    <link rel="stylesheet" href="<?= syzygy_esc(syzygy_encode_public_path('/assets/css/style.bundle.css')); ?>?v=<?= $assetVersion; ?>">
     <link rel="shortcut icon" href="<?= syzygy_esc(syzygy_encode_public_path('/favicon.ico')); ?>?v=<?= $assetVersion; ?>">
     <link rel="apple-touch-icon" sizes="180x180" href="<?= syzygy_esc(syzygy_encode_public_path('/apple-touch-icon.png')); ?>?v=<?= $assetVersion; ?>">
     <?php syzygy_print_json_ld($schemaGraph); ?>
+    <?php if ($gtmId !== ''): ?>
+    <script>
+    window.dataLayer=window.dataLayer||[];
+    window.addEventListener('load',function(){setTimeout(function(){
+      (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+      var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+      j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','<?= syzygy_esc($gtmId); ?>');
+    },1200);});
+    </script>
+    <?php endif; ?>
 </head>
 <body>
 <?php if ($gtmId !== ''): ?>

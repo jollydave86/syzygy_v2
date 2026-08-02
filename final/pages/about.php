@@ -26,7 +26,7 @@ $about = $site['about'] ?? [];
         </div>
         <div class="about-page__media">
             <?php if (!empty($about['image'])): ?>
-                <img src="<?= syzygy_esc(syzygy_encode_public_path($about['image'])); ?>" alt="SYZYGY.VOID" loading="lazy">
+                <img src="<?= syzygy_esc(syzygy_encode_public_path($about['image'])); ?>" alt="SYZYGY.VOID" width="400" height="500" loading="lazy" decoding="async">
             <?php endif; ?>
         </div>
     </div>

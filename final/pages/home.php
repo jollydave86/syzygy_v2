@@ -4,7 +4,24 @@ $hero = $site['hero'] ?? [];
 $highlights = $site['highlights'] ?? [];
 ?>
 <section class="page-hero page-hero--home">
-    <div class="page-hero__bg" style="background-image:url('<?= syzygy_esc(syzygy_encode_public_path($hero['image'] ?? '/assets/img-optimized/hero-bg-1200.webp')); ?>')"></div>
+    <?php
+    $heroBase = '/assets/img-optimized/hero-bg.webp';
+    $hero800 = syzygy_prefer_public_variant($heroBase, [800, 400]);
+    $hero1200 = syzygy_prefer_public_variant($heroBase, [1200, 800]);
+    ?>
+    <div class="page-hero__bg">
+        <img
+            class="page-hero__bg-image"
+            src="<?= syzygy_esc($hero800); ?>"
+            srcset="<?= syzygy_esc($hero800); ?> 800w, <?= syzygy_esc($hero1200); ?> 1200w"
+            sizes="100vw"
+            alt=""
+            width="1200"
+            height="800"
+            decoding="async"
+            fetchpriority="high"
+        >
+    </div>
     <div class="page-hero__overlay"></div>
     <div class="container page-hero__content">
         <p class="section__eyebrow"><?= syzygy_esc($hero['eyebrow'] ?? ''); ?></p>
@@ -54,7 +71,7 @@ $highlights = $site['highlights'] ?? [];
         <div class="home-teaser__releases">
             <?php foreach (array_slice($releases, 0, 3) as $release): ?>
                 <a class="home-mini-release" href="<?= syzygy_esc(syzygy_url('/music/' . $release['slug'])); ?>">
-                    <img src="<?= syzygy_esc(syzygy_encode_public_path($release['cover'])); ?>" alt="" loading="lazy">
+                    <img src="<?= syzygy_esc(syzygy_encode_public_path($release['cover'])); ?>" alt="" width="400" height="400" loading="lazy" decoding="async">
                     <span><?= syzygy_esc($release['title']); ?></span>
                 </a>
             <?php endforeach; ?>
@@ -73,7 +90,7 @@ $highlights = $site['highlights'] ?? [];
         <div class="home-profile-strip">
             <?php foreach (array_slice($members, 0, 4) as $member): ?>
                 <a href="<?= syzygy_esc(syzygy_url('/profiles/' . $member['slug'])); ?>">
-                    <img src="<?= syzygy_esc(syzygy_prefer_public_variant($member['image'], [250, 400])); ?>" alt="<?= syzygy_esc($member['name']); ?>" loading="lazy">
+                    <img src="<?= syzygy_esc(syzygy_prefer_public_variant($member['image'], [250, 400])); ?>" alt="<?= syzygy_esc($member['name']); ?>" width="250" height="250" loading="lazy" decoding="async">
                     <span><?= syzygy_esc($member['name']); ?></span>
                 </a>
             <?php endforeach; ?>

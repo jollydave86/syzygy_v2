@@ -86,7 +86,7 @@ if (!function_exists('syzygy_is_current')) {
 
 if (!function_exists('syzygy_platform_links')) {
     /**
-     * Normalize platform link map. Empty strings render as "Link soon".
+     * Normalize platform link map. Empty hrefs are not ready (omit in UI).
      *
      * @param array<string,string|null> $links
      * @return list<array{key:string,label:string,href:string,ready:bool}>

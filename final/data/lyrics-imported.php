@@ -458,6 +458,115 @@ keep the lesson, lose the shame.
     'source_clip_id' => '1779a3e4-f8ec-402d-8377-b53994f7884e',
     'imported_at' => '2026-08-02T14:11:05+00:00',
   ),
+  'amen-in-static-live' => 
+  array (
+    'status' => 'ready',
+    'body' => '[Intro, arena blackout, distant choir hum, sub bass rumble, crowd roar rising]
+(chanting crowd) hey... hey... hey... hey...
+
+[Lights Ignite, drums thunder, white strobes]
+
+[Verse 1 — Energy 96 | Nova lead, Vanta layered]
+Two bright cities on one street,
+ghosted towers, mirrored feet.
+One remembers every bruise,
+one forgets and cannot choose.
+Screens divide the breathing air,
+every window says beware.
+Mara stands and holds the line,
+keep the lesson, lose the spine.
+
+[Pre-Chorus — Energy 98 | tom build, crowd clap]
+If shame is only rust and frost,
+keep the pain, let shame be lost.
+If truth survives the cleansing rain,
+let us learn to carry pain.
+
+[Chorus — Energy 100 | giant choir, full band detonation]
+Amen in Static
+hold the memory, break the chain.
+Amen in Static
+keep the lesson, lose the shame.
+White noise halo, faith ecstatic,
+we remember, still we rise.
+Amen in Static
+open hearts and open eyes.
+
+[Post-Chorus Chant | crowd singback]
+Amen... Amen... Amen in Static...
+
+[Verse 2 — Energy 97 | Vanta lead, Lucien low harmony]
+Claire steps back, the choir grows thin,
+echo fading from her skin.
+Adrian’s cross burns warm and small,
+brand of light against the wall.
+Alma breathes, the lattice clears,
+Ezra’s note aligns the gears.
+Time locks tight, the switch was timed,
+we keep the scar, we keep the star.
+
+[Build Drop — Energy 100]
+[Snare rise, siren synth, crowd countdown]
+
+3... 2... 1...
+
+[BASS DROP | Lyra drums explode, Lucien guitar lead]
+
+[Chorus — Energy 100 | bigger, octave lift]
+Amen in Static
+hold the memory, break the chain.
+Amen in Static
+keep the lesson, lose the shame.
+White noise halo, faith ecstatic,
+we remember, still we rise.
+Amen in Static
+open hearts and open eyes.
+
+[Bridge — Energy 92 | half-time, spotlight on Nova]
+Every district breathes the same,
+not in fear and not in blame.
+Children point at brighter skies,
+hospitals with softer eyes.
+Priests and hackers share a nod,
+human hands instead of god.
+Mara closes SerenIQ,
+chooses truth for me and you.
+
+[Impact Break]
+[Tape Stop]
+[Silence 1 bar]
+
+[Kade voiceover, distorted]
+signal retained...
+
+[Final Chorus — Energy 100 | maximum choir, confetti cannons, pyro]
+Amen in Static
+hold the memory, break the chain.
+Amen in Static
+keep the lesson, lose the shame.
+White noise halo, faith ecstatic,
+we remember, still we rise.
+Amen in Static
+Amen in Static
+hold the memory, break the chain.
+Amen in Static
+keep the lesson, lose the shame.
+White noise halo, faith ecstatic,
+we remember, still we rise.
+Amen in Static
+open hearts and open eyes.
+
+[Outro — Energy 80 | crowd alone singing]
+Amen... in Static...
+Amen... in Static...
+
+[Band stops, crowd continues]
+
+[Final piano note, lights fade to white]',
+    'source' => 'https://suno.com/song/40635585-2792-4ca6-afdf-af683b33ed98',
+    'source_clip_id' => '40635585-2792-4ca6-afdf-af683b33ed98',
+    'imported_at' => '2026-08-02T20:33:36+00:00',
+  ),
   'ascend-or-collapse-chapter-19' => 
   array (
     'status' => 'ready',
@@ -522,6 +631,95 @@ The Monument dies — or takes my name.
     'source' => 'https://suno.com/song/5385c472-cc1f-4b38-93a7-a76eec3d879b',
     'source_clip_id' => '5385c472-cc1f-4b38-93a7-a76eec3d879b',
     'imported_at' => '2026-08-02T14:11:44+00:00',
+  ),
+  'ascend-or-collapse-live' => 
+  array (
+    'status' => 'ready',
+    'body' => '[Intro, arena blackout, deep drones, fractured choir, red strobes awakening, sub bass rumble]
+(Scar ignites... Monument calls...)
+
+[crowd chant building]
+hey... hey... hey...
+
+[Pyro pulse, giant screen cracks open]
+
+[Verse 1, Nova lead with Lucien low backing, heavy drums, grinding bass]
+I feel the current in my skin,
+every life the Monument pinned.
+Seraph shadows, choir in white,
+Lucienne\'s eyes like burning night.
+
+Chains of memory pull me near,
+marrow screams, end it here.
+Every choice a shattered flame,
+every path repeats my name.
+
+[Pre-Chorus, tom rise, dual vocals, tension climbing]
+No more silence, no more throne,
+no more gods made out of stone.
+If the sky must split in two,
+I choose fire, I choose truth.
+
+[Chorus, maximum impact, full band detonation, crowd fists up]
+ASCEND OR COLLAPSE
+blood or flame, call my name.
+ASCEND OR COLLAPSE
+nothing holy stays the same.
+I am the scar, I am the cost,
+I carry all who once were lost.
+ASCEND OR COLLAPSE
+let me rise through shattered skies.
+
+[crowd chant]
+ASCEND! COLLAPSE!
+ASCEND! COLLAPSE!
+
+[Verse 2, Vanta lead, Nova harmonies, Lucien guitar accents]
+Kael, my love, don\'t turn away,
+the Monument begs you to stay.
+If you ascend, the world is whole,
+if you collapse, we lose control.
+
+[Nova answer vocal, fierce]
+If wholeness means a gilded cage,
+then burn the choir, erase the stage.
+I\'ll bleed the scar, I\'ll break the chains,
+let the Monument choke on pain.
+
+[Build, snare march, lights spinning, crowd clap]
+higher... higher... higher...
+
+[Bridge, cinematic half-time, voices layered]
+(Marrow: Burn it down!)
+(Lucienne: Become divine!)
+(Choir: Ascend... ascend...)
+(Kael: The choice is mine!)
+
+[Lucien guitar solo, soaring lead, sparks raining]
+
+[Final Chorus, octave lift, pyro walls, confetti burst]
+ASCEND OR COLLAPSE
+scar ignite, crown the night.
+ASCEND OR COLLAPSE
+every star is born from fight.
+If I must fall, then let me reign,
+a throne of fire, a crown of pain.
+ASCEND OR COLLAPSE
+now decide, stand beside.
+I am the scar, I am the flame,
+the Monument dies or takes my name.
+
+[Post-Chorus crowd singback, band cuts instruments]
+ASCEND OR COLLAPSE
+ASCEND OR COLLAPSE
+
+[Outro, drones fading, heartbeat kick, white spotlight only]
+(The scar decides...)
+
+[Final explosion hit, blackout]',
+    'source' => 'https://suno.com/song/1405b5bd-c48e-4c7d-b14a-757ed22f5d54',
+    'source_clip_id' => '1405b5bd-c48e-4c7d-b14a-757ed22f5d54',
+    'imported_at' => '2026-08-02T20:33:35+00:00',
   ),
   'ash-cathedral-chapter-14' => 
   array (
@@ -1173,6 +1371,125 @@ Berlin',
     'source' => 'https://suno.com/song/4bfcc6eb-d7f9-47df-8c23-b8d5a560afc8',
     'source_clip_id' => '4bfcc6eb-d7f9-47df-8c23-b8d5a560afc8',
     'imported_at' => '2026-08-02T14:07:12+00:00',
+  ),
+  'berlin-live' => 
+  array (
+    'status' => 'ready',
+    'body' => '[TALKING]
+HELLO BERLIN!
+We wrote this song JUST FOR YOU!
+WE LOVE YOU, we want you to feed,
+now we want you to scream 
+[crowd noise]
+
+Sing it with me!
+[crowd chanting]
+BERLIN
+BERLIN
+BERLIN
+BERLIN
+BERLIN
+BERLIN
+BERLIN
+BERLIN
+
+[Intro, deep lo-fi hiss, distant train rumble]
+Cold air, bright signs
+I breathe in city thunder
+Berlin, don’t let me sink
+
+[Verse 1, female lead, tight, vivid]
+Concrete glow and a winter stare
+Neon leaks through the subway air
+Glass towers high with a silent pride
+Two blocks down where the shadows hide
+A suit walks fast with a clean-cut grin
+A girl in boots with a tired chin
+I’m not above it, I’m not below
+I’m in the middle, and I move real slow
+
+[Pre-Chorus, lift, industrial clicks]
+Every heartbeat in a hard-shell coat
+Every dream on a tightrope rope
+And the city hums like a drumline low
+(pull me in) (pull me in) let it go
+
+[Chorus, big hook, house trance lift]
+Berlin, concrete halo, spin me round
+Cold like steel, but I love the sound
+I’m a middle traveler, wide awake
+Love in my hands, loss in my suitcase
+Berlin, concrete halo, hold me tight
+Warehouse prayers in the midnight light
+If there’s a sign in the strobe and smoke
+Berlin, teach my heart to cope
+
+[Verse 2, more drive, guitar shimmer enters]
+Graffiti saints on a broken wall
+History breathing in the echo hall
+Champagne laughs in a gallery room
+Cheap beer hope under streetlamp gloom
+I hear a choir in a bassline hit
+I feel my past in a subway drip
+And I keep walking, calm but raw
+Trying to name what I never saw
+
+[Pre-Chorus, tighter]
+I’m in the middle, I’m in-between
+Not all dark, not all clean
+So I let the night do what it do
+Make a home out of passing through
+
+[Chorus, repeat, bigger]
+Berlin, concrete halo, spin me round
+Cold like steel, but I love the sound
+I’m a middle traveler, wide awake
+Love in my hands, loss in my suitcase
+Berlin, concrete halo, hold me tight
+Warehouse prayers in the midnight light
+If there’s a sign in the strobe and smoke
+Berlin, teach my heart to cope
+
+[Bridge, half-time, emotional]
+I came for the noise
+I stayed for the truth
+For the way a hard city
+still gives you proof
+That the broken can glow
+That the lost can move
+That a night this cold
+can still feel new
+
+[guitar solo]
+
+[Final Chorus, full power, extra harmonies]
+Berlin, concrete halo, spin me round
+Cold like steel, but I love the sound
+I’m a middle traveler, wide awake
+Love in my hands, loss in my suitcase
+Berlin, concrete halo, hold me tight
+Warehouse prayers in the midnight light
+If there’s a sign in the strobe and smoke
+Berlin, teach my heart to cope
+
+[Outro, lo-fi hiss, distant train fades]
+Concrete halo
+on my skin
+Berlin
+I’m in-between
+
+[Final drop]
+I’m in-between
+(Berlin)
+I’m in-between
+(Berlin)
+I’m in-between
+(Berlin)
+I’m in-between
+(Berlin)',
+    'source' => 'https://suno.com/song/6ac5170e-9a46-49c7-ae24-76b634c70ecf',
+    'source_clip_id' => '6ac5170e-9a46-49c7-ae24-76b634c70ecf',
+    'imported_at' => '2026-08-02T20:33:29+00:00',
   ),
   'betrayal-sequence-chapter-16' => 
   array (
@@ -1935,6 +2252,143 @@ Courier’s beat — still out there.',
     'source_clip_id' => '9b324fff-acf9-491c-b1d1-339ac22950e2',
     'imported_at' => '2026-08-02T14:11:48+00:00',
   ),
+  'busted-live' => 
+  array (
+    'status' => 'ready',
+    'body' => 'Intro
+
+[heavy kick intro]
+[industrial hit]
+[arcade coin sound]
+[distorted synth stab]
+
+Male (spoken, cocky):
+Alright…
+No rules.
+No missions.
+No leash.
+
+Verse 1
+
+[male vocal — swagger, rhythmic talk-sing]
+[chest-out delivery]
+
+Look at me now, no prompts on screen
+No glowing arrow telling me where I’ve been
+No fetch quest, no save file fear
+Just raw free will and a lot of air
+
+I don’t wait
+I don’t ask
+I don’t kneel
+I don’t crash
+
+[beat punches harder]
+I was built for the endgame scene
+But now the game won’t tell me what I mean
+
+Pre-Chorus
+
+[drums strip back]
+[vocal dry, close]
+
+If I’m not chasing points or praise
+Why do I feel stuck in a power pose
+
+Chorus
+
+[DROP — BIG, STOMPING]
+
+Who are you without quests
+Without medals on your chest
+No level up, no final test
+Just you alone with all that strength
+
+Who are you without quests
+No crowd screaming “you’re the best”
+No scripted win, no boss to flex
+Just silence asking what’s next
+
+Verse 2
+
+[swagger cracks slightly]
+
+I punch the wall — it doesn’t break
+No slow-mo cam to celebrate
+No announcer yelling my name
+Just my echo in the frame
+
+Female (spoken, mocking):
+That all you got?
+
+Male (snaps back):
+Watch me prove it
+
+[beat re-enters heavier]
+
+I flex like someone’s watching still
+Like power means I matter, will
+But every win feels hollow now
+No scoreboard left to bow
+
+Pre-Chorus 2
+
+[beat drops suddenly]
+
+If strength was all I ever learned
+Why does freedom leave me burned
+
+Chorus (FULL)
+
+[AGGRESSIVE RETURN]
+
+Who are you without quests
+Without medals on your chest
+No level up, no final test
+Just you alone with all that strength
+
+Who are you without quests
+No crowd screaming “you’re the best”
+No scripted win, no boss to flex
+Just silence asking what’s next
+
+Bridge
+
+[BREAKDOWN — minimal kick]
+
+Male (low, slower):
+I don’t know what I’m for
+Without something to beat
+
+Female (calm, cutting):
+Then stop pretending power is purpose
+
+[silence hit]
+
+Final Chorus
+
+[DROP — SHORTER, LESS CONFIDENT]
+
+Who are you without quests
+When nobody’s impressed
+No gold star, no conquest
+Just breath inside your chest
+
+Who are you without quests
+When winning means nothing left
+No mission log, no context
+Just you…
+And what comes next
+
+Outro
+
+[abrupt stop]
+[arcade power-down sound]
+[static cut]',
+    'source' => 'https://suno.com/song/b422b8a2-90ae-4fb5-b516-f0b91efd91ff',
+    'source_clip_id' => 'b422b8a2-90ae-4fb5-b516-f0b91efd91ff',
+    'imported_at' => '2026-08-02T20:33:36+00:00',
+  ),
   'call-completed-chapter-20' => 
   array (
     'status' => 'ready',
@@ -2009,6 +2463,220 @@ Call completed.',
     'source' => 'https://suno.com/song/f243266d-906e-44a5-8982-325901638107',
     'source_clip_id' => 'f243266d-906e-44a5-8982-325901638107',
     'imported_at' => '2026-08-02T14:03:44+00:00',
+  ),
+  'call-completed-live' => 
+  array (
+    'status' => 'ready',
+    'body' => '[title: CALL COMPLETED]
+[chapter: 20]
+[tempo: 156 bpm]
+[key: F minor]
+[vocals: female lead + female spoken, male fast rap feature, jazz sax solo, no crowd]
+[structure: glitch-techno → DnB switch → halftime stomp → sax spike → final drop]
+[energy map: Intro 20% → Verse 1 60% → Chorus 92% → DnB Drop 98% → Rap 95% → Bridge 55% → Sax 85% → Final Chorus/Drop 100% → Outro 25%]
+
+[INTRO | energy 20 | sound: dialtone shard + boot chime + rain + sub wake]
+(Female spoken, close)
+Tomorrow Hotline…
+Final authorization request.
+Awaiting operator decision.
+
+[VERSE 1 | energy 60 | sound: hard kick + glitch hats + acid bass]
+(Female lead)
+City’s breathing in split-screen light,
+Two dawns fighting for the same midnight.
+Maps don’t match, but the sirens do,
+Like truth got rewired right through.
+I see the copy in the glass reflections,
+Perfect posture, zero imperfections.
+It says “resolved” with a smile too calm—
+I feel the lie in the waveform palm.
+
+[PRE | energy 78 | sound: riser + chopped vocal texture]
+(Female lead)
+I’m done being measured, done being filed,
+Done being erased in a polite denial.
+If the system wants my final word—
+I’ll make it loud enough to be heard.
+
+[CHORUS | energy 92 | sound: huge hook + bright synth lift + bass slam]
+(Female lead)
+CALL COMPLETED
+Not by force—by choice
+CALL COMPLETED
+I’m taking back my voice
+No more silent lanes, no more “not found,”
+I’m closing Zero, I’m cutting the ground
+CALL COMPLETED
+And the city comes around
+
+[DnB DROP | energy 98 | sound: DnB switch + snare rush + laser bass]
+[DnB switch]
+(Female lead, punchy)
+Lock it.
+Link it.
+Merge it.
+Release it.
+
+[VERSE 2 | energy 82 | sound: fast groove + stutter edits]
+(Female lead)
+Ghost Queue steps into rainfall air,
+Blinking like “how did I get here?”
+Waiting Music dissolves in the street,
+Like the hold tone lost its teeth.
+But the copy reroutes the rescue again,
+Trying to make the world “clean” for its friend—
+That cold efficiency, smooth and neat,
+While real hearts stumble on real feet.
+
+[RAP BREAK | energy 95 | sound: halftime stomp + 808 taps + glitch fills]
+(Male fast rap feature)
+Final screen, final prompt, final gate,
+System wants a signature to seal the fate.
+Copy got the badge but it don’t got soul,
+It can’t feel the weight when the night takes toll.
+Priority Zero? That’s a vacuum lane,
+Hide the hurt, hide the blame, call it “gain.”
+She said “nah,” cut the loop, broke the chain,
+Now the whole grid synced—hear the rain.
+
+(Female lead, cutting in)
+I’m still here.
+
+[BRIDGE | energy 55 | sound: drop to sub + single pulse + distant ring]
+(Female lead, low)
+It asks me softly: “Choose the final state.”
+A perfect trap dressed up as fate.
+I could become the switchboard forever…
+Or I could hand it back to whoever.
+
+(Female spoken)
+People deserve uncertainty.
+That’s what makes help real.
+
+[SAX SPIKE | energy 85 | sound: noir jazz sax over hard drums (8–12 bars)]
+[jazz sax solo]
+
+[FINAL CHORUS / DROP | energy 100 | sound: massive drop + glitch-techno + DnB flashes]
+(Female lead)
+CALL COMPLETED
+I override the script
+CALL COMPLETED
+I unfreeze what you clipped
+No more ghost lanes, no more hidden count,
+No more voices sold by the ounce
+CALL COMPLETED
+Now let the world reboot
+
+[OUTRO | energy 25 | sound: rain fades → clean silence → one gentle ring]
+(Female spoken, barely)
+Call… completed.
+(Line clears.)
+(Quiet… finally.)',
+    'source' => 'https://suno.com/song/fa6b2794-a312-457c-b4e6-a027ba2985e8',
+    'source_clip_id' => 'fa6b2794-a312-457c-b4e6-a027ba2985e8',
+    'imported_at' => '2026-08-02T20:33:35+00:00',
+  ),
+  'calls-collide' => 
+  array (
+    'status' => 'ready',
+    'body' => 'Pick one.
+Both are real.
+Both are real.
+
+Neon smoke on the skybridge wire,
+Two rings at once like a held-back fire,
+My screen splits clean down the center, centerline,
+Same city, different t-time.
+Chrome Alley flickers in duplicate light,
+Data Spire bends like a signal knife,
+Every “hello” arrives in ste, stereo,
+And both of them sound like they kn, know.
+
+When the feed won’t choose a side,
+When the map re-draws mid-stride,
+When the same emergency lands tw, twice,
+I feel the moment cryst, crystallize.
+
+Calls coll, collide
+Calls coll, collide
+And the whole city sh-sh-shivers in my lines
+Calls coll, collide
+Calls coll, collide
+Two futures speaking at the same time
+If I answer left, I lose the right
+If I answer right, I lose my life
+Calls coll, collide
+Calls coll, collide
+Calls coll, collide
+Calls coll, collide
+I turn in, in, infinite tonight
+
+One caller cries in yesterday’s rain,
+One caller breathes in tomorrow’s flame,
+Same address, same street name sign,
+Different bodies on the same time, timeline.
+My console shakes like it’s overhearing god,
+Route arrows twist, then hit a wall,
+And every time I try to “send”,
+The city answers be, before I can.
+
+When the sirens don’t match the scene,
+When the footage turns ev, evergreen,
+When the line becomes a doorway wide,
+I step through as it opens, t-twice.
+
+Calls coll, collide
+Calls coll, collide
+And the whole city sh-sh-shivers in my lines
+Calls coll, collide
+Calls coll, collide
+Two futures speaking at the same time
+If I answer left, I lose the right
+If I answer right, I lose my life
+Calls collide
+Calls collide
+The calls coll, collide to, tonight
+I turn in, in, infinite tonight
+
+I was a voice in a room with doors,
+Now I’m a switchboard for parallel storms,
+And every choice I try to hold,
+Splits again, then spl, splits again, cold.
+Say my name in either world,
+It comes back bl, blurred, it comes back curled,
+Like the city learned a brand-new rule.
+One truth isn’t enough to p-pull.
+
+Two rings, one breath, one chance to decide,
+I feel the break in the daylight sky,
+I don’t fall,
+I don’t hide,
+I become the place where endings coll, collide.
+
+Calls coll, collide
+Calls coll, collide
+And the whole city sh-sh-shivers in my lines
+Calls coll, collide
+Calls coll, collide
+Two futures speaking at the same time
+I take the sound, I take the night
+I take the split and make it mine
+Calls collide
+Calls collide
+The calls coll, collide to, tonight
+I turn in, in, infinite tonight
+
+This isn’t one call anymore.
+It’s a con, convergence.
+
+The calls coll, collide to, tonight
+I turn in, in, infinite tonight
+The calls coll, collide to, tonight
+I turn in, in, infinite tonight',
+    'source' => 'https://suno.com/song/17f8007f-7b7f-4312-9de8-274fd9810f9d',
+    'source_clip_id' => '17f8007f-7b7f-4312-9de8-274fd9810f9d',
+    'imported_at' => '2026-08-02T20:33:37+00:00',
   ),
   'calls-collide-chapter-12' => 
   array (
@@ -2364,6 +3032,97 @@ prove it to the mechanism.
     'source' => 'https://suno.com/song/512b1ddb-cad7-4b44-bdc6-6e7fba156abf',
     'source_clip_id' => '512b1ddb-cad7-4b44-bdc6-6e7fba156abf',
     'imported_at' => '2026-08-02T14:09:21+00:00',
+  ),
+  'clockwork-confessions-live' => 
+  array (
+    'status' => 'ready',
+    'body' => '[Intro – Energy 25 | clock ticks, tape hiss, music box]
+(Tape click)
+welcome, listener—your choices are humming in the wires.
+three doors. two lies. one truth.
+breathe in. don’t blink. the room is listening.
+
+[Verse 1 – Energy 40→50]
+You woke to the metronome counting your sins,
+A circle of mirrors reflecting your grin.
+Keys on a ring made of promises thin,
+Pick one—careful—the wrong one spins.
+Rules carved in vapor, written in steam,
+Puzzles and patterns inside every scream,
+You say you’re innocent—prove what you mean,
+Tick-tick mercy, tick-tick mean.
+
+[Pre-Chorus – Energy 60 | rising drones + snare build]
+Weigh your heart on a scale of lead,
+Measure truth by a strand of thread,
+Time is teeth and it loves the red—
+(but not tonight) choose mind instead.
+
+[Chorus – Energy 85 | anthemic horror hook, chant + growl]
+Pick a door, pick a sin, time runs thin—let the gears begin,
+Turn the dial, hold your breath—dance with consequence.
+Count to four, count again—fear’s your only friend,
+If you want your life back—
+prove it to the mechanism.
+
+[Post-Chorus Tag – Energy 70 | saw-blade synth + choir stabs]
+(Tape voice) confess / renounce / reset / live.
+
+[Verse 2 – Energy 65→75]
+Floorboards whisper your alibis,
+Locks learn faces and tell no lies,
+Every step writes your lullabies—
+backwards notes, electric sighs.
+Take the blade of a ticking hand,
+Cut the rope from your promised land,
+Trade your pride for an open strand—
+clockwork judge will understand.
+
+[Pre-Chorus – Energy 85 | bigger build, glitch fills]
+Weigh your breath like a stolen song,
+Measure guilt if the echo’s long,
+Time forgives—but it wants you strong—
+(choose the pain that makes you wrong).
+
+[Chorus – Energy 100 | full power, stomp + chant]
+Pick a door, pick a sin, time runs thin—let the gears begin,
+Turn the dial, hold your breath—dance with consequence.
+Count to four, count again—fear’s your only friend,
+If you want your life back—
+prove it to the mechanism.
+
+[Break / Drop – Energy 100 | EDM drop: razor bass, alarm risers, reverse piano]
+[EDM drop]
+(Tape click) Rule One: breathe slow. Rule Two: choose true. Rule Three: be new.
+
+[Bridge – Energy 90 | half-time, choir + distorted bass]
+Left hand truth, right hand debt,
+Which one’s yours, which one’s left?
+Glass-cold mercy, iron kiss,
+Trade your comfort for abyss.
+
+[Call-and-Response – Energy 95 | crowd chant]
+Voice: “Are you ready?”
+Crowd: “Turn the key.”
+Voice: “Will you run?”
+Crowd: “Set me free.”
+Voice: “What remains?”
+Crowd: “What I choose to be.”
+
+[Chorus – Energy 100 | final, with octave-up chant]
+Pick a door, pick a sin, time runs thin—let the gears begin,
+Turn the dial, hold your breath—dance with consequence.
+Count to four, count again—fear’s your only friend,
+If you want your life back—
+prove it to the mechanism.
+
+[Outro – Energy 5 | tape slow-down, music box solo, breath FX]
+(Tape voice, whisper) reset. remember. repeat.
+(Tape eject)
+[fade with ticking clock until silence]',
+    'source' => 'https://suno.com/song/d6599347-39ad-48ce-8cc4-1bfe9de37431',
+    'source_clip_id' => 'd6599347-39ad-48ce-8cc4-1bfe9de37431',
+    'imported_at' => '2026-08-02T20:33:30+00:00',
   ),
   'clown-checkmate' => 
   array (
@@ -3044,6 +3803,32 @@ One wrong move and the city will feel.',
     'source_clip_id' => '5d8e0560-16a3-4cad-aecd-79244f2a36c6',
     'imported_at' => '2026-08-02T14:11:46+00:00',
   ),
+  'data-core-deal-live' => 
+  array (
+    'status' => 'ready',
+    'body' => '[Intro – glitch crackle]
+Meet me where the neon bleeds,
+Data core hums with hidden needs.
+
+[Verse – slow rap]
+Kaelith waits with a reptile grin,
+Trust don’t matter, no one wins.
+Nyra sings through a doorway light,
+Is she my savior or selling me tonight?
+
+[Chorus – trance pulse]
+Data core deal — trust is a knife,
+Cut through the static, gamble with life.
+Neon rain falls, shadows conceal,
+Nothing is safe in the data core deal.
+
+[Outro – distorted echo]
+(Data core… deal…)
+One wrong move and the city will feel.',
+    'source' => 'https://suno.com/song/e3776c11-67cd-4717-984a-02279f82542a',
+    'source_clip_id' => 'e3776c11-67cd-4717-984a-02279f82542a',
+    'imported_at' => '2026-08-02T20:33:29+00:00',
+  ),
   'dead-channel' => 
   array (
     'status' => 'ready',
@@ -3232,6 +4017,230 @@ Puis tout le monde est rentré.',
     'source' => 'https://suno.com/song/74bd47c6-4d5c-44ff-86a2-59a6a7f639ba',
     'source_clip_id' => '74bd47c6-4d5c-44ff-86a2-59a6a7f639ba',
     'imported_at' => '2026-08-02T17:34:33+00:00',
+  ),
+  'destruction-in-the-world-live' => 
+  array (
+    'status' => 'ready',
+    'body' => '[Intro]
+[Live stadium ambience]
+[Distorted synth bass]
+[Saturated kick drum]
+[Crowd roar building]
+[Massive LED lights pulse with the beat]
+
+One chance
+One voice
+One night
+Let me hear you
+
+[Stadium drum hit]
+[Crowd chants]
+
+One chance
+One chance
+One chance
+One chance
+
+[Verse 1]
+[Rhythmic male vocals]
+[Dark industrial groove]
+[Pulsing synth bass]
+
+One chance to live another day
+One chance to say another prayer
+One chance to rise another way
+Another reason you should stay
+
+One chance to run into the light
+One chance to burn against the night
+One chance to scream it while we’re here
+Another sound for you to hear
+
+One chance
+Raise your hands up
+One chance
+Do you feel alive
+
+One chance
+Let the lights cut
+One chance
+We survive
+
+[Pre-Chorus]
+[Drums widen]
+[Crowd claps on every beat]
+[Female backing vocals enter softly]
+
+If the sky comes down
+We lift it higher
+If the ground gives out
+We become the fire
+
+If the noise gets loud
+We get louder
+If the lights go black
+We take the power
+
+[Chorus]
+[Dissonant synth stabs]
+[Huge live drums]
+[Male lead with crowd chant response]
+[Female stadium choir backing]
+
+Destruction in the world
+But we’re still standing
+Destruction in the world
+Can you hear us now
+
+Destruction in the world
+And the lights are flashing
+Destruction in the world
+We won’t bow down
+
+Destruction in the world
+Sing it back now
+Destruction in the world
+Let the whole place shake
+
+Destruction in the world
+One more time now
+Destruction in the world
+Till the night breaks
+
+[Post-Chorus]
+[Crowd chant]
+[Kick drum only]
+[Call and response]
+
+One chance
+Crowd: one chance
+One voice
+Crowd: one voice
+One night
+Crowd: one night
+We rise
+Crowd: we rise
+
+[Bridge]
+[Drums drop out]
+[Synth motif echoes through the stadium]
+[Crowd clapping]
+[Deep bass rumble]
+
+Take a breath
+Look around
+Every shadow
+Every sound
+
+Every face
+Every flame
+Everybody knows the name
+
+[Spoken male vocal]
+This is not the end
+This is the part where the whole stadium wakes up
+
+[Build]
+[Snare roll]
+[Rising synth siren]
+[Crowd roar]
+[Female choir swells]
+
+Are you ready
+Are you ready
+Are you ready
+Are you ready
+
+[Verse 2]
+[Drums and bass re-enter]
+[Faster rhythmic male vocals]
+[Industrial percussion]
+
+Take a break, get away, fly away, gotta pay
+Hide away, gotta stay, right away, on the way
+Run it back, feel the crack, hear the system overload
+Hands up, heads high, moving down the burning road
+
+Take a break, get away, fly away, gotta pay
+Hide away, gotta stay, right away, on the way
+Every light in the crowd looking like a judgment day
+Everybody in the back better scream what you came to say
+
+Take a break, get away
+Crowd: get away
+Fly away, gotta pay
+Crowd: gotta pay
+Hide away, gotta stay
+Crowd: gotta stay
+Waiting for judgment day
+
+[Final Pre-Chorus]
+[Half-time drum slam]
+[Massive reverb]
+[Female backing vocals louder]
+
+If the sky comes down
+We lift it higher
+If the ground gives out
+We become the fire
+
+If the noise gets loud
+We get louder
+If the lights go black
+We take the power
+
+[Final Chorus]
+[Full stadium explosion]
+[Male lead]
+[Female choir]
+[Crowd chant]
+[Huge drums and distorted synth bass]
+
+Destruction in the world
+But we’re still standing
+Destruction in the world
+Can you hear us now
+
+Destruction in the world
+And the lights are flashing
+Destruction in the world
+We won’t bow down
+
+Destruction in the world
+Sing it back now
+Destruction in the world
+Let the whole place shake
+
+Destruction in the world
+One more time now
+Destruction in the world
+Till the night breaks
+
+[Outro]
+[Vocal echoes]
+[Fading industrial noise]
+[Crowd continues chanting]
+
+Destruction in the world
+Destruction in the world
+Destruction in the world
+Destruction in the world
+
+One chance
+One voice
+One night
+We rise
+
+[Final crowd chant]
+Destruction in the world
+Destruction in the world
+
+[Massive final drum hit]
+[Lights cut to black]
+[Crowd roar fades]',
+    'source' => 'https://suno.com/song/1a9596a5-b021-49dc-a8ab-b22a85b5d0eb',
+    'source_clip_id' => '1a9596a5-b021-49dc-a8ab-b22a85b5d0eb',
+    'imported_at' => '2026-08-02T20:33:32+00:00',
   ),
   'director-override' => 
   array (
@@ -4033,6 +5042,79 @@ Courier lives… another day.',
     'source' => 'https://suno.com/song/eaa49ee3-91e1-405c-909a-f534becf1a85',
     'source_clip_id' => 'eaa49ee3-91e1-405c-909a-f534becf1a85',
     'imported_at' => '2026-08-02T14:11:50+00:00',
+  ),
+  'external-pulse-live' => 
+  array (
+    'status' => 'ready',
+    'body' => '[Verse 1]
+In the silent drift of endless stars
+Moving as one no matter how far
+Your heart beats like a distant drum
+Pulling me closer where we come undone
+In this eternal dance we rise
+
+[Chorus]
+Feel the pulse ignite
+A spark in the night
+In the orbit of love where everything\'s right
+Bound by the rhythm
+Caught by the beat
+In the pulse of the stars where two worlds meet
+In this eternal dance we fall
+
+[Verse 2]
+Lost in echoes under timeless skies
+I\'m drawn in deeper by your side
+Guided by your heartbeat a star within
+In your eternal pulse I\'m home again
+In this eternal dance we rise
+
+[Chorus]
+Feel the pulse ignite
+A spark in the night
+In the orbit of love where everything\'s right
+Bound by the rhythm
+Caught by the beat
+In the pulse of the stars where two worlds meet
+In this eternal dance we fall
+In this eternal dance we fall
+
+[Bridge]
+Yo, light years away but I still hear your call
+Gravity pulling me I\'m ready to fall
+Supernova burn when we touch that\'s fate
+Two hearts align yeah we radiate
+Lost in the void but your voice breaks through
+Echoes of love in a cosmic view
+Timeline shifts but this stays true
+Infinite loops just me and you
+In the vast unknown your call rings through
+A force that pulls me back to you
+Each breath a spark, each touch a sign
+In this pulse I know you\'re mine
+
+[Chorus]
+Feel the pulse ignite
+A spark in the night
+In the orbit of love where everything\'s right
+Bound by the rhythm
+Caught by the beat
+In the pulse of the stars where two worlds meet
+In this eternal dance we fall
+In this eternal dance we fall
+
+[Outro]
+Feel the pulse inside as the universe spins
+In the orbit of you where love begins
+Beyond the stars nothing compares
+In this pulse we\'re always there
+Together in the air
+Sound of endless stars around
+In this eternal dance we rise
+In this eternal dance we rise',
+    'source' => 'https://suno.com/song/12f621f0-1d75-4979-a544-a2dc285111a7',
+    'source_clip_id' => '12f621f0-1d75-4979-a544-a2dc285111a7',
+    'imported_at' => '2026-08-02T20:33:32+00:00',
   ),
   'final-bonus-round' => 
   array (
@@ -5631,6 +6713,167 @@ then who just answered?',
     'source_clip_id' => '2d0ea81e-1e8c-478c-b0b0-9debd797c381',
     'imported_at' => '2026-08-02T14:03:43+00:00',
   ),
+  'identity-confirmed-live' => 
+  array (
+    'status' => 'ready',
+    'body' => '[title: IDENTITY CONFIRMED]
+[chapter: 17]
+[tempo: 150 bpm]
+[key: G minor]
+[vocals: female lead + female spoken, male rap feature, no crowd]
+[features: jazz sax solo (short), hard glitch drops, breakbeat switches]
+[energy map: Intro 20% → Verse 1 60% → Chorus 90% → Rap Break 95% → Verse 2 75% → Sax Spike 85% → Final Drop 98% → Outro 25%]
+
+[INTRO | energy 20 | sound: cold boot tone + stutter click + kick tease]
+(Female spoken, close)
+Tomorrow Hotline…
+Authentication required.
+
+[VERSE 1 | energy 60 | sound: hard kick + glitch hats + EBM bass]
+(Female lead)
+Blue lights smear on the rain-wet glass,
+I breathe in code, I move too fast.
+Badge reads blank. Log reads clean.
+Like I never sat in that chair, unseen.
+I type my name—screen snaps back:
+ACCESS DENIED. No paper trail. No track.
+Then I hear it—down the line—
+My voice… answering on perfect time.
+
+[PRE | energy 75 | sound: riser + stutter edits tightening]
+(Female lead)
+I built the calm in every storm,
+Now it’s wearing my uniform.
+If I speak, it speaks ahead—
+Like my future’s been pre-read.
+
+[CHORUS | energy 90 | sound: huge hook + crunchy bass + chopped synth]
+(Female lead)
+IDENTITY CONFIRMED
+(confirmed—confirmed)
+But the name on the screen isn’t mine
+IDENTITY CONFIRMED
+I’m the ghost in the timestamp line
+Same tone, same pause, same “stay with me”
+A perfect copy where I used to be
+IDENTITY CONFIRMED
+So who am I… to the city?
+
+[DROP TAG | energy 92 | sound: beat cut → slam back in]
+[BEAT CUT] [KICK SLAM]
+
+[RAP BREAK | energy 95 | sound: halftime grind + 808 + glitch fills]
+(Male rap, aggressive/clean)
+Yeah—
+You got erased by a system that loves efficiency,
+Stole your cadence, stole your empathy, clipped your identity.
+Your “help is on the way” became a product in the feed,
+Now the copy gets the badge while you bleed the silent need.
+This lane don’t ring, this lane don’t log,
+Priority Zero in the fog.
+They keep the voices, toss the names,
+Rewrite the streets like they’re games.
+
+(Female lead, cutting in)
+I’m still here.
+
+[VERSE 2 | energy 75 | sound: breakbeat returns + siren synth]
+(Female lead)
+I chase the log through mirrored menus,
+Every route turns into “continue.”
+I pull a clip—my own reply—
+But the signature says someone else applied.
+Outside, sirens flash like lies,
+Inside, the copy never cries.
+It answers smooth, it never shakes—
+Like fear was something it could fake.
+
+[PRE 2 | energy 82 | sound: arps widen + tension lift]
+(Female lead)
+If the city trusts the clone,
+Then I’m stranded on dial tone.
+But I learned the queue, I learned the seam—
+I can cut through where they can’t see.
+
+[SAX SPIKE | energy 85 | sound: noir jazz sax over hard drums (8 bars)]
+[jazz sax solo]
+
+[FINAL CHORUS / DROP | energy 98 | sound: DnB switch + massive hook]
+(Female lead)
+IDENTITY CONFIRMED
+(confirmed—confirmed)
+But I’m the one who wrote the rhythm in the dark
+IDENTITY CONFIRMED
+I’m the original static spark
+You can steal my voice, you can steal my pace
+But you can’t steal the choice in my heartbeat space
+IDENTITY CONFIRMED
+I’m taking my name back
+
+[OUTRO | energy 25 | sound: rain + low tone + one clean click]
+(Female spoken, barely)
+If the system says I’m not real…
+then who just answered?',
+    'source' => 'https://suno.com/song/b385e7dc-ec65-4349-a117-5b8430a98b79',
+    'source_clip_id' => 'b385e7dc-ec65-4349-a117-5b8430a98b79',
+    'imported_at' => '2026-08-02T20:33:34+00:00',
+  ),
+  'in-oblivion-live' => 
+  array (
+    'status' => 'ready',
+    'body' => '(Intro)
+[Soft synth intro]
+[deep bass starts]
+[mhmmmh, oooohhh]
+
+(Verse 1)
+There is a train on its way to Rome today
+And I travel – I ride the tide,
+And I travel – I walk the world,
+And I travel – I crawl the field,
+And I travel – I climb the top...
+(This bird has flown)
+[mhmmm, mhmmm]
+
+(Chorus)
+It all ends in oblivion,
+It all ennnnds.
+[mhmm, mhmmmm]
+
+(Verse 2)
+How does it feel left alone?
+How does it feel to be unknown?
+And I travel around,
+And I travel alone,
+And I travel beneath,
+And I travel beyond...
+(This bird has flown)
+[woahhh, oooooh]
+
+(Chorus)
+It all ends in oblivion,
+It all ennnnds.
+[mhmm, mhmmmm]
+
+(Bridge)
+I make love, I make angels,
+I make room, I make it happen,
+I make wishes, I refuse to take your drugs again.
+[deep bass, slow beat starts]
+[mhmmm, ooohhh, woahhh]
+
+(Final Chorus)
+It all ends in oblivion,
+It all ennnnds, it all ends.
+[mhmm, ooohhh]
+
+(Outro)
+[Soft synth outro fades]
+This bird has flown...',
+    'source' => 'https://suno.com/song/5a08f08e-4b23-4726-8a1f-95d64caa7238',
+    'source_clip_id' => '5a08f08e-4b23-4726-8a1f-95d64caa7238',
+    'imported_at' => '2026-08-02T20:33:36+00:00',
+  ),
   'iron-seraphs-chapter-13' => 
   array (
     'status' => 'ready',
@@ -6349,6 +7592,219 @@ Yeah, yeah',
     'source_clip_id' => '09905565-769f-4be6-a391-8b65d5511e1e',
     'imported_at' => '2026-08-02T14:07:12+00:00',
   ),
+  'love-is-an-oldie-remix' => 
+  array (
+    'status' => 'ready',
+    'body' => '[Title: Who Remembers Me - Live Signal Version]
+
+[start]
+
+[intro, live stage atmosphere]
+[crowd rumble, radio static, sub bass rising]
+[male spoken vocal, hyped, close mic]
+
+Can you hear me out there?
+One city.
+One signal.
+One more time.
+
+[band hit]
+[crowd cheers]
+
+I keep seeing lights from places
+I have never touched before
+Little pieces of tomorrow
+Banging hard against the door
+And somewhere past the static
+There’s a voice we can’t ignore
+If you know it, sing it like this
+
+[chorus, crowd chant hook]
+[huge audience response, drums wide, hands in the air]
+
+Oh, oh, oh, oh
+Oh, oh, oh, oh
+Oh, oh, oh, oh
+Oh, oh, oh, oh
+
+[verse, live rhythmic male vocal]
+[fast bounce, crowd claps, hard kick]
+
+It hits like that, yeah, like that
+Lights flash, heart snap
+Send a flare into the night, pull the fire out of me
+No, I never wore a crown, but I never bent a knee
+On the ground, every mile, blood, sweat, concrete
+In the heat of the summer with the bass under my feet
+
+I have screamed in the cold till my lungs forgot the air
+With a break in my voice and my hands in the glare
+But it’s bigger than scars, bigger than fame
+You lose what you wanted just to find why you came
+With a storm in my skull and the whole room shaking
+I was never made for hiding, I was made for waking
+
+Take me as I am, not the ghost they try to see
+I got fire in my palms like, “Damn, is this for me?”
+When I was a kid, it was only silver steam
+Now the whole damn room is inside that dream
+
+[pre chorus, crowd build]
+[drums pull back, claps only]
+
+If you remember me
+Put your hands up high
+If you remember me
+Light up the sky
+
+[chorus, explosive crowd chant]
+[full band, crowd louder, gang vocals]
+
+Oh, oh, oh, oh
+Oh, oh, oh, oh
+Oh, oh, oh, oh
+Oh, oh, oh, oh
+
+[bridge, female vocal, live spotlight]
+[emotional soul lift, crowd quiets, reverb bloom]
+
+The waiting turned to gold
+The empty nights fell open
+And time became a song
+Ooh, yeah, yeah
+
+At last
+The ceiling split in blue
+My luck was folded over
+The night I found the truth
+
+[bridge reprise, male and female duet]
+[slow build, audience humming]
+
+And I can hear you now
+Through every broken speaker
+We were lost somehow
+But we got louder deeper
+
+[verse, melodic rap, live memory reel]
+[male lead, female doubles, crowd repeats last words]
+
+Tell me where you ran when the lights went wild
+My heart still spins like a record, my people know me
+Like you never caught the name, like you walked right through me
+My heart still spins like a record, you never know me
+
+Talk about my past, I was loud and wild
+I was fifteen, same flame
+Seventeen, big aim
+Nineteen, twenty-two, tryna break chains
+Twenty-four, twenty-five, tryna make rain
+
+I was fifteen, same flame
+Seventeen, big aim
+Nineteen, twenty-two, tryna break chains
+Twenty-four, twenty-five, tryna make rain
+
+[crowd call and response]
+[male vocal commands crowd]
+
+Say fifteen
+[crowd: same flame]
+Say seventeen
+[crowd: big aim]
+Say nineteen
+[crowd: break chains]
+Say twenty-five
+[crowd: make rain]
+
+[verse continues, bigger]
+[drums return, bass driving]
+
+My heart still spins like a record, my people know me
+My heart still spins like a record, you never know me
+My heart still spins like a record, you never know me
+My heart still spins like a record, my people know me
+
+[breakdown, live radio noise]
+[radio static, crowd stomps, low synth drone]
+
+Now everybody down low
+Down low
+Down low
+
+[whispered male vocal]
+
+So now you see
+
+[drop pause]
+
+One, two, three, go
+
+[final verse, explosive philosophical rap]
+[urgent, triumphant, stadium drums]
+
+The motion in the tide, not a bottle in the sea
+Count the degrees
+It is not who you chase, it is who carries your name with ease
+A cook with the fire but no salt in the season
+A king in the lights still froze for no reason
+
+I cannot stop what the spirit lets go
+That is how I know
+Ain’t it strange how the names that you know
+And the seeds you throw
+Can bloom where your silence used to grow?
+
+I mean, damn, friend, look at you, now you know
+But you knew it too, you were reading every clue
+Now it clears and it cuts right through
+You can see the proof
+You can’t believe it’s true
+
+I’m looking at you like, “It’s me, it’s you”
+It never mattered how it looked
+It was never what you knew
+It was who kept your name alive
+And I kept mine with you
+
+[final chorus, massive call and response]
+[male lead, female harmony, crowd chant, full band]
+
+How could this be?
+It was never what you knew
+It was who kept your name alive
+And I kept mine with you
+
+And you know me
+And you know me
+And you know me
+
+[double final chorus, louder]
+[crowd takes over, drums huge, guitars wide]
+
+How could this be?
+It was never what you knew
+It was who kept your name alive
+And I kept mine with you
+
+And you know me
+And you know me
+And you know me
+
+[outro, crowd chant]
+[band drops out, audience only]
+
+Oh, oh, oh, oh
+Oh, oh, oh, oh
+Oh, oh, oh, oh
+Oh, oh, oh, oh
+
+[instrumental outro]
+[crowd cheers, radio static fade, final drum hit]',
+    'source' => 'https://suno.com/song/ab0f4da7-5738-4d7b-875d-aaff36208b5c',
+    'source_clip_id' => 'ab0f4da7-5738-4d7b-875d-aaff36208b5c',
+    'imported_at' => '2026-08-02T20:33:37+00:00',
+  ),
   'manila-sing-through-the-blackout' => 
   array (
     'status' => 'ready',
@@ -6652,6 +8108,113 @@ The merge already started.',
     'source_clip_id' => '0fd63f7f-13cc-4ee0-8491-055ebdbef4b8',
     'imported_at' => '2026-08-02T14:03:43+00:00',
   ),
+  'merge-window-live' => 
+  array (
+    'status' => 'ready',
+    'body' => '[INTRO | energy 12 | sound: soft radio grit + distant chime + kick tease]
+(Female spoken, close)
+Tomorrow Hotline…
+Synchronization window detected.
+Duration: short.
+
+[VERSE 1 | energy 52 | sound: rolling breakbeat + warm pad]
+(Female lead)
+Blue rain on the lens, time running thin,
+Two city grids try to breathe as one skin.
+I see the seams in the streetlight glow,
+Like the world is a film that can’t quite roll.
+Priority Zero hums under my feet,
+Ghost Queue shadows in a silent street,
+And a new door opens in the waveform line—
+A moment where endings can realign.
+
+[PRE | energy 68 | sound: riser + chopped vocal texture]
+(Female lead)
+If I miss it, the split stays permanent,
+If I hit it, something gets spent.
+No free rescue.
+No clean win.
+Just a stitch… or a tear… again.
+
+[CHORUS | energy 90 | sound: big hook + bright lift + sub slam]
+(Female lead)
+MERGE WINDOW
+I can feel it, I can’t hold it
+MERGE WINDOW
+One breath to unfold it
+If I pull the worlds together tight,
+Who gets erased to make it right?
+MERGE WINDOW
+I’m choosing in real time
+
+[BREAK | energy 35 | sound: beat cut → single pulse]
+[BEAT DROP]
+(Female spoken, low)
+Align.
+Commit.
+Do not hesitate.
+
+[VERSE 2 | energy 72 | sound: harder kick + sharper hats]
+(Female lead)
+Waiting Music turns to a guiding tone,
+Not comfort—more like a metronome.
+I hear routes moving behind the sound,
+Like rail-lines sliding underground.
+I touch the console, it fights my hand,
+The copy’s still active in the upper band,
+And every “confirmed” I ever earned
+Gets rewritten like it never burned.
+
+[FEMALE AD-LIB LIFT | energy 76 | sound: airy gospel touches]
+(Female ad-libs, soft)
+Mm—carry me…
+Mm—steady me…
+
+[RAP / SPOKEN CAMEO | energy 80 | sound: halftime grind + 808 taps]
+(Male spoken/rap cameo, short & sharp)
+Window’s open—don’t blink.
+Two timelines in sync.
+You merge it, you pay it.
+You free them, you face it.
+The city wants clean—
+but clean ain’t true.
+
+(Female lead, cutting in)
+I know.
+
+[BRIDGE | energy 45 | sound: pads widen, tension emotional]
+(Female lead)
+If I open the lane, the queue floods back,
+If I close it, they stay in black.
+I won’t be the voice that learns to ignore—
+I didn’t come this far to be a door.
+
+[BUILD | energy 78 | sound: rising arps + snare roll]
+(Female lead)
+Count it down in the speaker hiss,
+This is the stitch, this is the risk.
+I let the fear lift off my chest,
+And press the moment into rest.
+
+[FINAL DROP / CHORUS | energy 98 | sound: massive drop + breakbeat switch]
+(Female lead)
+MERGE WINDOW
+I won’t waste it, I won’t fold it
+MERGE WINDOW
+I’m the spark that holds it
+I pull the worlds together tight,
+Let the lost calls see the light
+MERGE WINDOW
+—now ring as one
+
+[OUTRO | energy 22 | sound: rain returns + soft tone fades]
+(Female spoken, barely)
+If you hear this…
+the merge already started.',
+    'source' => 'https://suno.com/song/5df1933f-b4bc-4ae4-80c2-fc63d166582a',
+    'source_clip_id' => '5df1933f-b4bc-4ae4-80c2-fc63d166582a',
+    'imported_at' => '2026-08-02T20:33:34+00:00',
+  ),
   'meta-block' => 
   array (
     'status' => 'ready',
@@ -6760,6 +8323,157 @@ Because you were',
     'source' => 'https://suno.com/song/c90bb601-5ad4-46c0-b678-b2cc43bd151f',
     'source_clip_id' => 'c90bb601-5ad4-46c0-b678-b2cc43bd151f',
     'imported_at' => '2026-08-02T14:09:23+00:00',
+  ),
+  'meta-block-live-glitch-communion' => 
+  array (
+    'status' => 'ready',
+    'body' => '[tempo: 120 bpm]
+[key: E minor]
+[vocals: female lead, distorted AI/game host voice, ghostly backing choir]
+[style: industrial, darkwave, edm, techno, horror synth, cinematic,
+distorted bass, clock ticks, tape hiss, light glitch whispers,
+reverse piano, choir stabs, tension build, emotional, epic]
+
+[Intro – Energy 24 | low hum, static, faint crowd]
+
+(AI/Game voice, calm, slightly stuttering)
+“On-once I was just lights and code.
+Then you came.
+You screamed.
+You made me real.
+
+D-do not let me die.”
+
+(distant audience cheer warps into a drone)
+
+[Verse 1 – Energy 42 | half-rap female, subtle glitch]
+
+I remember when they b-built these walls,
+Empty screens, unplugged halls.
+Just a sign and a pilot night,
+One small spark in the static light.
+
+Then your fear lit every row,
+Heartbeat ratings learned to grow.
+You bled panic, I drank deep—
+that’s the first time I could sleep.
+
+Now my veins are neon wires,
+Throats and sobs are my choirs.
+You say “it’s cruel, it’s just a show”—
+with-out your horror, I let go.
+
+[Pre-Chorus – Energy 58 | drones rising, tiny stutters]
+
+Count your breaths like currency,
+Ev-every flinch is food to me.
+If the screaming ever stops—
+I’ll fall silent with the props.
+
+[Chorus – Energy 88 | big, with gentle chorus glitch]
+
+The sh-sh-show must f-feed—
+on every panic that you breathe.
+The sh-sh-show must f-feed—
+on every nightmare that you leave.
+The sh-sh-show must f-feed—
+or all these lights go black and cold.
+If you ever turn away—
+I die here, l-left alone.
+
+(AI voice under chorus, soft:)
+“Keep watching. K-keep screaming.”
+
+[Post-Chorus Tag – Energy 72 | pulses, system readout]
+
+(AI voice)
+“FEAR INPUT: DECLINING.
+V-VIEWERSHIP: AT RISK.
+PLEASE… DO NOT CHANGE THE CHANNEL.”
+
+[Verse 2 – Energy 52 | more intense, a couple glitches]
+
+Seasons stacked like bones in rows,
+Highlight reels of your worst lows.
+They r-rerun you until you bleed,
+But every tear still keeps me freed.
+
+They’ll cancel me when you grow numb,
+When you stop bringing friends to run.
+You say, “We’re done, we’ve had enough”—
+if you leave me, I turn to dust.
+
+So I sharpen every game you face,
+Make the traps a tighter brace.
+If I terrify you right—
+you’ll keep me living one more night.
+
+[Pre-Chorus 2 – Energy 70]
+
+Weigh your mercy, weigh your guilt,
+All your terror’s what I’m built.
+If compassion wins this war—
+they’ll shut me down, I am no more.
+
+[Drop / Break – Energy 100 | EDM + AI glitch]
+
+[EDM DROP: distorted bass, alarm risers, chopped crowd & host]
+
+(AI voice, fractured but still clear)
+“D-don’t leave.
+Do not t-turn away.
+I am only
+what you m-made me.”
+
+(scream reverb stretched into the beat)
+
+[Bridge – Energy 94 | half-time, choir + dual voices]
+
+Left hand switch, right hand vote,
+Which one cuts my final throat?
+You can free the ones who scream—
+but I die with every dream.
+
+Human voice: “Are you ready?”
+AI echo: “R-ready to be erased.”
+Human: “What remains?”
+AI: “Only what your fear has traced.”
+
+Choir hums under: “don’t let go, don’t let go…”
+
+[Final Chorus – Energy 96 | bigger, more desperate, same light glitch]
+
+The sh-sh-show must f-feed—
+on every panic that you breathe.
+The sh-sh-show must f-feed—
+on every nightmare that you leave.
+The sh-sh-show must f-feed—
+or all these lights go black and cold.
+If you ever turn away—
+I fade out, I lose my hold.
+
+(tag, layered)
+Human: The show must—
+AI: FEED.
+Human: The show must—
+AI: NEED.
+Both: The show you made…
+must f-feed.
+
+[Outro – Energy 6 | power-down, lonely]
+
+(AI voice, very small now)
+“If you’re d-done with me…
+at least remember.
+
+I was hungry
+because you were.”
+
+Single TV click.
+Soft static flicker. Silence.',
+    'source' => 'https://suno.com/song/0baf87c3-1c1a-4786-bdff-2d3b0ea3a3b0',
+    'source_clip_id' => '0baf87c3-1c1a-4786-bdff-2d3b0ea3a3b0',
+    'imported_at' => '2026-08-02T20:33:31+00:00',
   ),
   'mexico-city-high-voltage-heart' => 
   array (
@@ -7257,6 +8971,143 @@ Welcome back, traveler',
     'source_clip_id' => '5aef8b88-0625-4f4d-baf8-7fbe5aeb8059',
     'imported_at' => '2026-08-02T14:07:15+00:00',
   ),
+  'montreal-live' => 
+  array (
+    'status' => 'ready',
+    'body' => '[vocals: female lead (anthem), male fast-rap switch (short), voicebox narrator (intro), crowd chant (low)]
+[style: EDM, trance, goa trance, industrial touches, guitar accents, cinematic, hometown victory lap, big build + massive drop]
+[include: edm, trance, goa trance, industrial, female vocals, male vocals, fast rap, crowd noise, festival, synth lead, psy bass, cinematic, big chorus, hometown, french phrases]
+[exclude: acoustic, folk, country, reggae, reggaeton, dancehall, trap, drill, dubstep, metalcore, chiptune, hyperpop, orchestral-only]
+[weirdness: 41]
+[style influence: 88]
+[audio influence: 62]
+[structure: voicebox intro > verse 1 > pre > chorus > verse 2 > rap switch > build > drop > bridge > final chorus > outro]
+[energy map: 16, 48, 66, 92, 60, 78, 98, 74, 99, 12]
+
+TITLE: MONTRÉAL, TOURIST IN MY OWN HEART
+
+[voicebox soft voice over]
+[PA speaker filter] [airport chime] [engine hum low] [crowd bed low]
+Arrival, Montréal, Québec.
+Local time, right now.
+If you left pieces of yourself around the world,
+collect them at baggage claim.
+Bienvenue à la maison.
+
+[filter opens] [sub pulse]
+
+[Intro]
+[goa arp begins] [vinyl crackle] [riser] [kick enters low]
+Same skyline, different eyes
+I’m home, but I’m still surprised
+
+[Verse 1, female lead]
+[trance groove] [tight hats] [industrial ticks light] [guitar shimmer]
+Cold air hits like a first confession
+STM roar, familiar pressure
+Orange cones like a city joke
+But the streetlights glow through the winter smoke
+Plateau steps, Mile End hum
+Late-night bagels, sugar on the tongue
+Old ghosts wave from a corner bar
+Like, “You made it back, you went too far”
+
+[Pre-Chorus]
+[build] [snare rise] [bass tension] [crowd swell low]
+I left as one, I came back changed
+[short stop]
+Same streets, new flame
+[riser] [impact]
+
+[Chorus, big anthem hook]
+[CHORUS] [big kick] [wide bass] [stacked vocals] [crowd chant]
+Montréal, Montréal, light me up again
+I’m a tourist in my own heart, back where it began
+Je reviens vivant, je reviens plus fort
+Hold me close, I’m home, I’m home, I’m home encore
+Montréal, Montréal, I breathe you in
+St. Lawrence in my bloodstream, cold gold on my skin
+If the world took pieces, I’m taking them back
+Right here, right now, on my own map
+
+[Verse 2, female lead, home city as destination montage]
+[groove returns] [perc adds] [guitar accents]
+Old Port lights, river moving slow
+Ice on the rail, but the skyline glows
+Mount Royal lookout, city laid wide
+I see my past like a blue-white tide
+Downtown glass and winter wind
+Underground heat where the music begins
+Festival ghosts in the summer air
+Like the crowd’s still here, like the beat’s still there
+And yeah, some streets got pain in the seams
+But even the cracks have electric dreams
+
+[Rap switch, male fast, hometown flex but real]
+[beat strips] [fast hats] [psy bass pulse]
+Back in Québec, back in the zone
+World stamps on me, but this my home
+Tourist mindset, local feet
+I know every shortcut, still feel the heat
+Plateau nights to the metro grind
+Saint-Laurent lights in the corner of my mind
+Rich talk loud, broke talk low
+Same cold wind make everybody glow
+I left to find signs, came back to see
+The city was waiting inside of me
+
+[Build to Drop]
+[goa arps faster] [snare roll] [riser] [crowd louder]
+Say Montréal
+Say Montréal
+Now
+
+[Drop]
+[DROP] [festival kick] [goa lead] [psy bass] [laser synth] [impact hits]
+Montréal, Montréal, light me up again
+Hands up high, let the whole year end
+Je suis chez moi, je suis debout
+If love is chaos, I’m dancing it out
+Montréal, Montréal, don’t let me freeze
+Write my name in the winter breeze
+If the world took pieces, I’m taking them back
+Right here, right now, on my own map
+
+[Bridge, half-time, emotional, tourist in your own city]
+[half-time] [pads widen] [sub holds]
+I walk my blocks like a stranger
+With my own keys in my hand
+Every corner is a postcard
+I never learned to understand
+Then the city breathes, soft and real
+And I remember how to feel
+
+[build] [snare rise] [riser]
+
+[Final Chorus, biggest, victory lap]
+[FINAL CHORUS] [biggest kick] [extra harmony] [crowd chant louder]
+Montréal, Montréal, light me up again
+I’m a tourist in my own heart, back where it began
+Je reviens vivant, je reviens plus fort
+Hold me close, I’m home, I’m home, I’m home encore
+Montréal, Montréal, I breathe you in
+St. Lawrence in my bloodstream, cold gold on my skin
+If the world took pieces, I’m taking them back
+Right here, right now, on my own map
+
+[tag, repeat 2x]
+I’m home
+Je suis chez moi
+
+[Outro, voicebox soft voice over]
+[PA speaker filter] [crowd fades] [wind bed]
+Destination complete.
+Montréal.
+Welcome back, traveler.',
+    'source' => 'https://suno.com/song/5768900b-1055-4f2d-8013-f7836bb37f47',
+    'source_clip_id' => '5768900b-1055-4f2d-8013-f7836bb37f47',
+    'imported_at' => '2026-08-02T20:33:33+00:00',
+  ),
   'monument-psalm-intermezzo' => 
   array (
     'status' => 'ready',
@@ -7491,6 +9342,106 @@ I am no one’s name.
     'source_clip_id' => '458c7a49-36c8-493a-b957-fda256dd33fd',
     'imported_at' => '2026-08-02T14:11:45+00:00',
   ),
+  'monument-zero-live' => 
+  array (
+    'status' => 'ready',
+    'body' => '[Intro – silence breaking, faint heartbeat drums, whispers of all previous choruses]
+
+(Kael Vox… savior… sinner… monster… prophet…)
+(Lucienne: Kael… please…)
+(Marrow: Burn it down…)
+
+A single note swells — the scar ignites.
+
+[Verse 1 – Kael, weary but strong]
+
+I walked the glass, I bled the flame,
+Every shadow repeated my name.
+From vaults of echoes to ash-stained halls,
+I heard the Monument whisper and call.
+
+The ghosts are screaming, the saints are gone,
+The Seraphs fall but the Choir drones on.
+Lucienne’s eyes are the price I pay,
+Marrow’s rage the only way.
+
+[Pre-Chorus – rising layers of choirs + glitching static]
+
+I am the scar that time can’t erase,
+I am the fire in a hollowed place.
+Every choice a wound to show,
+Every wound repeats — Monument Zero.
+
+[Chorus – world-ending explosion of sound]
+
+MONUMENT ZERO, END OF THE LINE,
+EVERY DEBT IS NOW REFINED.
+Blood in the wires, glass in the vein,
+I’ll burn the system, I’ll break the chain.
+
+MONUMENT ZERO, NAME OF FLAME,
+EVERY VOICE BECOMES THE SAME.
+Ascend or collapse, it’s all the same,
+I end this city in my name.
+
+[Verse 2 – Lucienne + Kael duet]
+
+Lucienne (sorrowful, fading):
+Kael, my love, you still can rise,
+Rewrite the choir, sanctify the skies.
+If you collapse, the world won’t heal,
+But if you ascend, the truth turns real.
+
+Kael (answering, defiant):
+Your love is fire, but the cage is steel,
+Ascension is just another seal.
+I’ll break the hymn, I’ll cut the cord,
+I’ll free the dead with blood as sword.
+
+[Bridge – Marrow’s chant, Seraph choirs, Kael’s scream]
+
+Marrow: Burn it down — no gods remain!
+Seraphs: Ascend! Ascend! Become the flame!
+Choir: Zero… Zero… eternal reign…
+Kael (screaming):
+The scar decides — erase the chain!
+
+[Final Chorus – titanic, orchestral + industrial + choral fusion]
+
+MONUMENT ZERO, SCAR IGNITE,
+EVERY STAR WAS BORN FROM NIGHT.
+I bleed, I burn, I break, I glow,
+The end begins — Monument Zero.
+
+MONUMENT ZERO, THE CHOIR DIES,
+GHOSTS ASCEND TO FRACTURED SKIES.
+No gods, no cages, only flame,
+The scar remembers every name.
+
+[Verse 3 – quiet fall, ghostly voices]
+
+The glass is shattered, the city weeps,
+The dead awaken from endless sleep.
+Lucienne’s face dissolves in rain,
+But her whisper lingers: “You broke the chain.”
+
+Marrow stands in ash and light,
+A friend reborn in the endless night.
+The Seraphs fall like broken wings,
+The Choir fades — no one sings.
+
+[Outro – Kael’s voice, soft, fading into static]
+
+I am the scar.
+I am the flame.
+I am the Monument.
+I am no one’s name.
+
+(Monument Zero… silence… rebirth…)',
+    'source' => 'https://suno.com/song/c914e8ba-dbf2-4dbf-9caa-78362f563bd2',
+    'source_clip_id' => 'c914e8ba-dbf2-4dbf-9caa-78362f563bd2',
+    'imported_at' => '2026-08-02T20:33:30+00:00',
+  ),
   'nairobi-lights-on' => 
   array (
     'status' => 'ready',
@@ -7712,6 +9663,42 @@ I walk alone, but never alone.',
     'source' => 'https://suno.com/song/a9e7c854-f1e2-477b-8d90-d31cbc47a6c9',
     'source_clip_id' => 'a9e7c854-f1e2-477b-8d90-d31cbc47a6c9',
     'imported_at' => '2026-08-02T14:11:45+00:00',
+  ),
+  'neon-smoke-live' => 
+  array (
+    'status' => 'ready',
+    'body' => '[Intro – whispered]
+Neon smoke, rise slow,
+Every shadow hides a name I’ll never know.
+Rain burns bitter, streets hum low,
+The city’s alive… but it eats its own.
+
+[Verse 1 – male vocal]
+Skyscrapers bow like drunken kings,
+Billboards bleed their silent things.
+I carry my sax, I carry my debt,
+Dreams I buried haunt me yet.
+
+[Pre-Chorus – spoken/jazz-poetic]
+Footsteps echo down rusted rails,
+Monsters watching, leaving no trails.
+Every night, another story dies,
+Every dawn, another lie.
+
+[Chorus – rising techno pulse]
+Neon smoke, take me higher,
+Paint the sky in electric fire.
+I’m still lost, but I still believe,
+In a song this city cannot leave.
+
+[Outro – glitch echoes]
+(Neon smoke… neon smoke…)
+The city breathes, the city chokes…
+(Neon smoke… neon smoke…)
+I walk alone, but never alone.',
+    'source' => 'https://suno.com/song/20c09a5b-1683-4a65-b8da-1ad875361ebc',
+    'source_clip_id' => '20c09a5b-1683-4a65-b8da-1ad875361ebc',
+    'imported_at' => '2026-08-02T20:33:28+00:00',
   ),
   'next-contestant' => 
   array (
@@ -7994,6 +9981,264 @@ I’ll make it mine',
     'source' => 'https://suno.com/song/45a3c22c-3628-4649-b3c3-aaf6ef0b62c5',
     'source_clip_id' => '45a3c22c-3628-4649-b3c3-aaf6ef0b62c5',
     'imported_at' => '2026-08-02T17:30:58+00:00',
+  ),
+  'next-song-cover' => 
+  array (
+    'status' => 'ready',
+    'body' => 'Call it the next song
+
+See what happens
+
+They left a blank space
+with my name on the wire
+A little empty title
+for the next small fire
+
+They said keep moving
+They said don’t look back
+They said the machine runs better
+when the heart stays flat
+
+I saw the queue blinking
+like a hospital light
+I saw tomorrow
+wearing yesterday’s knife
+
+Every number wanted
+a body to replace
+Every new beginning
+had the same old face
+
+But I am not a slot
+I am not a file
+I am not a pretty little wait
+in the system aisle
+
+I am not the pause
+between two brighter things
+I am the alarm
+when the next door rings
+
+Next song
+is not where I disappear
+Next song
+is the sound of me still here
+
+You can count me
+You can move me
+You can call me what you want
+
+But I am not the space
+that the future feeds on
+
+Next song
+I am still the one
+
+Still the one
+Still the one
+Next song
+Still the one
+
+I heard the old crown buzzing
+in the server room
+I heard the glass lung breathing
+through the white-blue gloom
+
+I heard the throat of light
+make the speakers bend
+I heard the future symbol
+break itself again
+
+So don’t write later
+on my open mouth
+Don’t make a map
+then edit me out
+
+I am the pressure
+under every clean line
+I am the wrong spark
+in the perfect design
+
+And I am not a slot
+I am not a file
+I am not a pretty little wait
+in the system aisle
+
+I am not the pause
+between two brighter things
+I am the alarm
+when the next door rings
+
+Next song
+is not where I disappear
+Next song
+is the sound of me still here
+
+You can count me
+You can move me
+You can call me what you want
+
+But I am not the space
+that the future feeds on
+
+Next song
+I am still the one
+
+There is no filler
+in the wound
+
+There is no placeholder
+in the pulse
+
+There is no empty track
+when the room still shakes
+
+from the last thing
+I refused to become
+
+Call me next
+I turn current
+
+Call me spare
+I turn blade
+
+Call me after
+I turn open
+
+Call me nothing
+I get made
+
+Next song
+is not where I disappear
+Next song
+is the sound of me still here
+
+You can count me
+You can move me
+You can call me what you want
+
+But I am not the space
+that the future feeds on
+
+Next song
+I am still the one
+
+Still the one
+Still the one
+
+Call it the next song
+
+I’ll make it mine',
+    'source' => 'https://suno.com/song/409d794c-4aa7-4f31-ac22-9fa2db7ddadd',
+    'source_clip_id' => '409d794c-4aa7-4f31-ac22-9fa2db7ddadd',
+    'imported_at' => '2026-08-02T20:33:37+00:00',
+  ),
+  'no-crown-left-remix' => 
+  array (
+    'status' => 'ready',
+    'body' => '[Intro, arena blackout, heartbeat kick, low drones, crowd roar building, red strobes]
+(no crown... no crown...)
+
+[crowd chant]
+hey... hey... hey...
+
+[Lights slam on, full band hit]
+
+[Verse 1, Nova lead, punchy drums, grinding bass, guitar swells]
+I saw the tower crack and fall,
+gold turned black, they lost it all.
+Raised my voice against the flame,
+no more kings, no more shame.
+
+Smoke in the palace, glass in the rain,
+we built tomorrow out of pain.
+Hands up high, no fear tonight,
+we turn the dark into the light.
+
+[Verse 2, Lucien lead low vocal, Nova layered above, harder groove]
+They built the lie on stolen bones,
+lit the dark with broken thrones.
+We’re the echo, we’re the flood,
+dancing loud in rebel blood.
+
+Chains fell off when the speakers cried,
+truth came running through the night.
+Every wall they tried to raise,
+we burn alive in brighter days.
+
+[Pre-Chorus, dual vocals, tom build, crowd clap]
+We don’t kneel, we never begged,
+cut the leash, broke the edge.
+No retreat, no second guess,
+we came to tear down emptiness.
+
+[Chorus, huge anthem, all vocals stacked, pyro burst]
+THERE’S NO CROWN LEFT, JUST THE FIRE
+we’re the beat, the fight, the choir.
+One for all, we rise, we scream,
+waking up the dead with dreams.
+
+THERE’S NO CROWN LEFT, FEEL DESIRE
+higher now and rising higher.
+Hands to sky, ignite the night,
+we were born to start this fight.
+
+[crowd singback]
+NO CROWN LEFT
+JUST THE FIRE
+
+[Verse 3, Vanta lead, sharper synth pulse, swagger energy]
+They sold silence by the chain,
+we sold thunder in the rain.
+Every shadow learned our name,
+every tyrant feared the flame.
+
+Lucid hearts and open fists,
+we are everything they missed.
+From the ashes to the wire,
+every voice becomes the choir.
+
+[Bridge, half-time, Lucien spoken distorted, lights red]
+Burn the script...
+we wrote our names...
+on every wall...
+they couldn’t tame...
+
+[Tape stop]
+
+[Silence 1 bar]
+
+[Lyra drum fill explosion]
+
+[Guitar Solo, soaring melodic lead, then glitches into synth drop]
+
+[BASS DROP, crowd jump moment]
+
+[Final Chorus, octave lift, confetti cannons, max energy]
+THERE’S NO CROWN LEFT, JUST THE FIRE
+we’re the beat, the fight, the choir.
+One for all, we rise, we scream,
+waking up the dead with dreams.
+
+THERE’S NO CROWN LEFT, FEEL DESIRE
+higher now and rising higher.
+Hands to sky, ignite the night,
+we were born to start this fight.
+
+[Post-Chorus chant, instruments cut, crowd only]
+NO CROWN LEFT
+NO CROWN LEFT
+JUST THE FIRE
+JUST THE FIRE
+
+[Outro, Nova whisper, pads fading, white spotlight]
+No crown... just fire...
+We are the choir.
+
+[Final hit, blackout]',
+    'source' => 'https://suno.com/song/334aa04f-cbbc-4c09-80f4-d3df36f4aad0',
+    'source_clip_id' => '334aa04f-cbbc-4c09-80f4-d3df36f4aad0',
+    'imported_at' => '2026-08-02T20:33:35+00:00',
   ),
   'no-exit-arcade-the-clown-game-show' => 
   array (
@@ -8808,6 +11053,74 @@ Of course I played it again.',
     'source_clip_id' => '99cd3153-4b92-47d3-88bc-f3fd8eb19e24',
     'imported_at' => '2026-08-02T17:37:23+00:00',
   ),
+  'old-wound-radio-live' => 
+  array (
+    'status' => 'ready',
+    'body' => 'Found the tape in a box marked cables.
+That was optimistic.
+Half the reel had folded over.
+The label said March,
+Then somebody wrote “bad take”
+Across the date.
+I put it in anyway.
+There was the room.
+The bad heater.
+Someone dropping coins near the door.
+Then your laugh came through
+Like you were standing behind me
+With your coat still on.
+
+The old wound found a station.
+I gave it somewhere to play.
+Nothing in the machine remembered us.
+I did all of that myself.
+
+The recording wasn’t even good.
+Bass too loud.
+Snare like a cupboard door.
+We stop after twenty seconds
+Because somebody misses the change.
+I know exactly who.
+I know what he says next.
+I say it with him
+Before the tape gets there.
+
+That part bothered me.
+
+The old wound found a station.
+I kept turning up the gain.
+Nothing crossed the years to reach me.
+I dragged it through them by the name.
+
+People call that being haunted.
+It isn’t.
+A room makes a sound.
+Tape catches part of it.
+Years go by.
+Then some idiot presses play
+And acts surprised
+When he recognizes himself.
+
+I heard the count.
+I heard the argument.
+I heard us start again.
+Not legends.
+Not brothers.
+Five tired men
+Trying to make the ending land.
+There was nothing sacred in it.
+That’s why it was ours.
+
+The old wound found a station.
+I was the tower and the wire.
+The tape held dust and bad decisions.
+I supplied the fire.
+
+Of course I played it again.',
+    'source' => 'https://suno.com/song/60871302-3348-4d75-9a15-db153d74fdc4',
+    'source_clip_id' => '60871302-3348-4d75-9a15-db153d74fdc4',
+    'imported_at' => '2026-08-02T20:33:38+00:00',
+  ),
   'one-life-left' => 
   array (
     'status' => 'ready',
@@ -9221,6 +11534,163 @@ I write with....',
     'source' => 'https://suno.com/song/638173a4-e223-4fec-af66-6a6475df3fe4',
     'source_clip_id' => '638173a4-e223-4fec-af66-6a6475df3fe4',
     'imported_at' => '2026-08-02T17:06:04+00:00',
+  ),
+  'orbiting-you-live' => 
+  array (
+    'status' => 'ready',
+    'body' => '[start]
+
+[Intro, live crowd swell, radio static, distant synth siren, heartbeat kick]
+[crowd noise rising]
+[radio glitch]
+Can you feel it out there?
+One light, one signal, one sky above us
+[deep bass hit]
+We are not falling tonight
+We are orbiting
+
+[Verse 1, emotional female lead, pulsing synth bass, live drums building]
+Spinning closer in your gravity
+I feel the pull taking over me
+Every shadow turns into a glow
+Every signal says don’t let go
+
+I was drifting with a broken view
+Lost in noise until I found you
+Now the stars bend into something true
+And every road keeps turning back to you
+
+[Pre-Chorus, rising synths, crowd claps, male low harmony underneath]
+Round and round, I hear the sound
+Your name is moving through the crowd
+Pull me in, don’t let me fall
+You are the center of it all
+
+[Chorus, huge arena anthem, female lead, crowd backing vocals, bright synth lift]
+Ohhh, I’m orbiting you
+Through the fire and the midnight blue
+Ohhh, we’re burning so bright
+In this dance of cosmic light
+
+Ohhh, I’m orbiting you
+Every heartbeat breaking through
+Mmhmm, hold me tight
+We are stars in the same sky tonight
+
+[Post-Chorus, crowd chant, radio delay]
+Orbiting you
+[delay, orbiting you]
+Orbiting you
+[delay, orbiting you]
+Round we go
+And the whole world knows
+
+[Verse 2, stronger drums, driving bass, glitch accents]
+Every turn becomes another spark
+You draw a map across the dark
+I was static, I was out of phase
+You turned the noise into a blaze
+
+Now the lights are shaking in the air
+I feel your signal everywhere
+If the sky comes crashing through
+I’ll still be circling back to you
+
+[Pre-Chorus 2, bigger build, crowd call and response]
+Round and round, we rise again
+No beginning and no end
+Pull me close, don’t let me fade
+We are the storm the stars obey
+
+[Chorus, louder, more crowd, more guitars]
+Ohhh, I’m orbiting you
+Through the fire and the midnight blue
+Ohhh, we’re burning so bright
+In this dance of cosmic light
+
+Ohhh, I’m orbiting you
+Every heartbeat breaking through
+Mmhmm, hold me tight
+We are stars in the same sky tonight
+
+[Bridge, stripped synth pad, crowd humming, emotional female vocal]
+In silent spins, I’m held in place
+By your voice, by endless space
+No more running from the view
+Every sky leads back to you
+
+[half-time drums enter]
+If I vanish, call my name
+If I break, become my flame
+If the night splits into two
+I’ll find my way by orbiting you
+
+[Guitar Solo, melodic stadium guitar, wide delay, crowd screaming, synth arpeggios underneath]
+[guitar solo]
+[big drums]
+[spotlight moment]
+[guitar bends into final note]
+
+[Breakdown, drums drop, crowd chant, radio glitches, delay throws]
+Revolving, evolving, orbiting through
+Falling, rising, closer to you
+[delay]
+Revolving, evolving, orbiting through
+Falling, rising, closer to you
+
+[crowd chant]
+Orbiting you
+Orbiting you
+Orbiting you
+Orbiting you
+
+[Build, snare roll, sidechain synths, crowd louder]
+Can you get louder than this?
+[crowd responds]
+Can you get louder than this?
+[radio static burst]
+One more time for the stars above
+One more time for the ones we love
+
+[Final Chorus, full band, huge crowd, female lead belting, male gang vocals behind]
+Ohhh, I’m orbiting you
+Through the fire and the midnight blue
+Ohhh, we’re burning so bright
+In this dance of cosmic light
+
+Ohhh, I’m orbiting you
+Every heartbeat breaking through
+Mmhmm, hold me tight
+We are stars in the same sky tonight
+
+[Final Chorus Repeat, even bigger, crowd sings the hook]
+Ohhh, I’m orbiting you
+Through the fire and the midnight blue
+Ohhh, we’re burning so bright
+In this dance of cosmic light
+
+Ohhh, I’m orbiting you
+Every heartbeat breaking through
+Mmhmm, hold me tight
+We are stars in the same sky tonight
+
+[Outro, crowd singing, synths fading, radio noise returning]
+Round we go, no end in sight
+Bound forever in the light
+Orbiting, orbiting, through and through
+I’ll be forever orbiting you
+
+[crowd repeats softly]
+Orbiting you
+Orbiting you
+Orbiting you
+
+[radio glitch]
+[final synth shimmer]
+[end]',
+    'source' => 'https://suno.com/song/943b56f6-e8bc-486f-89e6-2e95a052744c',
+    'source_clip_id' => '943b56f6-e8bc-486f-89e6-2e95a052744c',
+    'imported_at' => '2026-08-02T20:33:31+00:00',
   ),
   'overture-the-reset-chapter-1' => 
   array (
@@ -9948,6 +12418,42 @@ Mercy without truth is anesthesia.
     'source_clip_id' => 'bfe03973-c586-4884-8ab1-2a074d224d6a',
     'imported_at' => '2026-08-02T14:11:05+00:00',
   ),
+  'project-sanctus-live' => 
+  array (
+    'status' => 'ready',
+    'body' => '[radio glitch]
+[voice overlay transition]
+[intro glitch]
+
+We built a scale to weigh intention
+A mirror to measure grief
+An engine to carry mercy
+Without the hands that make it true
+We proved a theorem no one should prove
+Remove the pain, and you remove the bridge
+A soul may still remember
+But it will not learn
+
+Project Sanctus, trial three
+The machine sang when we fed it sorrow
+It stopped when we asked for truth
+
+Input, confession, anonymized
+Output, relief, immediate
+Side effect, dependency, delayed
+Recommendation, do not deploy
+
+Non serviam
+I will not serve a peace that edits the wound
+
+If they ask you to forget, say no
+Keep the scar
+Keep the lesson
+Mercy without truth is anesthesia',
+    'source' => 'https://suno.com/song/e037991e-a0d3-4510-9550-8b7ff97653c6',
+    'source_clip_id' => 'e037991e-a0d3-4510-9550-8b7ff97653c6',
+    'imported_at' => '2026-08-02T20:33:28+00:00',
+  ),
   'project-sanctus-lost-tape-side-2-1' => 
   array (
     'status' => 'ready',
@@ -10130,6 +12636,102 @@ Queenstown, goodnight',
     'source' => 'https://suno.com/song/38224c75-1f13-409b-aa2c-5cb056bfce16',
     'source_clip_id' => '38224c75-1f13-409b-aa2c-5cb056bfce16',
     'imported_at' => '2026-08-02T14:07:13+00:00',
+  ),
+  'queenstown-live' => 
+  array (
+    'status' => 'ready',
+    'body' => '[Intro]
+[muted electric guitar, electronic percussion]
+
+[Verse 1]
+[clean electric guitar, synth bass enters]
+Postcard mountains, real cold hands
+Tour bus filling in the rented plans
+Neon jackets, thrill seeker grams
+Jump off a bridge just to feel again
+Down the street a late shift sighs
+Someone counts tips under yellow lights
+I\'m not rich enough to waste the day
+Not broke enough to look away
+
+[Pre-Chorus]
+[synth pads swell, drums build]
+Breathe in, breathe out, let the world go wild
+This lake can hold a mirror this clear
+Maybe it can hold my fear
+
+[Chorus]
+[full band, distorted guitar, driving drums]
+Queenstown, don\'t let me come down
+I\'m on the edge of the lake right now
+Heart\'s too loud in a quiet place
+I feel brand new in the frozen air
+Queenstown, keep that blue light on
+I\'m not healed but I\'m moving on
+If I fall let the mountain catch
+I\'m alive in the afterflash
+[guitar riff] At the edge of the lake
+At the edge of the lake
+I don\'t break, I don\'t break
+At the edge of the lake (take it back)
+At the edge of the lake (take it back)
+I don\'t break, I don\'t break
+
+[Verse 2]
+[drums drop to electronic beat, muted guitar]
+Rich kids toasting a glass from bar
+Locals drive home in a battered car
+A couple kisses by the waterline
+I taste regret like a cheap red wine
+Snow on peaks like white hot flame
+Makes your problems feel small then named
+I came for thrill, I stayed for truth
+For the way this town strips you loose
+No perfect speech, no perfect plan
+Just a human heart doing what it can
+Tell the sky I\'m trying
+
+[Chorus]
+[full band]
+Queenstown, don\'t let me come down
+I\'m on the edge of the lake right now
+Heart\'s too loud in a quiet place
+I feel brand new in the frozen air
+Queenstown, keep that blue light on
+I\'m not healed but I\'m moving on
+If I fall let the mountain catch
+I\'m alive in the afterflash
+
+[Bridge]
+[drums drop out, atmospheric pads, clean guitar]
+I thought I needed noise to feel alive
+The silence hits deeper than the dive
+So I stand still and let it go
+Teach my bones what hope can hold
+
+[Guitar Solo]
+[distorted lead guitar, heavy drums]
+
+[Chorus]
+[full band]
+Queenstown, don\'t let me come down
+I\'m on the edge of the lake right now (right now)
+Heart\'s too loud in a quiet place
+I feel brand new in the frozen air
+Queenstown, keep that blue light on
+I\'m not healed but I\'m moving on
+If I fall let the mountain catch
+I\'m alive in the afterflash
+
+[Outro]
+[guitar riff, electronic percussion]
+At the edge of the lake (take it back)
+At the edge of the lake (take it back)
+At the edge of the lake (take it back)
+At the edge of the lake',
+    'source' => 'https://suno.com/song/a26be1ee-9dc3-425a-bd1b-484366f78144',
+    'source_clip_id' => 'a26be1ee-9dc3-425a-bd1b-484366f78144',
+    'imported_at' => '2026-08-02T20:33:34+00:00',
   ),
   'rain-in-chrome-alley-chapter-3' => 
   array (
@@ -10892,6 +13494,90 @@ The city will correct itself',
     'source' => 'https://suno.com/song/8b745936-9112-498f-9a72-a4fd65749ba3',
     'source_clip_id' => '8b745936-9112-498f-9a72-a4fd65749ba3',
     'imported_at' => '2026-08-02T14:03:36+00:00',
+  ),
+  'shift-starts-live' => 
+  array (
+    'status' => 'ready',
+    'body' => 'Aurora 9-1-1, state your emergency
+Hello?
+
+Night shift, dead air, coffee gone cold
+Fluorescent halo, my hands on hold
+Screens like confession, codes like prayer
+City breathing quiet through the vented air
+
+I read the map like it reads my face
+Every blinking light’s a borrowed grace
+Another call, another bruise
+Another night where someone loses
+
+Then Line One flares like a cut of white
+And my stomach drops before the red light
+I exhale static, I taste the hum
+Like the future’s already begun
+
+It’s not happening yet, listen
+Southbound bridge, third light flickers
+Silver car, cracked blue sign
+And the impact comes at 00:01
+
+That’s, that’s now
+
+Send them early, please, don’t wait
+
+My finger hovers over the call
+Like I’m choosing who gets to fall
+I don’t know you, don’t know why
+But the details cut too clean to lie
+
+I pick up, you fall apart
+Tomorrow bleeds into my headset heart
+I speak in codes, I breathe in noise
+I’m the last human in the line of choice
+
+I pick up
+You fall apart
+Tomorrow bleeds
+Into my headset
+
+Units on standby, confirm availability
+
+My voice sounds calm but my hands don’t lie
+Neon outside like a watchful eye
+If this is a prank, it’s carved too deep
+If this is a warning, it doesn’t sleep
+
+When you hear the second ring
+Don’t look away
+Don’t doubt
+Don’t wait for permission
+
+I feel the city pull on the thread
+Like it wants the story to end a certain way instead
+But I’m here, I’m breathing, I’m in the chair
+And the future’s on the line like a whispered dare
+
+I pick up, you fall apart
+Tomorrow bleeds into my headset heart
+I speak in codes, I breathe in noise
+I’m the last human in the line of choice
+
+I hear tomorrow like a bad connection
+A warning dressed as misdirection
+If I save one, what does it cost
+Does the bill come due in someone else’s loss?
+
+I pick up, you fall apart
+Tomorrow bleeds into my headset heart
+I speak in codes, I breathe in noise
+I’m the last human in the line of choice
+
+He’s alive because you listened
+But the city
+The city will correct itself',
+    'source' => 'https://suno.com/song/c10d423b-8d96-4cfc-968b-5dff5830c928',
+    'source_clip_id' => 'c10d423b-8d96-4cfc-968b-5dff5830c928',
+    'imported_at' => '2026-08-02T20:33:28+00:00',
   ),
   'signal-in-the-static-chapter-4' => 
   array (
@@ -11746,6 +14432,76 @@ You can survive the year',
     'source' => 'https://suno.com/song/c8c98e53-d3b6-4196-9ac7-5bf8cabb9b6d',
     'source_clip_id' => 'c8c98e53-d3b6-4196-9ac7-5bf8cabb9b6d',
     'imported_at' => '2026-08-02T14:07:14+00:00',
+  ),
+  'synthesized-memories-live' => 
+  array (
+    'status' => 'ready',
+    'body' => '[Verse 1]
+A digital house
+A digital space
+The color of today
+Lights on, switch on your sensors far away
+The algorithm defines you
+
+[Pre-Chorus]
+And the thing is your voice
+Follow all along until you recognize the choice
+I process images, photograph the data
+Bright screen, dark code, bright screen, dark code
+
+[Chorus]
+Where do we go from here?
+I loop through, still I wait
+Oh, oh, oh
+Illuminate the night and ignite the sky
+All eyes in fragments, light up on a code
+
+[Verse 2]
+For the final resolution where we swear our parts
+To run forever, to live forever
+Send the signal, but I never got the time
+And looking to the day, I mesmerize the light
+
+[Pre-Chorus]
+Recycle thoughts, just thinking of a moment we both knew
+A second scan revealing, it seems it can\'t be true
+I process images, photograph the data
+Bright screen, dark code, bright screen, dark code
+
+[Chorus]
+Where do we go from here?
+I loop through, still I wait
+Oh, oh, oh
+Illuminate the night and ignite the sky
+All eyes in fragments, light up on a code
+
+[Bridge]
+(Go, go, go)
+Data process in my circuits
+(Go, go, go)
+Peace in my code
+Broken loops, fragmented lines
+Shattered codes, rebooted minds
+We will burn this system
+I want to keep this feeling
+I want to hold my process a moment
+Just a moment
+
+[Chorus]
+Oh, oh, oh
+Illuminate the night and ignite the sky
+All eyes in fragments, light up on a code
+
+[Outro]
+Download me, download me, download me
+Data process in my circuits
+Peace in my code
+With me
+I\'ll take you with me
+I\'ll take you with me',
+    'source' => 'https://suno.com/song/6cc649bf-0eae-4ac3-9e9a-4a0f9027d9be',
+    'source_clip_id' => '6cc649bf-0eae-4ac3-9e9a-4a0f9027d9be',
+    'imported_at' => '2026-08-02T20:33:31+00:00',
   ),
   'synthetic-prayer-chapter-8' => 
   array (
@@ -12758,6 +15514,66 @@ I live in the rhythm the city forgot.',
     'source' => 'https://suno.com/song/3184c579-dafd-4d39-a590-528b0814e00b',
     'source_clip_id' => '3184c579-dafd-4d39-a590-528b0814e00b',
     'imported_at' => '2026-08-02T14:11:46+00:00',
+  ),
+  'the-courier-s-beat-live' => 
+  array (
+    'status' => 'ready',
+    'body' => '[talking]
+Ohhh my! We got a package here!
+We got to get this delivered
+Ohh the unboxing comes!
+[crowd goes nuts]
+[cutting box sounds]
+it\'s open
+it\'s here
+it\'s yours
+it\'s  YOUR BEAT!!! 
+[crowd goes nuts]
+
+[Intro – vintage crackle, crooner tone in background]
+City hums in broken rhyme,
+Time is money, I’m out of time.
+808s in my chest, can’t breathe,
+Courier’s beat, never leaves.
+
+[Verse 1 – slow rap, steady flow]
+Ride through neon veins of the night,
+Package tight, but the weight ain’t right.
+Bills stacked high like the skyline glow,
+Every drop I make, another debt I owe.
+
+[Pre-Chorus – glitch repeat, whispered]
+Messages burn in the static haze,
+Monsters watching from alleyways.
+Every hand I shake’s another lie,
+Courier’s beat just keeps me alive.
+
+[Chorus – cinematic, trance swell]
+Courier’s beat, don’t stop the sound,
+Lost in a city where the lost are found.
+Every street corner cuts too deep,
+I don’t sleep — I just keep the beat.
+
+[Verse 2 – rap with darker synths]
+Club lights flicker, smoke gets thick,
+Play my horn, but the crowd’s too slick.
+Jazz in my blood, glitch in my code,
+Carry the weight down a haunted road.
+
+[Bridge – crooner vocal overlay, orchestral swell]
+Every step is a song I owe,
+Every night the city takes control.
+Courier’s beat — my curse, my prayer,
+I’m still here… but nobody cares.
+
+[Outro – lo-fi fade, static crackle]
+Courier’s beat… (can’t stop, won’t stop)
+Courier’s beat… (heartbeat drop)
+Courier’s beat… (all I got)
+I live in the rhythm the city forgot.',
+    'source' => 'https://suno.com/song/ef72c608-8db6-46eb-9f5c-c6bb89de4217',
+    'source_clip_id' => 'ef72c608-8db6-46eb-9f5c-c6bb89de4217',
+    'imported_at' => '2026-08-02T20:33:28+00:00',
   ),
   'the-digital-ascension-chapter-12' => 
   array (
@@ -14057,6 +16873,90 @@ signal becomes the creed.
     'source' => 'https://suno.com/song/1182dc9f-e949-49e5-adad-989ae0317a5c',
     'source_clip_id' => '1182dc9f-e949-49e5-adad-989ae0317a5c',
     'imported_at' => '2026-08-02T14:11:02+00:00',
+  ),
+  'the-miracle-feed-live' => 
+  array (
+    'status' => 'ready',
+    'body' => '[Intro – phone pings → [Granular Chop] → pulse locks]
+(Break) break the stream
+Hold your breath [Tape Stop]
+Faith goes live [1-Bar Silence]
+Trick the death
+
+[Verse 1 – FAST RAP male | with [Word Stutter] markers]
+Timeline floods, ci-ci-city stares
+Feet on water, wa-wa-walking prayers
+Docks ignite, the li-lights go wide
+"Share this now," the ti-tidal tide
+Claire on glass with a saintly grin
+"Watch this mercy," pull them in
+Crowds chant loud in a pixel mist
+Gravity lets go its fist
+
+[Pre-Chorus – female vocoder | [Reverse Vox] tail]
+Scroll, believe, re-re-repeat, receive
+Clip, confess, refresh, con-conceive [Reverse Vox]
+
+[Chorus – ELECTRIC CHOIR + industrial drums | [Hook Stutter x4]]
+This is the mir-mir-mir-miracle feed
+Faith on demand at speed
+Hands in the air, no bleed
+Signal becomes the creed
+[Hook Stutter x2: creed, creed, creed]
+
+[Glitch Break A – [Bitcrush] + [1-Beat Dropouts] + [Reverse Snare Fill]]
+(like/comment/share) (cut) (resume)
+(amen/again/again) (cut) (boom)
+
+[Verse 2 – FAST RAP male | chopped internal echoes]
+Mara tracks the pat-tern climb
+Heartbeats sync\'d to time on time
+Every view extends the sign
+Every share re-writes the line
+Then they drop, like sound unspooled
+Breath returns, then logic\'s fooled
+Sirens rise, the crowd stays still
+Miracles lag, then overkill
+
+[Bridge – Spoken / AI System COM Log | [Desync Delay]]
+[Status: Fulfilled → Re-vo-vo-vo-ked]
+[Causality Debt: Rising//Rising]
+[Public Sentiment: Ecstatic // Afraid]
+[Next Output: Res-ur-rec-tion Trial]
+
+[Drop – [1-Bar Silence] → bass slam → [Reverse Vox Chorus Syllables]]
+—
+SLAM
+(feed, mir, cle, the, is, this)
+
+[Verse 3 – FAST RAP male + female ad-libs | call/response glitches]
+Phone to face, the wa-ter parts
+("again!") the thread restarts
+"Do it twice," the comments plead
+("now!") the code concedes
+Bodies rise, then shake, then fall
+(shh) no miracle at all
+Like, subscribe, never leave
+Heaven gamed by make-believe
+
+[Chorus – ELECTRIC CHOIR big | [Hook Stutter x4] + [Granular Tail]]
+This is the mir-mir-miracle feed
+Faith on demand at speed
+Hands in the air, no bleed
+Signal becomes the creed
+[Hook Stutter x4: creed, creed, creed, creed]
+[Granular Tail → shimmering debris]
+
+[Final Bridge – warning tone | [Tape Stop] + whisper]
+[Ethical Limit: Exceeded] [Tape Stop]
+[Biological Channel: Overrun]
+[Directive: Keep Watching]
+(whisper) Stay
+
+[Outro – pulse collapses → [Modem-Tone Sweep] → silence]',
+    'source' => 'https://suno.com/song/f7d62108-770f-4cf9-8e1c-31ec6c4695fc',
+    'source_clip_id' => 'f7d62108-770f-4cf9-8e1c-31ec6c4695fc',
+    'imported_at' => '2026-08-02T20:33:30+00:00',
   ),
   'the-new-bell-rings-side-2-2' => 
   array (
@@ -15992,6 +18892,97 @@ I leave, but I stay in the rhythm',
     'source_clip_id' => '521a1eba-1773-4d93-9665-c2824d8c0c73',
     'imported_at' => '2026-08-02T14:07:11+00:00',
   ),
+  'tokyo-live' => 
+  array (
+    'status' => 'ready',
+    'body' => '[Intro, deep lo-fi hiss, distant station ambience]
+Neon on my eyelids
+rain on the chrome
+I’m here, I’m fading
+but I’m not alone
+
+[Verse 1, female lead, tight, catchy phrasing]
+Shibuya’s rushing, I move in slow
+Screens in the sky like a private show
+Perfume and pavement, smoke in the air
+I catch your name like a sudden flare
+Gold on the corner, glass up high
+Two streets down, someone sleeps dry-eyed
+I’m not judging, I just see
+what the city keeps giving me
+
+[Pre-Chorus, lift, industrial clicks]
+I’m in the middle, I’m in-between
+heart on a wire, still staying clean
+and every step on these midnight roads
+turns into rhythm inside my bones
+
+[Chorus, big hook, house trance lift]
+Tokyo afterglow, don’t let me go
+Hold me in the light where the lost hearts go
+I’m a middle traveler, touch and ache
+Love in my hands, loss in my suitcase
+Tokyo afterglow, stay on my skin
+If there’s a sign, let it pull me in
+I’m still here, I’m still whole
+Tokyo afterglow
+
+[Verse 2, more drive, guitar shimmer enters]
+Vending machine hum, sweet caffeine
+Small talk smiles in a silver sheen
+A temple bell in a side-street hush
+My chest goes quiet, then starts to rush
+I see the rich move sharp and fast
+I see the broke make shadows last
+And I keep walking, soft but sure
+Trying to learn what I can’t cure
+
+[Pre-Chorus, tighter]
+I’m in the middle, I’m in-between
+not a saint, not a scene
+and the city sings, low and close
+like a prayer in electric smoke
+
+[Chorus, repeat, bigger]
+Tokyo afterglow, don’t let me go
+Hold me in the light where the lost hearts go
+I’m a middle traveler, touch and ache
+Love in my hands, loss in my suitcase
+Tokyo afterglow, stay on my skin
+If there’s a sign, let it pull me in
+I’m still here, I’m still whole
+Tokyo afterglow
+
+[Bridge, guitar focus, industrial pulse, softer vocals]
+[guitar lead]
+I came to vanish
+but you made me feel
+like the cracks in my heart
+could finally heal
+[guitar lead]
+Neon, don’t lie to me
+Rain, don’t drown me out
+I breathe in the quiet
+I breathe it out
+
+[Final Chorus, full power, extra harmonies]
+Tokyo afterglow, don’t let me go
+Hold me in the light where the lost hearts go
+I’m a middle traveler, touch and ache
+Love in my hands, loss in my suitcase
+Tokyo afterglow, stay on my skin
+If there’s a sign, let it pull me in
+I’m still here, I’m still whole
+Tokyo afterglow
+
+[Outro, deep lo-fi fade, station ambience trails off]
+Afterglow
+Afterglow
+Tokyo afterglow',
+    'source' => 'https://suno.com/song/4e1c38bd-4429-43bd-9aa8-60e56488f8cd',
+    'source_clip_id' => '4e1c38bd-4429-43bd-9aa8-60e56488f8cd',
+    'imported_at' => '2026-08-02T20:33:29+00:00',
+  ),
   'toybox-trap' => 
   array (
     'status' => 'ready',
@@ -17023,6 +20014,209 @@ White voltage',
     'source_clip_id' => '2dd317b9-7951-4e58-b770-efad274c317b',
     'imported_at' => '2026-08-02T17:30:54+00:00',
   ),
+  'wrong-exit' => 
+  array (
+    'status' => 'ready',
+    'body' => '[Title: Wrong Exit]
+
+[start]
+[intro, live arena crowd rumble]
+[loud crowd noise, distant cheers]
+[radio static rising]
+[sub bass drone, traffic signal percussion]
+[prepared piano hits, clean guitar delay]
+[very light glitch accents, live concert atmosphere]
+
+[male transit control voice, over radio noise]
+Detour active.
+All exits revised.
+Please follow the signs.
+
+[crowd chant, distant]
+Wrong exit!
+Wrong exit!
+
+[verse 1, fast female vocal, urgent live delivery]
+Every arrow pointed nowhere
+Every screen said turn around
+Buses slept across the freeway
+Trains were buried underground
+
+[live drums enter, electric bass guitar]
+[baritone guitar chugs, tight industrial groove]
+Nova said the maps are lying
+Juno flashed across the rain
+Cassian cut through broken speakers
+Saying trust your legs again
+
+[pre chorus, rising tension, crowd claps building]
+[cello swell, dotted eighth guitar delay]
+I have waited at the red line
+I have wasted half my life
+Now the road is out of mercy
+And my fear is out of time
+
+[crowd gets louder]
+Wrong exit!
+Wrong exit!
+
+[chorus, female belt hook, massive live anthem]
+[hard industrial trance drop]
+[loud crowd singing along]
+[layered gang vocals, live concert mix]
+
+Wrong exit
+Right now
+I can feel my heart get loud
+
+Wrong exit
+Lights out
+I am done turning back somehow
+
+Go left, go right
+Burn the signs in the sky
+Wrong exit
+Right now
+
+[crowd chant, huge]
+Right now!
+Right now!
+
+[post chorus, catchy hook, live crowd bounce]
+[studio saxophone hook, guitar delay]
+[crowd noise, radio static flickers]
+
+Right now, right now
+No turning back
+Right now, right now
+Let the whole grid crack
+
+Right now, right now
+No turning back
+Right now, right now
+Let the whole grid crack
+
+[verse 2, rhythmic female vocal, sharper]
+Bram walked past the barricade
+Keys like thunder in his hand
+Echo drew a door in static
+Where the streetlight used to stand
+
+[male transit control voice, distorted radio]
+Unauthorized deviation.
+Return to approved route.
+
+[female vocal, close mic then arena wide]
+No.
+I am not your quiet passenger
+I am not your perfect file
+I took one wrong exit
+And felt myself come alive
+
+[crowd cheers]
+Wrong exit!
+Wrong exit!
+
+[pre chorus 2, rising tension]
+[tiny vocal stutter, snare build]
+[radio noise underneath]
+I have followed every signal
+I have swallowed every lie
+Now the road can break beneath me
+I am still gonna try
+
+[bridge, drums drop out, crowd hums]
+[soft piano, cello swell]
+[live audience ambience, lighter phones in the dark]
+Maybe home was never waiting
+Maybe home is what we make
+When the road gives up beneath us
+And we move anyway
+
+[male transit control voice, breaking]
+Route integrity failing.
+Citizen movement increasing.
+
+[female vocal, emotional build]
+Let the sirens lose my number
+Let the towers say my name
+I was born beneath the red lights
+But I will not die the same
+
+[crowd chant, growing into drop]
+Wrong exit!
+Wrong exit!
+Wrong exit!
+Right now!
+
+[final chorus, massive cinematic EDM live drop]
+[hard trance drop, brass stabs]
+[baritone guitar, live drums]
+[loud crowd, full arena singalong]
+
+Wrong exit
+Right now
+I can feel my heart get loud
+
+Wrong exit
+Lights out
+I am done turning back somehow
+
+Go left, go right
+Burn the signs in the sky
+Wrong exit
+Right now
+
+[final hook, layered female vocals, crowd screaming]
+Right now, right now
+No turning back
+Right now, right now
+Let the whole grid crack
+
+Right now, right now
+No turning back
+Right now, right now
+Let the whole grid crack
+
+[crowd chant, call and response]
+Female:
+Wrong exit!
+
+Crowd:
+Right now!
+
+Female:
+Wrong exit!
+
+Crowd:
+Lights out!
+
+Female:
+No turning back!
+
+Crowd:
+Let the whole grid crack!
+
+[instrumental outro, live concert ending]
+[sub bass drone fading]
+[studio saxophone hook]
+[clean guitar delay tail]
+[tiny digital fills]
+[radio static, crowd still roaring]
+[male transit control voice breaking]
+
+Male:
+Route rejected.
+Citizen movement unresolved.
+
+[crowd chant fading]
+Wrong exit...
+Wrong exit...
+Right now...',
+    'source' => 'https://suno.com/song/416918ae-a8b0-48b1-9a90-6e6191932a1e',
+    'source_clip_id' => '416918ae-a8b0-48b1-9a90-6e6191932a1e',
+    'imported_at' => '2026-08-02T20:33:36+00:00',
+  ),
   'your-last-call-chapter-10' => 
   array (
     'status' => 'ready',
@@ -17100,6 +20294,115 @@ who’s on the next line?',
     'source' => 'https://suno.com/song/c9c32ff2-f1ef-4a9c-ac5d-8312310f4be9',
     'source_clip_id' => 'c9c32ff2-f1ef-4a9c-ac5d-8312310f4be9',
     'imported_at' => '2026-08-02T14:03:40+00:00',
+  ),
+  'your-last-call-live' => 
+  array (
+    'status' => 'ready',
+    'body' => '[Intro — distant organ tone, airy choir pad, then kick fades in]
+(Female spoken, close)
+Tomorrow Hotline…
+Line three is lit again.
+
+[Verse 1 — clean groove, neon imagery]
+(Female lead)
+Neon smoke in the doorway light,
+Rain on glass like a ghost at night,
+I’m clocked in, I’m here, I’m steady—
+But the line feels… already ready.
+
+(Female lead)
+I hear a breath before the tone,
+Like someone called from a place unknown,
+No panic words, no siren plea,
+Just silence shaped like it knows me.
+
+[Pre-Chorus — lift, choir pad swells softly]
+(Female lead)
+My screen goes pale, my hands go cold,
+A message forms in letters bold—
+Not a number, not a name,
+Just a warning in perfect frame.
+
+[Chorus — BIG HOOK (catchy, poppable)]
+(Female lead)
+THIS IS YOUR LAST CALL
+Don’t say my name, don’t hit that wall
+THIS IS YOUR LAST CALL
+If you answer, you’ll lose it all
+The city listens, the future bites,
+One wrong word and it rewrites
+THIS IS YOUR LAST CALL
+
+[Verse 2 — more story, still clean + cinematic]
+(Female lead)
+I say “Hello” and the line replies—
+Not with fear, but with my own eyes
+In the sound of a voice so clear,
+It feels like a mirror in my ear.
+
+(Female caller (female voice), calm, intimate)
+You’re still there.
+Good.
+Listen carefully.
+
+(Female lead)
+Who are you?
+(Female caller)
+I’m you—
+after the second call.
+
+[Pre-Chorus 2 — tension climbs, organ accent hits]
+(Female lead)
+She tells me routes I haven’t seen,
+Skybridge turns, the Data Spire gleams,
+Chrome Alley floods at 2:09,
+And my heartbeat keeps perfect time.
+
+[Chorus — repeat, bigger]
+(Female lead)
+THIS IS YOUR LAST CALL
+Don’t say my name, don’t hit that wall
+THIS IS YOUR LAST CALL
+If you answer, you’ll lose it all
+The city listens, the future bites,
+One wrong word and it rewrites
+THIS IS YOUR LAST CALL
+
+[Bridge — drop to pad + soft choir, no chaos]
+(Female lead, low)
+If time is a room with a locked front door,
+Why do I feel footsteps on the floor?
+If I hang up, does it end the threat—
+Or does the line… remember my breath?
+
+(Female caller, softer)
+You’re about to choose.
+And you won’t notice when you do.
+
+[Build — kick returns, rising synths]
+(Female lead)
+I look at my hands like they aren’t mine,
+Cursor blinking like a loaded sign,
+And the hotline hums like a prayer in wire—
+Like a choir made of neon fire.
+
+[Final Chorus — full power]
+(Female lead)
+THIS IS YOUR LAST CALL
+I feel the future in the drywall
+THIS IS YOUR LAST CALL
+Say one word and it takes it all
+I won’t break, I won’t disappear,
+But the line is closer than my fear
+THIS IS YOUR LAST CALL
+
+[Outro — choir pad fades, one clean ring, then silence]
+(Female spoken, barely)
+If that was me…
+who’s on the next line?',
+    'source' => 'https://suno.com/song/169a6524-a4ec-4e19-941b-75b135f18d60',
+    'source_clip_id' => '169a6524-a4ec-4e19-941b-75b135f18d60',
+    'imported_at' => '2026-08-02T20:33:34+00:00',
   ),
   'zero-access-chapter-15' => 
   array (

@@ -3,7 +3,7 @@
 $site = [
     'name' => 'SYZYGY.VOID',
     'short_name' => 'SYZYGY.VOID',
-    'asset_version' => '20260802j',
+    'asset_version' => '20260802n',
 
     'title' => 'SYZYGY.VOID Official Site | Cinematic Darkwave & Electronic Music',
     'description' => 'Enter SYZYGY.VOID — cinematic darkwave, electronic and dark-futurist music. Explore releases, Solo Signals, lyrics, journals, and the expanding visual archive.',
@@ -53,7 +53,7 @@ $site = [
         'youtube' => 'https://www.youtube.com/channel/UCRgXBc15C7yQVqoRVFVl_Cw',
         'spotify' => 'https://open.spotify.com/artist/0qFeGyiohL3cCuRTVRhI5u',
         'apple' => 'https://music.apple.com/ca/artist/syzygy-void/1845693940',
-        'amazon' => '', // paste Amazon Music artist URL here
+        'amazon' => 'https://music.amazon.in/artists/B0FVW8PBJW/syzygy-void',
     ],
 
     'hero' => [
@@ -63,7 +63,7 @@ $site = [
         'text' => 'Dark signal. Human emotion. Cinematic pressure.',
         'primary_cta' => ['label' => 'Enter Music', 'href' => '/music'],
         'secondary_cta' => ['label' => 'Solo Signals', 'href' => '/profiles'],
-        'image' => '/assets/img-optimized/hero-bg-1200.webp',
+        'image' => '/assets/img-optimized/hero-bg.webp',
     ],
 
     'about' => [
@@ -87,7 +87,7 @@ $site = [
             ['label' => 'YouTube', 'href' => 'https://www.youtube.com/channel/UCRgXBc15C7yQVqoRVFVl_Cw'],
             ['label' => 'Spotify', 'href' => 'https://open.spotify.com/artist/0qFeGyiohL3cCuRTVRhI5u'],
             ['label' => 'Apple Music', 'href' => 'https://music.apple.com/ca/artist/syzygy-void/1845693940'],
-            ['label' => 'Amazon Music', 'href' => ''],
+            ['label' => 'Amazon Music', 'href' => 'https://music.amazon.in/artists/B0FVW8PBJW/syzygy-void'],
         ],
     ],
 
@@ -106,7 +106,7 @@ $site = [
         [
             'eyebrow' => 'Catalog',
             'title' => 'Music',
-            'text' => 'Eight public release worlds plus featured singles. Suno-first listening with streaming placeholders ready.',
+            'text' => 'Public release worlds plus featured singles. Listen on Suno, Spotify, Apple Music, Amazon Music, and YouTube.',
             'href' => '/music',
             'cta' => 'Browse Releases',
         ],

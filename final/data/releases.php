@@ -4,7 +4,7 @@ declare(strict_types=1);
 /**
  * Public release index metadata.
  * Tracklists live in tracks.php ($playlists).
- * Paste platform URLs below when ready — empty = "Link soon".
+ * Paste platform URLs below when ready — empty inherits site artist profiles (no Soon UI).
  */
 $releases = [
     [
@@ -19,7 +19,7 @@ $releases = [
             'suno' => 'https://suno.com/@syzygy86',
             'spotify' => '',
             'apple' => '',
-            'amazon' => '',
+            'amazon' => 'https://music.amazon.in/artists/B0FVW8PBJW/syzygy-void',
         ],
     ],
     [
@@ -34,7 +34,7 @@ $releases = [
             'suno' => 'https://suno.com/playlist/be2ef788-b5da-4eb4-9e97-d842eb9ae831',
             'spotify' => '',
             'apple' => '',
-            'amazon' => '',
+            'amazon' => 'https://music.amazon.in/artists/B0FVW8PBJW/syzygy-void',
         ],
     ],
     [
@@ -49,7 +49,7 @@ $releases = [
             'suno' => 'https://suno.com/playlist/5efbe11e-b2ab-4ff6-a3f4-1f6d1550bf29',
             'spotify' => '',
             'apple' => '',
-            'amazon' => '',
+            'amazon' => 'https://music.amazon.in/artists/B0FVW8PBJW/syzygy-void',
         ],
     ],
     [
@@ -64,7 +64,7 @@ $releases = [
             'suno' => 'https://suno.com/playlist/a762f0bc-d98a-4ccd-966f-fdcc357bea61',
             'spotify' => '',
             'apple' => '',
-            'amazon' => '',
+            'amazon' => 'https://music.amazon.in/artists/B0FVW8PBJW/syzygy-void',
         ],
     ],
     [
@@ -79,7 +79,7 @@ $releases = [
             'suno' => 'https://suno.com/playlist/b82aa0fd-db05-459d-98c6-6167597ba3f6',
             'spotify' => '',
             'apple' => '',
-            'amazon' => '',
+            'amazon' => 'https://music.amazon.in/artists/B0FVW8PBJW/syzygy-void',
         ],
     ],
     [
@@ -94,7 +94,7 @@ $releases = [
             'suno' => 'https://suno.com/playlist/fc3c71e0-6f62-4ec4-a168-c4c082fc8d0a',
             'spotify' => '',
             'apple' => '',
-            'amazon' => '',
+            'amazon' => 'https://music.amazon.in/artists/B0FVW8PBJW/syzygy-void',
         ],
     ],
     [
@@ -109,7 +109,7 @@ $releases = [
             'suno' => 'https://suno.com/playlist/a27e46b3-155d-45fc-8246-15e0b5ec2d1b',
             'spotify' => '',
             'apple' => '',
-            'amazon' => '',
+            'amazon' => 'https://music.amazon.in/artists/B0FVW8PBJW/syzygy-void',
         ],
     ],
     [
@@ -124,7 +124,7 @@ $releases = [
             'suno' => 'https://suno.com/playlist/3f481d44-a861-4d35-b25b-8829f6d31e5a',
             'spotify' => '',
             'apple' => '',
-            'amazon' => '',
+            'amazon' => 'https://music.amazon.in/artists/B0FVW8PBJW/syzygy-void',
         ],
     ],
     [
@@ -139,7 +139,7 @@ $releases = [
             'suno' => 'https://suno.com/playlist/e93652e6-c119-4dee-9fdc-5bd28cf5a5ad',
             'spotify' => '',
             'apple' => '',
-            'amazon' => '',
+            'amazon' => 'https://music.amazon.in/artists/B0FVW8PBJW/syzygy-void',
         ],
     ],
     [
@@ -155,7 +155,7 @@ $releases = [
             'suno' => 'https://suno.com/playlist/5bf0841f-9637-47ee-8d95-6d241c20455f',
             'spotify' => '',
             'apple' => '',
-            'amazon' => '',
+            'amazon' => 'https://music.amazon.in/artists/B0FVW8PBJW/syzygy-void',
         ],
     ],
     [
@@ -171,7 +171,7 @@ $releases = [
             'suno' => 'https://suno.com/playlist/d92f05e4-41f3-4b6a-b89e-eb779a439956',
             'spotify' => '',
             'apple' => '',
-            'amazon' => '',
+            'amazon' => 'https://music.amazon.in/artists/B0FVW8PBJW/syzygy-void',
         ],
     ],
     [
@@ -187,7 +187,7 @@ $releases = [
             'suno' => 'https://suno.com/playlist/d92f05e4-41f3-4b6a-b89e-eb779a439956',
             'spotify' => '',
             'apple' => '',
-            'amazon' => '',
+            'amazon' => 'https://music.amazon.in/artists/B0FVW8PBJW/syzygy-void',
         ],
     ],
     [
@@ -203,7 +203,7 @@ $releases = [
             'suno' => 'https://suno.com/playlist/00f16a2c-f705-45e4-89d8-949ed22cd559',
             'spotify' => '',
             'apple' => '',
-            'amazon' => '',
+            'amazon' => 'https://music.amazon.in/artists/B0FVW8PBJW/syzygy-void',
         ],
     ],
     [
@@ -219,7 +219,22 @@ $releases = [
             'suno' => 'https://suno.com/playlist/ca8ca69d-8a37-4a21-98f1-c64aafe01452',
             'spotify' => '',
             'apple' => '',
-            'amazon' => '',
+            'amazon' => 'https://music.amazon.in/artists/B0FVW8PBJW/syzygy-void',
+        ],
+    ],
+    [
+        'slug' => 'syzygy-void-live',
+        'playlist_key' => 'syzygy-void-live',
+        'title' => 'SYZYGY.VOID LIVE',
+        'eyebrow' => 'Live Era Set',
+        'summary' => 'ERA2 songs taken live — Nova, Vanta, Kade, Lucien, Lyra, and Ash on stage for a full-force concert set of favourite transmissions, crowd energy, and ritual glitch.',
+        'cover' => '/assets/img-optimized/gallery/syzygy-void-live/00 - Playlist Cover.webp',
+        'status' => 'public',
+        'links' => [
+            'suno' => 'https://suno.com/playlist/4d2932fa-a2bc-491b-ba0e-967d0ea00626',
+            'spotify' => '',
+            'apple' => '',
+            'amazon' => 'https://music.amazon.in/artists/B0FVW8PBJW/syzygy-void',
         ],
     ],
 ];

@@ -38,6 +38,7 @@ $excludePathFragments = [
     '/assets/img/solo-signals/no-idle-speed/',
     '/assets/img/solo-signals/the-shape-i-left/',
     '/assets/img/solo-signals/white-voltage/',
+    '/assets/img/solo-signals/syzygy-void-live/',
 ];
 
 $excludeFileNames = [
@@ -163,4 +164,4 @@ syzygy_rrmdir($stageDir);
 echo "Wrote {$zipPath}\n";
 echo "Files: {$count}\n";
 echo "Excluded: tools/, previews/, source solo dumps, hero-bg.jpg, video-modal.js, README, _manifest helpers\n";
-echo "Remember: rotate any previously exposed SMTP password; keep config/contact-mail.php scrubbed in the zip.\n";
+echo "Note: config/contact-mail.php is included as configured on this machine — set live SMTP on the server if needed.\n";

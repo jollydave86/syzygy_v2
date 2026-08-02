@@ -13,7 +13,7 @@
             <?php foreach ($releases as $release): ?>
                 <a class="release-card" href="<?= syzygy_esc(syzygy_url('/music/' . $release['slug'])); ?>">
                     <div class="release-card__media">
-                        <img src="<?= syzygy_esc(syzygy_encode_public_path($release['cover'])); ?>" alt="<?= syzygy_esc($release['title']); ?>" loading="lazy">
+                        <img src="<?= syzygy_esc(syzygy_encode_public_path($release['cover'])); ?>" alt="<?= syzygy_esc($release['title']); ?>" width="400" height="400" loading="lazy" decoding="async">
                     </div>
                     <p class="release-card__eyebrow"><?= syzygy_esc($release['eyebrow'] ?? ''); ?></p>
                     <h2 class="release-card__title"><?= syzygy_esc($release['title']); ?></h2>

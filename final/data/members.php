@@ -5,7 +5,7 @@ declare(strict_types=1);
  * Solo Signals members.
  *
  * Edit platform URLs in each member's `links` array.
- * Empty string => UI shows "Link soon".
+ * Empty string => inherit site artist profile when available; otherwise omitted.
  *
  * Ready: Nova, Ash, Lyra, Lucien (canon tracklists).
  * Coming soon: Vanta, Kade (no invented titles/tracklists).
@@ -41,7 +41,7 @@ $members = [
             'suno' => 'https://suno.com/playlist/d92f05e4-41f3-4b6a-b89e-eb779a439956',
             'spotify' => '',
             'apple' => '',
-            'amazon' => '',
+            'amazon' => 'https://music.amazon.in/artists/B0FVW8PBJW/syzygy-void',
         ],
     ],
     [
@@ -70,7 +70,7 @@ $members = [
             'suno' => 'https://suno.com/playlist/ca8ca69d-8a37-4a21-98f1-c64aafe01452',
             'spotify' => '',
             'apple' => '',
-            'amazon' => '',
+            'amazon' => 'https://music.amazon.in/artists/B0FVW8PBJW/syzygy-void',
         ],
     ],
     [
@@ -99,7 +99,7 @@ $members = [
             'suno' => 'https://suno.com/playlist/00f16a2c-f705-45e4-89d8-949ed22cd559',
             'spotify' => '',
             'apple' => '',
-            'amazon' => '',
+            'amazon' => 'https://music.amazon.in/artists/B0FVW8PBJW/syzygy-void',
         ],
     ],
     [
@@ -131,7 +131,7 @@ $members = [
             'suno' => 'https://suno.com/playlist/5bf0841f-9637-47ee-8d95-6d241c20455f',
             'spotify' => '',
             'apple' => '',
-            'amazon' => '',
+            'amazon' => 'https://music.amazon.in/artists/B0FVW8PBJW/syzygy-void',
         ],
     ],
     [
@@ -152,7 +152,7 @@ $members = [
             'suno' => '',
             'spotify' => '',
             'apple' => '',
-            'amazon' => '',
+            'amazon' => 'https://music.amazon.in/artists/B0FVW8PBJW/syzygy-void',
         ],
     ],
     [
@@ -173,7 +173,7 @@ $members = [
             'suno' => '',
             'spotify' => '',
             'apple' => '',
-            'amazon' => '',
+            'amazon' => 'https://music.amazon.in/artists/B0FVW8PBJW/syzygy-void',
         ],
     ],
 ];

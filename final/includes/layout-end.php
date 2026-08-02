@@ -1,6 +1,9 @@
 <?php
 declare(strict_types=1);
 $assetVersion = rawurlencode((string) ($site['asset_version'] ?? '20260802a'));
+$currentPath = syzygy_current_path();
+$loadLyricsJs = str_starts_with($currentPath, '/lyrics');
+$loadGalleryJs = str_starts_with($currentPath, '/gallery');
 ?>
 </main>
 
@@ -23,7 +26,10 @@ $assetVersion = rawurlencode((string) ($site['asset_version'] ?? '20260802a'));
 
         <div class="site-footer__col">
             <p class="site-footer__heading">Listen</p>
-            <?php require __DIR__ . '/platform-links.php'; ?>
+            <?php
+            $platformLinksMap = null; // force site artist defaults
+            require __DIR__ . '/platform-links.php';
+            ?>
         </div>
 
         <p class="site-footer__copyright"><?= syzygy_esc($site['footer']['copyright'] ?? ''); ?></p>
@@ -36,10 +42,13 @@ $assetVersion = rawurlencode((string) ($site['asset_version'] ?? '20260802a'));
 
 <script src="<?= syzygy_esc(syzygy_encode_public_path('/assets/js/utils.js')); ?>?v=<?= $assetVersion; ?>" defer></script>
 <script src="<?= syzygy_esc(syzygy_encode_public_path('/assets/js/menu.js')); ?>?v=<?= $assetVersion; ?>" defer></script>
-<script src="<?= syzygy_esc(syzygy_encode_public_path('/assets/js/tabs.js')); ?>?v=<?= $assetVersion; ?>" defer></script>
+<?php if ($loadLyricsJs): ?>
 <script src="<?= syzygy_esc(syzygy_encode_public_path('/assets/js/lyrics.js')); ?>?v=<?= $assetVersion; ?>" defer></script>
+<?php endif; ?>
+<?php if ($loadGalleryJs): ?>
 <script src="<?= syzygy_esc(syzygy_encode_public_path('/assets/js/gallery.js')); ?>?v=<?= $assetVersion; ?>" defer></script>
 <script src="<?= syzygy_esc(syzygy_encode_public_path('/assets/js/lightbox.js')); ?>?v=<?= $assetVersion; ?>" defer></script>
+<?php endif; ?>
 <script src="<?= syzygy_esc(syzygy_encode_public_path('/assets/js/main.js')); ?>?v=<?= $assetVersion; ?>" defer></script>
 </body>
 </html>

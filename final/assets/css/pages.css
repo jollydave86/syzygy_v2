@@ -4,6 +4,22 @@
     min-height: 60vh;
 }
 
+.section,
+.highlight-section,
+.home-teaser,
+.home-journal-teaser,
+.release-grid,
+.profile-grid,
+.blog-grid {
+    content-visibility: auto;
+    contain-intrinsic-size: 1px 720px;
+}
+
+.page-hero,
+.page-header {
+    content-visibility: visible;
+}
+
 .page-header {
     padding: calc(var(--header-height) + 4rem) 0 2.5rem;
     background:
@@ -45,9 +61,28 @@
 .page-hero__bg {
     position: absolute;
     inset: 0;
-    background-size: cover;
-    background-position: center;
+    overflow: hidden;
+}
+
+.page-hero__bg-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
     transform: scale(1.02);
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .page-hero__bg-image {
+        transform: none;
+    }
+}
+
+@media (max-width: 720px) {
+    .page-hero {
+        min-height: 78vh;
+        padding-bottom: 3.5rem;
+    }
 }
 
 .page-hero__overlay {
