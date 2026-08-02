@@ -1,0 +1,12 @@
+.section {
+    position: relative;
+    padding: 6rem 0;
+}
+
+.section--dark {
+    background: linear-gradient(180deg, rgba(9, 23, 31, 0.72) 0%, rgba(6, 15, 22, 0.9) 100%);
+}
+
+.section-heading {
+    margin-bottom: 2rem;
+}

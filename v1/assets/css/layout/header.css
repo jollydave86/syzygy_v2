@@ -1,0 +1,71 @@
+.site-header {
+    position: fixed;
+    inset: 0 0 auto 0;
+    z-index: 100;
+    height: var(--header-height);
+    background: linear-gradient(
+        180deg,
+        rgba(3, 8, 12, 0.82) 0%,
+        rgba(3, 8, 12, 0.38) 60%,
+        rgba(3, 8, 12, 0) 100%
+    );
+    transition:
+        background-color var(--transition),
+        box-shadow var(--transition),
+        backdrop-filter var(--transition),
+        border-color var(--transition),
+        transform var(--transition);
+}
+
+.site-header.is-scrolled {
+    background: rgba(4, 11, 17, 0.86);
+    backdrop-filter: blur(14px);
+    -webkit-backdrop-filter: blur(14px);
+    border-bottom: 1px solid rgba(237, 190, 114, 0.1);
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.22);
+}
+
+.site-header__inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-height: var(--header-height);
+    gap: 1rem;
+}
+
+.site-logo {
+    position: relative;
+    z-index: 3;
+    display: inline-flex;
+    align-items: center;
+    font-family: var(--font-display);
+    font-size: 1.35rem;
+    letter-spacing: 0.08em;
+    color: var(--color-text);
+    line-height: 1;
+}
+
+:root {
+    --scroll-progress: 0;
+    --scroll-progress-height: 2px;
+}
+
+.site-header::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: var(--scroll-progress-height);
+    background: linear-gradient(
+        90deg,
+        rgba(237, 190, 114, 0.95) 0%,
+        rgba(242, 201, 135, 1) 100%
+    );
+    transform: scaleX(var(--scroll-progress));
+    transform-origin: left center;
+    transition: transform 120ms linear;
+    pointer-events: none;
+    z-index: 6;
+    box-shadow: 0 0 12px rgba(237, 190, 114, 0.22);
+}

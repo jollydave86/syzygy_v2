@@ -1,0 +1,9 @@
+body.menu-is-open,
+body.lightbox-is-open,
+body.video-modal-is-open {
+    overflow: hidden;
+}
+
+.site-main {
+    position: relative;
+}

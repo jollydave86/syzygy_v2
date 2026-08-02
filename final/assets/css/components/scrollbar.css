@@ -1,0 +1,113 @@
+/* =========================================================
+   Tracks scrollbar
+   Production-safe branded version
+   ========================================================= */
+
+/* PAGE / VIEWPORT SCROLLBAR */
+:root {
+    scrollbar-width: thin;
+    scrollbar-color: rgba(237, 190, 114, 0.88) rgba(9, 23, 31, 0.92);
+}
+
+/* Chrome / Edge / Safari */
+html::-webkit-scrollbar,
+body::-webkit-scrollbar {
+    width: 12px;
+}
+
+html::-webkit-scrollbar-track,
+body::-webkit-scrollbar-track {
+    background: linear-gradient(
+        180deg,
+        rgba(6, 15, 22, 0.98) 0%,
+        rgba(9, 23, 31, 0.94) 100%
+    );
+}
+
+html::-webkit-scrollbar-thumb,
+body::-webkit-scrollbar-thumb {
+    background: linear-gradient(
+        180deg,
+        rgba(255, 227, 168, 0.98) 0%,
+        rgba(237, 190, 114, 0.96) 32%,
+        rgba(176, 122, 69, 0.95) 68%,
+        rgba(255, 227, 168, 0.98) 100%
+    );
+    border-radius: 999px;
+    border: 2px solid rgba(9, 23, 31, 0.94);
+}
+
+.track-list--scrollable {
+    overflow: visible;
+}
+
+.track-list--scrollable.is-collapsed {
+    max-height: 31rem;
+    overflow-y: auto;
+    overflow-x: hidden;
+    padding-right: 0.45rem;
+    scrollbar-gutter: stable;
+}
+
+/* Modern browsers: use standard scrollbar styling */
+@supports (scrollbar-width: auto) {
+    .track-list--scrollable.is-collapsed {
+        scrollbar-width: thin;
+        scrollbar-color: rgba(237, 190, 114, 0.88) rgba(9, 23, 31, 0.92);
+    }
+}
+
+/* Legacy / WebKit fallback only */
+@supports selector(::-webkit-scrollbar) {
+    .track-list--scrollable.is-collapsed::-webkit-scrollbar {
+        width: 12px;
+    }
+
+    .track-list--scrollable.is-collapsed::-webkit-scrollbar-track {
+        background: linear-gradient(
+            180deg,
+            rgba(6, 15, 22, 0.98) 0%,
+            rgba(9, 23, 31, 0.94) 100%
+        );
+        border-radius: 999px;
+        box-shadow:
+            inset 0 0 0 1px rgba(237, 190, 114, 0.08),
+            inset 0 0 18px rgba(0, 0, 0, 0.32);
+    }
+
+    .track-list--scrollable.is-collapsed::-webkit-scrollbar-thumb {
+        background: linear-gradient(
+            180deg,
+            rgba(255, 227, 168, 0.98) 0%,
+            rgba(237, 190, 114, 0.96) 32%,
+            rgba(176, 122, 69, 0.95) 68%,
+            rgba(255, 227, 168, 0.98) 100%
+        );
+        border-radius: 999px;
+        border: 2px solid rgba(9, 23, 31, 0.94);
+        box-shadow:
+            0 0 0 1px rgba(237, 190, 114, 0.14),
+            0 0 14px rgba(237, 190, 114, 0.18);
+        background-size: 100% 220%;
+        animation: syzygy-scrollbar-shift 4.5s linear infinite;
+    }
+
+    .track-list--scrollable.is-collapsed::-webkit-scrollbar-thumb:hover {
+        box-shadow:
+            0 0 0 1px rgba(237, 190, 114, 0.24),
+            0 0 18px rgba(237, 190, 114, 0.28);
+    }
+
+    .track-list--scrollable.is-collapsed::-webkit-scrollbar-corner {
+        background: transparent;
+    }
+}
+
+@keyframes syzygy-scrollbar-shift {
+    0% {
+        background-position: 0 0;
+    }
+    100% {
+        background-position: 0 220%;
+    }
+}

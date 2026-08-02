@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="SYZYGY.VOID favicon">
+  <rect x="24" y="24" width="464" height="464" rx="110" fill="#06101d"/>
+  <circle cx="256" cy="256" r="128" fill="none" stroke="#c89b2b" stroke-width="24"/>
+  <rect x="246" y="110" width="20" height="292" rx="10" fill="#c89b2b"/>
+  <circle cx="256" cy="131" r="24" fill="#c89b2b"/>
+  <circle cx="256" cy="381" r="24" fill="#c89b2b"/>
+  <circle cx="256" cy="256" r="38" fill="#06101d"/>
+  <circle cx="256" cy="256" r="48" fill="none" stroke="#e2c065" stroke-width="8"/>
+  <g stroke="#e2c065" stroke-linecap="round">
+    <line x1="66" y1="106" x2="142" y2="106" stroke-width="6"/>
+    <line x1="104" y1="68" x2="104" y2="144" stroke-width="6"/>
+  </g>
+</svg>

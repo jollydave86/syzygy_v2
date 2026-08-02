@@ -1,0 +1,1094 @@
+.about-section {
+    background: linear-gradient(180deg, rgba(7, 13, 18, 0.9) 0%, rgba(9, 23, 31, 0.75) 100%);
+}
+
+.about-grid {
+    display: grid;
+    grid-template-columns: minmax(280px, 460px) minmax(0, 1fr);
+    gap: 3rem;
+    align-items: center;
+}
+
+.about-media__frame {
+    position: relative;
+    overflow: hidden;
+    border: 1px solid var(--color-border);
+    background: linear-gradient(180deg, rgba(19, 26, 30, 0.8) 0%, rgba(11, 17, 23, 0.95) 100%);
+    box-shadow: var(--shadow-soft);
+}
+
+.about-media__frame::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    border: 1px solid rgba(237, 190, 114, 0.12);
+    pointer-events: none;
+}
+
+.about-media__image {
+    display: block;
+    width: 100%;
+    height: auto;
+    filter: saturate(0.88) contrast(1.03) brightness(0.86);
+}
+
+.about-copy__title {
+    max-width: 12ch;
+}
+
+.about-copy__text {
+    max-width: 62ch;
+    margin: 1.25rem 0 0;
+    color: var(--color-text-soft);
+}
+
+.about-copy__text--muted {
+    color: var(--color-text-muted);
+}
+
+.stats-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1rem;
+    margin-top: 2rem;
+}
+
+.stat-card {
+    padding: 1.25rem 1rem;
+    border: 1px solid var(--color-border);
+    background: linear-gradient(180deg, rgba(19, 26, 30, 0.72) 0%, rgba(11, 17, 23, 0.92) 100%);
+}
+
+.stat-card__value {
+    margin: 0;
+    font-family: var(--font-display);
+    font-size: clamp(2rem, 4vw, 3rem);
+    line-height: 0.95;
+    color: var(--color-accent);
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+
+.stat-card__label {
+    margin: 0.5rem 0 0;
+    font-family: var(--font-ui);
+    font-size: 0.82rem;
+    font-weight: 700;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--color-text-muted);
+}
+
+.solo-signals-section {
+    isolation: isolate;
+    overflow: hidden;
+    background:
+        radial-gradient(circle at 16% 18%, rgba(237, 190, 114, 0.16), transparent 28rem),
+        radial-gradient(circle at 78% 8%, rgba(73, 134, 158, 0.14), transparent 30rem),
+        linear-gradient(180deg, rgba(4, 9, 13, 0.96) 0%, rgba(9, 19, 26, 0.86) 54%, rgba(4, 8, 12, 0.98) 100%);
+}
+
+.solo-signals__header {
+    position: relative;
+    z-index: 1;
+    width: 100%;
+    max-width: none;
+}
+
+.solo-signals__title {
+    max-width: none;
+    text-shadow: 0 0 32px rgba(237, 190, 114, 0.16);
+}
+
+.solo-signals__intro {
+    width: 100%;
+    max-width: none;
+    margin: 1.25rem 0 0;
+    color: var(--color-text-soft);
+    font-size: 1rem;
+    line-height: 1.75;
+}
+
+.solo-signals__stats {
+    position: relative;
+    z-index: 1;
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1rem;
+    margin-top: 2rem;
+}
+
+.solo-stat {
+    position: relative;
+    overflow: hidden;
+    padding: 1.25rem 1rem;
+    border: 1px solid var(--color-border);
+    background:
+        linear-gradient(180deg, rgba(237, 190, 114, 0.08) 0%, rgba(237, 190, 114, 0) 58%),
+        linear-gradient(180deg, rgba(19, 26, 30, 0.72) 0%, rgba(11, 17, 23, 0.92) 100%);
+}
+
+.solo-stat::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(90deg, transparent, rgba(237, 190, 114, 0.12), transparent);
+    opacity: 0.25;
+    transform: translateX(-100%);
+    animation: soloSignalSweep 8s ease-in-out infinite;
+    pointer-events: none;
+}
+
+.solo-stat__value {
+    margin: 0;
+    font-family: var(--font-display);
+    font-size: clamp(2rem, 4vw, 3rem);
+    line-height: 0.95;
+    color: var(--color-accent);
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+
+.solo-stat__label {
+    margin: 0.5rem 0 0;
+    font-family: var(--font-ui);
+    font-size: 0.82rem;
+    font-weight: 700;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--color-text-muted);
+}
+
+.solo-signals__group-shot {
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+    aspect-ratio: 16 / 9;
+    margin: 2.5rem 0 0;
+    border: 1px solid rgba(237, 190, 114, 0.28);
+    background:
+        radial-gradient(circle at 50% 20%, rgba(237, 190, 114, 0.15), transparent 24rem),
+        linear-gradient(180deg, rgba(13, 24, 31, 0.88) 0%, rgba(4, 8, 13, 0.98) 100%);
+    box-shadow:
+        0 0 0 1px rgba(255, 255, 255, 0.045) inset,
+        0 28px 80px rgba(0, 0, 0, 0.45),
+        0 0 70px rgba(237, 190, 114, 0.08);
+}
+
+.solo-signals__group-shot::before,
+.solo-signals__group-shot::after,
+.solo-card::before,
+.solo-card::after,
+.solo-card__portrait::after {
+    content: "";
+    position: absolute;
+    pointer-events: none;
+}
+
+.solo-signals__group-shot::before {
+    inset: 0;
+    z-index: 3;
+    background:
+        repeating-linear-gradient(0deg, rgba(255, 255, 255, 0.035) 0 1px, transparent 1px 5px),
+        radial-gradient(circle at 50% 100%, rgba(237, 190, 114, 0.18), transparent 38%);
+    mix-blend-mode: screen;
+    opacity: 0.5;
+}
+
+.solo-signals__group-shot::after {
+    inset: 0;
+    z-index: 2;
+    background:
+        linear-gradient(90deg, rgba(0, 0, 0, 0.72), transparent 24%, transparent 76%, rgba(0, 0, 0, 0.72)),
+        linear-gradient(180deg, rgba(0, 0, 0, 0.08), rgba(0, 0, 0, 0.7));
+}
+
+.solo-signals__group-image {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    filter: saturate(0.85) contrast(1.08) brightness(0.78);
+}
+
+.solo-signals__stage {
+    position: absolute;
+    inset: 0;
+    overflow: hidden;
+    background:
+        linear-gradient(90deg, rgba(0, 0, 0, 0.62), transparent 24%, transparent 76%, rgba(0, 0, 0, 0.62)),
+        radial-gradient(ellipse at 50% 86%, rgba(237, 190, 114, 0.2), transparent 36%),
+        linear-gradient(180deg, rgba(8, 22, 30, 0.92) 0%, rgba(4, 7, 12, 1) 100%);
+}
+
+.solo-signals__stage::before {
+    content: "";
+    position: absolute;
+    left: 8%;
+    right: 8%;
+    bottom: 16%;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, rgba(237, 190, 114, 0.62), transparent);
+    box-shadow: 0 0 34px rgba(237, 190, 114, 0.34);
+}
+
+.solo-signals__beam {
+    position: absolute;
+    bottom: 10%;
+    width: 10%;
+    height: 76%;
+    background: linear-gradient(180deg, rgba(237, 190, 114, 0.26), rgba(237, 190, 114, 0.02) 72%, transparent);
+    filter: blur(18px);
+    opacity: 0.52;
+    transform-origin: bottom center;
+    animation: soloBeamPulse 5.8s ease-in-out infinite;
+}
+
+.solo-signals__beam--one { left: 11%; transform: rotate(-9deg); animation-delay: -0.7s; }
+.solo-signals__beam--two { left: 25%; transform: rotate(-5deg); animation-delay: -2s; }
+.solo-signals__beam--three { left: 39%; transform: rotate(-1deg); animation-delay: -1.4s; }
+.solo-signals__beam--four { left: 53%; transform: rotate(2deg); animation-delay: -2.8s; }
+.solo-signals__beam--five { left: 67%; transform: rotate(6deg); animation-delay: -1s; }
+.solo-signals__beam--six { left: 80%; transform: rotate(10deg); animation-delay: -3.2s; }
+
+.solo-signals__silhouette {
+    position: absolute;
+    bottom: 16%;
+    z-index: 1;
+    display: grid;
+    width: clamp(2.2rem, 6vw, 5.4rem);
+    height: clamp(7rem, 22vw, 16rem);
+    place-items: start center;
+    padding-top: clamp(0.7rem, 1.4vw, 1.1rem);
+    border: 1px solid rgba(237, 190, 114, 0.22);
+    border-radius: 999px 999px 12px 12px;
+    color: rgba(237, 190, 114, 0.84);
+    background:
+        radial-gradient(circle at 50% 12%, rgba(237, 190, 114, 0.22), transparent 24%),
+        linear-gradient(180deg, rgba(18, 26, 31, 0.98), rgba(0, 0, 0, 0.72));
+    box-shadow:
+        0 0 30px rgba(237, 190, 114, 0.14),
+        0 22px 60px rgba(0, 0, 0, 0.48);
+    font-family: var(--font-display);
+    font-size: clamp(1rem, 2vw, 2.2rem);
+    letter-spacing: 0.04em;
+}
+
+.solo-signals__silhouette--one { left: 11%; transform: scale(0.88); }
+.solo-signals__silhouette--two { left: 25%; transform: scale(0.96); }
+.solo-signals__silhouette--three { left: 39%; transform: scale(1.06); }
+.solo-signals__silhouette--four { left: 53%; transform: scale(1.02); }
+.solo-signals__silhouette--five { left: 67%; transform: scale(0.94); }
+.solo-signals__silhouette--six { left: 80%; transform: scale(0.86); }
+
+.solo-signals__group-copy {
+    position: absolute;
+    left: 1rem;
+    right: 1rem;
+    bottom: 1rem;
+    z-index: 4;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.65rem 1rem;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.85rem 1rem;
+    border: 1px solid rgba(237, 190, 114, 0.18);
+    background: rgba(4, 9, 13, 0.72);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    color: var(--color-text-soft);
+    font-family: var(--font-ui);
+    font-size: 0.76rem;
+    font-weight: 700;
+    letter-spacing: 0.13em;
+    line-height: 1.35;
+    text-transform: uppercase;
+}
+
+.solo-signals__group-copy span:first-child {
+    color: var(--color-accent);
+}
+
+.solo-signals__grid {
+    position: relative;
+    z-index: 1;
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: clamp(1rem, 2vw, 1.5rem);
+    margin-top: 2rem;
+}
+
+.solo-card {
+    position: relative;
+    display: flex;
+    min-width: 0;
+    min-height: 100%;
+    flex-direction: column;
+    overflow: hidden;
+    gap: 0;
+    padding: 1.1rem;
+    border: 1px solid rgba(237, 190, 114, 0.2);
+    background:
+        radial-gradient(circle at 50% 16%, rgba(237, 190, 114, 0.13), transparent 12rem),
+        linear-gradient(145deg, rgba(237, 190, 114, 0.09) 0%, rgba(237, 190, 114, 0) 44%),
+        linear-gradient(180deg, rgba(17, 27, 34, 0.82) 0%, rgba(5, 10, 15, 0.96) 100%);
+    box-shadow:
+        0 0 0 1px rgba(255, 255, 255, 0.035) inset,
+        0 22px 54px rgba(0, 0, 0, 0.34);
+    transition:
+        transform 220ms ease,
+        border-color 220ms ease,
+        box-shadow 220ms ease;
+}
+
+.solo-card::before {
+    inset: 0;
+    z-index: -1;
+    background:
+        linear-gradient(120deg, transparent, rgba(237, 190, 114, 0.12), transparent),
+        repeating-linear-gradient(0deg, rgba(255, 255, 255, 0.025) 0 1px, transparent 1px 5px);
+    opacity: 0.3;
+}
+
+.solo-card::after {
+    inset: auto 1.2rem 0;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, rgba(237, 190, 114, 0.62), transparent);
+    opacity: 0.6;
+}
+
+.solo-card:hover,
+.solo-card:focus-within {
+    transform: translateY(-6px);
+    border-color: rgba(237, 190, 114, 0.48);
+    box-shadow:
+        0 0 0 1px rgba(237, 190, 114, 0.12) inset,
+        0 28px 72px rgba(0, 0, 0, 0.5),
+        0 0 46px rgba(237, 190, 114, 0.12);
+}
+
+.solo-card__status {
+    width: fit-content;
+    max-width: 100%;
+    margin: 0;
+    padding: 0.35rem 0.55rem;
+    border: 1px solid rgba(237, 190, 114, 0.24);
+    color: var(--color-accent);
+    font-family: var(--font-ui);
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    line-height: 1.25;
+    text-transform: uppercase;
+}
+
+.solo-card__teaser {
+    margin: 1rem 0 0;
+    color: var(--color-text-soft);
+    line-height: 1.6;
+    display: -webkit-box;
+    overflow: hidden;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+}
+
+.solo-card__portrait {
+    position: relative;
+    display: grid;
+    width: 100%;
+    max-width: 320px;
+    aspect-ratio: 1;
+    place-items: center;
+    margin: 1rem auto 0;
+    overflow: hidden;
+    border: 1px solid rgba(237, 190, 114, 0.45);
+    background:
+        radial-gradient(circle at 50% 18%, rgba(237, 190, 114, 0.22), transparent 32%),
+        radial-gradient(circle at 50% 100%, rgba(64, 127, 149, 0.18), transparent 42%),
+        linear-gradient(145deg, rgba(25, 40, 51, 0.92), rgba(4, 8, 13, 0.98));
+    box-shadow:
+        0 0 0 1px rgba(255, 255, 255, 0.045) inset,
+        0 0 34px rgba(237, 190, 114, 0.12),
+        0 18px 48px rgba(0, 0, 0, 0.38);
+}
+
+.solo-card__portrait::before {
+    content: "";
+    position: absolute;
+    inset: 12%;
+    border-radius: 50% 50% 38% 38%;
+    background:
+        radial-gradient(circle at 50% 22%, rgba(237, 190, 114, 0.24), transparent 26%),
+        linear-gradient(180deg, rgba(10, 17, 23, 0.1), rgba(0, 0, 0, 0.72));
+    filter: blur(0.2px);
+}
+
+.solo-card__portrait::after {
+    inset: 0;
+    background:
+        repeating-linear-gradient(0deg, rgba(255, 255, 255, 0.04) 0 1px, transparent 1px 5px),
+        linear-gradient(180deg, transparent, rgba(0, 0, 0, 0.38));
+    opacity: 0.55;
+}
+
+.solo-card__portrait img {
+    position: relative;
+    z-index: 1;
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    filter: saturate(0.86) contrast(1.08) brightness(0.86);
+}
+
+.solo-card__initials {
+    position: relative;
+    z-index: 1;
+    color: var(--color-accent);
+    font-family: var(--font-display);
+    font-size: clamp(4.5rem, 9vw, 6rem);
+    line-height: 1;
+    letter-spacing: 0.04em;
+    text-shadow: 0 0 28px rgba(237, 190, 114, 0.24);
+}
+
+.solo-card__body {
+    min-width: 0;
+    padding-bottom: 0.2rem;
+}
+
+.solo-card__name {
+    margin: 1rem 0 0;
+    color: var(--color-text);
+    font-family: var(--font-display);
+    font-size: 2rem;
+    line-height: 0.95;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+
+.solo-card__role {
+    margin: 0.55rem 0 0;
+    color: var(--color-text-muted);
+    font-family: var(--font-ui);
+    font-size: 0.82rem;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+}
+
+.solo-card__release {
+    margin: 0.9rem 0 0;
+    color: var(--color-accent);
+    font-family: var(--font-ui);
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+}
+
+.solo-card__bio {
+    margin-top: 1rem;
+    color: var(--color-text-soft);
+}
+
+.solo-card__bio p {
+    display: -webkit-box;
+    overflow: hidden;
+    margin: 0;
+    line-height: 1.65;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+}
+
+.solo-card.is-expanded .solo-card__bio p {
+    display: block;
+    overflow: visible;
+    -webkit-line-clamp: unset;
+}
+
+.solo-card__read-more {
+    cursor: pointer;
+    display: inline-flex;
+    width: auto;
+    min-height: 2.45rem;
+    align-items: center;
+    justify-content: center;
+    margin: 1.1rem 0 0;
+    padding: 0.65rem 0.9rem;
+    border: 1px solid rgba(237, 190, 114, 0.34);
+    background: rgba(237, 190, 114, 0.07);
+    color: var(--color-text);
+    font-family: var(--font-ui);
+    font-size: 0.82rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    line-height: 1;
+    text-transform: uppercase;
+    transition:
+        color 180ms ease,
+        border-color 180ms ease,
+        background 180ms ease,
+        transform 180ms ease,
+        box-shadow 180ms ease;
+}
+
+.solo-card__read-more:hover,
+.solo-card__read-more:focus-visible {
+    color: var(--color-accent);
+    border-color: rgba(237, 190, 114, 0.7);
+    background: rgba(237, 190, 114, 0.13);
+    box-shadow: 0 0 22px rgba(237, 190, 114, 0.1);
+    transform: translateY(-1px);
+    outline: none;
+}
+
+.solo-card__read-more:active {
+    color: #ffe1a1;
+    transform: translateY(0);
+}
+
+.solo-card__read-more:focus-visible {
+    text-decoration: underline;
+    text-underline-offset: 0.28rem;
+}
+
+.solo-card__button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 2.8rem;
+    margin-top: 1.15rem;
+    padding: 0.8rem 1rem;
+    border: 1px solid var(--color-accent);
+    color: #0a0d10;
+    background: var(--color-accent);
+    font-family: var(--font-ui);
+    font-size: 0.78rem;
+    font-weight: 800;
+    letter-spacing: 0.13em;
+    line-height: 1.25;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition:
+        transform 180ms ease,
+        box-shadow 180ms ease,
+        background 180ms ease;
+}
+
+a.solo-card__button:hover,
+a.solo-card__button:focus-visible {
+    transform: translateY(-2px);
+    box-shadow: 0 0 28px rgba(237, 190, 114, 0.18);
+}
+
+a.solo-card__button:focus-visible {
+    outline: 2px solid rgba(237, 190, 114, 0.72);
+    outline-offset: 3px;
+}
+
+a.solo-card__button:active {
+    transform: translateY(0);
+    color: #0a0d10;
+    background: #ffd78c;
+}
+
+.solo-card__button--disabled {
+    cursor: default;
+    color: rgba(235, 230, 220, 0.78);
+    border-color: rgba(237, 190, 114, 0.18);
+    background: rgba(255, 255, 255, 0.035);
+}
+
+.solo-modal[hidden] {
+    display: none;
+}
+
+.solo-modal {
+    position: fixed;
+    inset: 0;
+    z-index: 1000;
+    display: grid;
+    place-items: center;
+    padding: 1rem;
+}
+
+.solo-modal__backdrop {
+    position: absolute;
+    inset: 0;
+    background:
+        radial-gradient(circle at 50% 30%, rgba(237, 190, 114, 0.16), transparent 34rem),
+        rgba(0, 0, 0, 0.78);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    opacity: 1;
+    transition: opacity 180ms ease;
+}
+
+.solo-modal__dialog {
+    position: relative;
+    z-index: 1;
+    width: min(1100px, 92vw);
+    max-height: min(88vh, 860px);
+    overflow: auto;
+    overscroll-behavior: contain;
+    scrollbar-gutter: stable;
+    border: 1px solid rgba(237, 190, 114, 0.46);
+    background:
+        radial-gradient(circle at 24% 14%, rgba(237, 190, 114, 0.18), transparent 18rem),
+        radial-gradient(circle at 82% 0%, rgba(73, 134, 158, 0.13), transparent 22rem),
+        linear-gradient(145deg, rgba(18, 31, 40, 0.88), rgba(4, 8, 13, 0.95));
+    backdrop-filter: blur(18px);
+    -webkit-backdrop-filter: blur(18px);
+    box-shadow:
+        0 0 0 1px rgba(255, 255, 255, 0.055) inset,
+        0 30px 100px rgba(0, 0, 0, 0.68),
+        0 0 68px rgba(237, 190, 114, 0.16);
+    transform: translateY(0) scale(1);
+    opacity: 1;
+    animation: soloModalOpen 220ms ease both;
+}
+
+.solo-modal__dialog::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0.28), transparent 32%, transparent 72%, rgba(0, 0, 0, 0.2));
+    opacity: 0.5;
+}
+
+.solo-modal__dialog::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    border: 1px solid rgba(237, 190, 114, 0.16);
+    box-shadow: 0 0 42px rgba(237, 190, 114, 0.12) inset;
+}
+
+.solo-modal.is-closing .solo-modal__backdrop {
+    opacity: 0;
+}
+
+.solo-modal.is-closing .solo-modal__dialog {
+    animation: soloModalClose 160ms ease both;
+}
+
+.solo-modal__close {
+    position: absolute;
+    top: 0.75rem;
+    right: 0.75rem;
+    z-index: 2;
+    display: grid;
+    width: 2.75rem;
+    height: 2.75rem;
+    place-items: center;
+    border: 1px solid rgba(237, 190, 114, 0.24);
+    color: var(--color-text);
+    background: rgba(4, 9, 13, 0.72);
+    cursor: pointer;
+    font-size: 1.7rem;
+    line-height: 1;
+}
+
+.solo-modal__close span {
+    display: block;
+    font-size: 0;
+    transform: translateY(-1px);
+}
+
+.solo-modal__close span::before {
+    content: "x";
+    font-size: 1.35rem;
+}
+
+.solo-modal__close:hover,
+.solo-modal__close:focus-visible {
+    color: var(--color-accent);
+    border-color: rgba(237, 190, 114, 0.56);
+    outline: none;
+}
+
+.solo-modal__close:focus-visible {
+    box-shadow: 0 0 0 3px rgba(237, 190, 114, 0.18);
+}
+
+.solo-modal__close:active {
+    color: #ffe1a1;
+    border-color: rgba(237, 190, 114, 0.72);
+}
+
+.solo-modal__layout {
+    position: relative;
+    z-index: 1;
+    padding: 1.5rem;
+}
+
+.solo-modal__media {
+    position: relative;
+    grid-area: media;
+    width: 100%;
+    max-width: 360px;
+    margin: 0;
+    align-self: start;
+    overflow: hidden;
+    border: 1px solid rgba(237, 190, 114, 0.5);
+    background:
+        radial-gradient(circle at 50% 18%, rgba(237, 190, 114, 0.22), transparent 35%),
+        linear-gradient(145deg, rgba(25, 40, 51, 0.92), rgba(4, 8, 13, 0.98));
+    box-shadow:
+        0 0 0 1px rgba(255, 255, 255, 0.045) inset,
+        0 18px 54px rgba(0, 0, 0, 0.42),
+        0 0 38px rgba(237, 190, 114, 0.13);
+}
+
+.solo-modal__media::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    background: linear-gradient(180deg, transparent 58%, rgba(0, 0, 0, 0.28));
+}
+
+.solo-modal__image,
+.solo-modal__image-fallback {
+    display: block;
+    width: 100%;
+    aspect-ratio: 1;
+}
+
+/* Author-level display rules must explicitly respect the hidden state. */
+.solo-modal__image[hidden],
+.solo-modal__image-fallback[hidden] {
+    display: none;
+}
+
+.solo-modal__image {
+    height: auto;
+    object-fit: cover;
+    filter: saturate(0.88) contrast(1.08) brightness(0.86);
+}
+
+.solo-modal__image-fallback {
+    display: grid;
+    place-items: center;
+    color: var(--color-accent);
+    font-family: var(--font-display);
+    font-size: clamp(4rem, 12vw, 7rem);
+    line-height: 1;
+}
+
+.solo-modal__content {
+    display: grid;
+    grid-template-columns: minmax(260px, 360px) minmax(0, 1fr);
+    grid-template-areas:
+        "eyebrow heading"
+        "media primary"
+        "media details"
+        "media actions";
+    gap: 1rem 1.5rem;
+    align-items: start;
+    min-width: 0;
+    padding: 1.5rem;
+    overflow-wrap: anywhere;
+}
+
+.solo-modal__eyebrow {
+    grid-area: eyebrow;
+    margin: 0;
+    padding-top: 0.35rem;
+    color: var(--color-accent);
+    font-family: var(--font-ui);
+    font-size: 0.78rem;
+    font-weight: 800;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+}
+
+.solo-modal__heading {
+    grid-area: heading;
+    min-width: 0;
+    padding-right: 3.25rem;
+}
+
+.solo-modal__title {
+    margin: 0;
+    color: var(--color-text);
+    font-family: var(--font-display);
+    font-size: clamp(2.4rem, 5vw, 4.25rem);
+    line-height: 0.9;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+
+.solo-modal__release,
+.solo-modal__meta {
+    margin: 0.7rem 0 0;
+    font-family: var(--font-ui);
+    font-weight: 700;
+    letter-spacing: 0.13em;
+    text-transform: uppercase;
+}
+
+.solo-modal__release {
+    color: var(--color-accent);
+}
+
+.solo-modal__meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+    color: var(--color-text-muted);
+}
+
+.solo-modal__detail-grid {
+    grid-area: details;
+    display: grid;
+    gap: 0.85rem;
+    margin-top: 0;
+}
+
+.solo-modal__detail--primary {
+    grid-area: primary;
+    margin-top: 0;
+}
+
+.solo-modal__detail {
+    padding: 0.9rem;
+    border: 1px solid rgba(237, 190, 114, 0.2);
+    background:
+        linear-gradient(135deg, rgba(237, 190, 114, 0.06), transparent 55%),
+        rgba(255, 255, 255, 0.035);
+    box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.025) inset;
+}
+
+.solo-modal__detail h4 {
+    margin: 0;
+    color: var(--color-accent);
+    font-family: var(--font-ui);
+    font-size: 0.76rem;
+    font-weight: 800;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+}
+
+.solo-modal__detail p {
+    margin: 0.55rem 0 0;
+    color: var(--color-text-soft);
+    line-height: 1.65;
+}
+
+.solo-modal__chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.45rem;
+    margin-top: 0.65rem;
+}
+
+.solo-modal__chip {
+    display: inline-flex;
+    align-items: center;
+    min-height: 2rem;
+    padding: 0.4rem 0.62rem;
+    border: 1px solid rgba(237, 190, 114, 0.24);
+    color: var(--color-text-soft);
+    background:
+        linear-gradient(135deg, rgba(237, 190, 114, 0.12), rgba(255, 255, 255, 0.025));
+    font-family: var(--font-ui);
+    font-size: 0.72rem;
+    font-weight: 800;
+    letter-spacing: 0.1em;
+    line-height: 1.2;
+    text-transform: uppercase;
+}
+
+.solo-modal__actions {
+    grid-area: actions;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    align-items: center;
+    margin-top: 0.15rem;
+    padding-top: 1rem;
+    border-top: 1px solid rgba(237, 190, 114, 0.16);
+}
+
+.solo-modal__playlist {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 2.9rem;
+    margin-top: 0;
+    padding: 0.85rem 1.15rem;
+    border: 1px solid var(--color-accent);
+    color: #0a0d10;
+    background: var(--color-accent);
+    font-family: var(--font-ui);
+    font-size: 0.78rem;
+    font-weight: 800;
+    letter-spacing: 0.13em;
+    line-height: 1.25;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    max-width: 100%;
+    transition:
+        transform 180ms ease,
+        box-shadow 180ms ease,
+        background 180ms ease,
+        color 180ms ease,
+        border-color 180ms ease;
+}
+
+a.solo-modal__playlist:hover,
+a.solo-modal__playlist:focus-visible {
+    color: #0a0d10;
+    background: #ffd78c;
+    border-color: #ffd78c;
+    box-shadow: 0 0 30px rgba(237, 190, 114, 0.2);
+    transform: translateY(-2px);
+}
+
+a.solo-modal__playlist:focus-visible {
+    outline: 2px solid rgba(237, 190, 114, 0.72);
+    outline-offset: 3px;
+}
+
+a.solo-modal__playlist:active {
+    transform: translateY(0);
+}
+
+.solo-modal__playlist--disabled {
+    cursor: default;
+    color: rgba(235, 230, 220, 0.78);
+    border-color: rgba(237, 190, 114, 0.18);
+    background: rgba(255, 255, 255, 0.035);
+}
+
+.solo-modal__secondary-close {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 2.9rem;
+    margin: 0;
+    padding: 0.85rem 1.15rem;
+    border: 1px solid rgba(237, 190, 114, 0.24);
+    color: var(--color-text);
+    background: rgba(255, 255, 255, 0.035);
+    cursor: pointer;
+    font-family: var(--font-ui);
+    font-size: 0.78rem;
+    font-weight: 800;
+    letter-spacing: 0.13em;
+    line-height: 1.25;
+    text-align: center;
+    text-transform: uppercase;
+    max-width: 100%;
+}
+
+.solo-modal__secondary-close:hover,
+.solo-modal__secondary-close:focus-visible {
+    color: var(--color-accent);
+    border-color: rgba(237, 190, 114, 0.56);
+    outline: none;
+}
+
+.solo-modal__secondary-close:focus-visible {
+    box-shadow: 0 0 0 3px rgba(237, 190, 114, 0.16);
+}
+
+.solo-modal__secondary-close:active {
+    color: #ffe1a1;
+    border-color: rgba(237, 190, 114, 0.72);
+}
+
+body.is-solo-modal-open {
+    overflow: hidden;
+}
+
+/* The section creates its own stacking context, so lift it above the fixed
+   header while the member dialog is active. */
+body.is-solo-modal-open .solo-signals-section {
+    z-index: 200;
+}
+
+body.is-solo-modal-open .site-header {
+    pointer-events: none;
+}
+
+@keyframes soloSignalSweep {
+    0%,
+    62% {
+        transform: translateX(-100%);
+    }
+
+    100% {
+        transform: translateX(100%);
+    }
+}
+
+@keyframes soloBeamPulse {
+    0%,
+    100% {
+        opacity: 0.34;
+    }
+
+    50% {
+        opacity: 0.68;
+    }
+}
+
+@keyframes soloModalOpen {
+    from {
+        opacity: 0;
+        transform: translateY(18px) scale(0.985);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0) scale(1);
+    }
+}
+
+@keyframes soloModalClose {
+    from {
+        opacity: 1;
+        transform: translateY(0) scale(1);
+    }
+
+    to {
+        opacity: 0;
+        transform: translateY(14px) scale(0.985);
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .solo-stat::after,
+    .solo-signals__beam {
+        animation: none;
+    }
+
+    .solo-card,
+    .solo-card__read-more,
+    .solo-modal__dialog,
+    .solo-modal__backdrop,
+    .solo-card__button,
+    .solo-modal__playlist,
+    .solo-modal__secondary-close {
+        animation: none;
+        transition: none;
+    }
+
+    .solo-card:hover,
+    .solo-card:focus-within,
+    .solo-card__read-more:hover,
+    .solo-card__read-more:focus-visible,
+    a.solo-card__button:hover,
+    a.solo-card__button:focus-visible,
+    a.solo-modal__playlist:hover,
+    a.solo-modal__playlist:focus-visible {
+        transform: none;
+    }
+}

@@ -1,0 +1,53 @@
+.track-tabs {
+    display: grid;
+    gap: 1.5rem;
+}
+
+.track-tabs__nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+}
+
+.track-tabs__button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 42px;
+    padding: 0.7rem 1rem;
+    border: 1px solid rgba(237, 190, 114, 0.14);
+    background: rgba(11, 17, 23, 0.72);
+    color: var(--color-text-soft);
+    font-family: var(--font-ui);
+    font-size: 0.82rem;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition:
+        background-color var(--transition),
+        border-color var(--transition),
+        color var(--transition),
+        transform var(--transition);
+}
+
+.track-tabs__button:hover,
+.track-tabs__button:focus-visible {
+    border-color: rgba(237, 190, 114, 0.3);
+    color: var(--color-text);
+    transform: translateY(-1px);
+}
+
+.track-tabs__button.is-active {
+    background: var(--color-accent);
+    color: #0a0d10;
+    border-color: var(--color-accent);
+}
+
+.track-tabs__panel {
+    display: block;
+}
+
+.track-tabs__panel[hidden] {
+    display: none !important;
+}

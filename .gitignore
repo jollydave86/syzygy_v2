@@ -1,0 +1,77 @@
+# ==================================================
+# SYZYGY.VOID v2 - Git Ignore
+# ==================================================
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.code-workspace
+.cursor/
+
+# Logs / temp / backups
+*.log
+*.tmp
+*.temp
+*.bak
+*.old
+*.orig
+*.swp
+*.swo
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+**/config/contact-mail.php
+!**/config/contact-mail.example.php
+
+# Dependencies
+/vendor/
+/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build / cache
+/dist/
+/build/
+/cache/
+/tmp/
+/coverage/
+*.cache
+*.session
+*.pid
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# Design source working files
+*.psd
+*.ai
+*.afdesign
+*.xcf
+
+# Laragon / local runtime
+/.storage/
+/sessions/
+/logs/
+
+# Private notes
+/docs/private/
+/notes-local/
+/scratch/
+*.local.md
+
+# Agent / tool scratch
+agent-tools/
+**/00 - Playlist Cover.old.webp
