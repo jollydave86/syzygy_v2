@@ -154,12 +154,25 @@ HTML,
         'title' => 'Era 3 Press Week: Solos, Singles, One Machine',
         'date' => '2026-09-29',
         'eyebrow' => 'Press Week',
-        'excerpt' => 'Lucien, Nova, Lyra, and Ash occupy the public wall. Occupancy merch waits for Kade. Vanta stays unfinished on purpose.',
+        'excerpt' => 'Lucien, Nova, Lyra, Ash, and Kade occupy the public wall. Vanta stays unfinished on purpose.',
         'image' => '/assets/img-optimized/solo-signals/kade-null.webp',
         'body' => <<<'HTML'
-<p>Press week is a density test. Four Solo Signals are ready on the catalogue: <a href="/music/no-idle-speed">Lucien’s motion</a>, <a href="/music/white-voltage">Nova’s dual crown</a> with <a href="/music/deluxe-queen">DELUXE QUEEN</a>, <a href="/music/body-clock">Lyra’s body clock</a>, and <a href="/music/the-shape-i-left">Ash’s outline</a>. <a href="/music/singles-night-v5-5">Singles Night V5.5</a> sits beside Featured Signals — songs only, no merch.</p>
-<p><a href="/profiles/kade-null">Kade Null</a> remains coming soon as a public EP, but Occupancy Zero already occupies the <a href="/merch">archive store</a> as a physical concept drop. Vanta Rey stays unfinished. Incompleteness is still canon.</p>
+<p>Press week is a density test. Five Solo Signals are ready on the catalogue: <a href="/music/no-idle-speed">Lucien’s motion</a>, <a href="/music/white-voltage">Nova’s dual crown</a> with <a href="/music/deluxe-queen">DELUXE QUEEN</a>, <a href="/music/body-clock">Lyra’s body clock</a>, <a href="/music/the-shape-i-left">Ash’s outline</a>, and <a href="/music/occupancy-zero">Kade’s occupancy</a>. <a href="/music/singles-night-v5-5">Singles Night V5.5</a> sits beside Featured Signals — songs only, no merch.</p>
+<p><a href="/profiles/kade-null">Kade Null</a> is public. Occupancy Zero also occupies the <a href="/merch">archive store</a> as a physical concept drop. Vanta Rey stays unfinished. Incompleteness is still canon for her fragment.</p>
 <p>Walk the <a href="/profiles">profiles</a>. Walk the <a href="/music">catalogue wall</a>. The universe is larger because the voices are allowed to leave the shared machine and still belong to it.</p>
+HTML,
+    ],
+    [
+        'slug' => 'occupancy-zero-kade-null',
+        'title' => 'OCCUPANCY ZERO: Kade Null Unlocks the Room',
+        'date' => '2026-10-01',
+        'eyebrow' => 'Architecture Unlock',
+        'excerpt' => 'The blueprint ghost takes occupancy — lost takes, common time, quiet engines, house lights.',
+        'image' => '/assets/img-optimized/gallery/occupancy-zero/00 - Playlist Cover.webp',
+        'body' => <<<'HTML'
+<p>Kade Null’s solo was the last unresolved architecture. <a href="/music/occupancy-zero">OCCUPANCY ZERO</a> locks it: eight rooms — Occupancy Zero, The Lost Take, Second Language, Common Time, Borrowed Weather, Quiet Engine, Name in Pencil, House Lights.</p>
+<p>The producer is no longer only the ghost in the control room. Walk <a href="/profiles/kade-null">his profile</a>, then the <a href="/merch">Occupancy Zero merch concepts</a> on the same preorder wall as the other Solo Signals.</p>
+<p>Playlist: Kade Null — Occupancy Zero. Gallery and lyrics are public. Profile status: ready. House lights up. Occupancy: one.</p>
 HTML,
     ],
     [
@@ -170,7 +183,7 @@ HTML,
         'excerpt' => 'CD, vinyl, cassette, and apparel concepts for the Era 3 singles EPs — compressed WebP, preorder only.',
         'image' => '/assets/img-optimized/merch/occupancy-zero-vinyl.webp',
         'body' => <<<'HTML'
-<p>The <a href="/merch">archive store</a> expands beyond the serialized worlds. <a href="/music/no-idle-speed">NO IDLE SPEED</a>, <a href="/music/white-voltage">WHITE VOLTAGE</a>, <a href="/music/deluxe-queen">DELUXE QUEEN</a>, <a href="/music/body-clock">BODY CLOCK</a>, and <a href="/music/the-shape-i-left">THE SHAPE I LEFT</a> now carry CD, vinyl, double vinyl, cassette, and apparel concepts in the same photographed language as Monument Zero. Occupancy Zero leads the Solo Signals merch tabs while Kade’s architecture stays unresolved on <a href="/profiles/kade-null">his profile</a>.</p>
+<p>The <a href="/merch">archive store</a> expands beyond the serialized worlds. <a href="/music/no-idle-speed">NO IDLE SPEED</a>, <a href="/music/white-voltage">WHITE VOLTAGE</a>, <a href="/music/deluxe-queen">DELUXE QUEEN</a>, <a href="/music/body-clock">BODY CLOCK</a>, <a href="/music/the-shape-i-left">THE SHAPE I LEFT</a>, and <a href="/music/occupancy-zero">OCCUPANCY ZERO</a> now carry CD, vinyl, double vinyl, cassette, and apparel concepts in the same photographed language as Monument Zero. Kade’s architecture is public on <a href="/profiles/kade-null">his profile</a>.</p>
 <p>Nothing is live inventory. Everything is compressed WebP (400 / 800 / 1200 where the frame allows) so the store stays fast on phones. Forever City’s physical drop sits on the same wall, ready for the October 10 unlock.</p>
 <p>Official labeled MERCH folders from the Era 3 singles archive can replace these concepts the moment they sync. Until then the store stays labeled, linked, and honest about what it is: a promise with lighting. Preorder soon.</p>
 HTML,

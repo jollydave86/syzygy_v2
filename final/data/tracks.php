@@ -359,6 +359,20 @@ $playlists = [
         ],
     ],
 
+    'occupancy-zero' => [
+        'label' => 'OCCUPANCY ZERO',
+        'tracks' => [
+            track('OCCUPANCY ZERO', 'OCCUPANCY ZERO', 'https://suno.com/song/dbc17daa-02cd-4886-960f-64d35858f3fc'),
+            track('THE LOST TAKE', 'OCCUPANCY ZERO', 'https://suno.com/song/cdba99ca-a890-4ba3-a72e-33ab03fea0c9'),
+            track('SECOND LANGUAGE', 'OCCUPANCY ZERO', 'https://suno.com/song/d40c1154-d37b-4d54-bec9-61f37a380598'),
+            track('COMMON TIME', 'OCCUPANCY ZERO', 'https://suno.com/song/3a484ef4-78da-47d3-b754-81c2133a2bdf'),
+            track('BORROWED WEATHER', 'OCCUPANCY ZERO', 'https://suno.com/song/cb87992f-9cc2-4d5f-a9de-19435980890f'),
+            track('QUIET ENGINE', 'OCCUPANCY ZERO', 'https://suno.com/song/1f8a32ee-da1f-4988-8104-f0290e40fa63'),
+            track('NAME IN PENCIL', 'OCCUPANCY ZERO', 'https://suno.com/song/7ed04506-cc7d-423f-bde9-dc3be74659c8'),
+            track('HOUSE LIGHTS', 'OCCUPANCY ZERO', 'https://suno.com/song/09674d33-d0ff-46be-8dad-8910800c2129'),
+        ],
+    ],
+
     'syzygy-void-live' => [
         'label' => 'SYZYGY.VOID LIVE',
         'tracks' => [

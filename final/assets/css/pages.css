@@ -810,7 +810,7 @@ code {
 
 .home-profile-strip {
     display: grid;
-    grid-template-columns: repeat(4, minmax(0, 1fr));
+    grid-template-columns: repeat(5, minmax(0, 1fr));
     gap: 0.8rem;
 }
 
@@ -841,6 +841,10 @@ code {
 }
 
 .home-journal-teaser__more {
+    margin: 1.75rem 0 0;
+}
+
+.about-era-cta {
     margin: 1.75rem 0 0;
 }
 

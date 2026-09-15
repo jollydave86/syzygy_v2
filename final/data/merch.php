@@ -1,7 +1,7 @@
 <?php
 
 $merchReleases = [
-    ['key' => 'occupancy-zero', 'name' => 'OCCUPANCY ZERO', 'music_href' => '', 'profile_href' => '/profiles/kade-null'],
+    ['key' => 'occupancy-zero', 'name' => 'OCCUPANCY ZERO', 'music_href' => '/music/occupancy-zero', 'profile_href' => '/profiles/kade-null'],
     ['key' => 'no-idle-speed', 'name' => 'NO IDLE SPEED', 'music_href' => '/music/no-idle-speed', 'profile_href' => '/profiles/lucien-cross'],
     ['key' => 'white-voltage', 'name' => 'WHITE VOLTAGE', 'music_href' => '/music/white-voltage', 'profile_href' => '/profiles/nova-vale'],
     ['key' => 'deluxe-queen', 'name' => 'DELUXE QUEEN', 'music_href' => '/music/deluxe-queen', 'profile_href' => '/profiles/nova-vale'],
@@ -77,7 +77,7 @@ foreach ($merchReleases as $release) {
 return [
     'eyebrow' => 'PRE ORDER SOON',
     'title' => 'PHYSICAL FORMATS, COLLECTOR EDITIONS, AND APPAREL DROPS',
-    'text' => 'Compressed WebP CD, vinyl, cassette, and apparel concepts from serialized worlds plus Era 3 Solo Signals. Occupancy Zero, No Idle Speed, White Voltage, Deluxe Queen, Body Clock, and The Shape I Left sit on the same preorder wall as Forever City. Not live inventory.',
+    'text' => 'Compressed WebP CD, vinyl, cassette, and apparel concepts from serialized worlds plus Era 3 Solo Signals. Occupancy Zero, No Idle Speed, White Voltage, Deluxe Queen, Body Clock, The Shape I Left, and Forever City sit on the same preorder wall. Not live inventory.',
     'releases' => $releasesWithItems,
     'items' => $items,
 ];
