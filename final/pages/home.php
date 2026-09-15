@@ -100,7 +100,7 @@ $highlights = $site['highlights'] ?? [];
     </div>
 </section>
 
-<section class="section section--dark home-teaser">
+<section class="section section--dark home-teaser" id="home-archive-store">
     <div class="container home-teaser__grid">
         <div class="home-teaser__copy">
             <p class="section__eyebrow">Archive Store</p>

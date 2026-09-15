@@ -3,8 +3,9 @@ declare(strict_types=1);
 
 if (PHP_SAPI === 'cli-server') {
     $cliPath = parse_url((string) ($_SERVER['REQUEST_URI'] ?? '/'), PHP_URL_PATH) ?: '/';
+    $cliPath = rawurldecode($cliPath);
     $cliFile = __DIR__ . $cliPath;
-    if ($cliPath !== '/' && is_file($cliFile)) {
+    if ($cliPath !== '/' && !str_contains($cliPath, '..') && is_file($cliFile)) {
         return false;
     }
 }
