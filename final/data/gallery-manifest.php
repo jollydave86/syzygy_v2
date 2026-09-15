@@ -3,6 +3,32 @@ declare(strict_types=1);
 
 return [
     [
+        'id' => 'forever-city',
+        'label' => 'Forever City',
+        'folder' => 'forever-city',
+        'items' => [
+            ['title' => 'FOREVER CITY (Playlist Cover)', 'file' => '00 - Playlist Cover.webp', 'variant' => 'cover_art', 'random_eligible' => false],
+            ['title' => 'Little Neo City', 'file' => '01-little-neo-city.webp'],
+            ['title' => 'The City Sings', 'file' => '02-the-city-sings.webp'],
+            ['title' => 'Blue Weather', 'file' => '03-blue-weather.webp'],
+            ['title' => 'Last Platform', 'file' => '04-last-platform.webp'],
+            ['title' => 'Passenger Heart', 'file' => '05-passenger-heart.webp'],
+            ['title' => 'No Permission', 'file' => '06-no-permission.webp'],
+            ['title' => 'No Green Lights', 'file' => '07-no-green-lights.webp'],
+            ['title' => 'Signal Blood', 'file' => '08-signal-blood.webp'],
+            ['title' => 'Wrong Exit', 'file' => '09-wrong-exit.webp'],
+            ['title' => 'Brake Light', 'file' => '10-brake-light.webp'],
+            ['title' => 'The Romance Table', 'file' => '11-the-romance-table.webp'],
+            ['title' => 'The Small Hours', 'file' => '12-the-small-hours.webp'],
+            ['title' => 'Empty Windows', 'file' => '13-empty-windows.webp'],
+            ['title' => 'Still Answering', 'file' => '14-still-answering.webp'],
+            ['title' => 'Cold Father', 'file' => '15-cold-father.webp'],
+            ['title' => 'All We Were', 'file' => '16-all-we-were.webp'],
+            ['title' => 'Borrowed Sky', 'file' => '17-borrowed-sky.webp'],
+            ['title' => 'Last Render', 'file' => '18-last-render.webp'],
+        ],
+    ],
+    [
         'id' => 'operation-tomorrowline',
         'label' => 'OPERATION // TOMORROWLINE',
         'folder' => 'operation-tomorrowline',

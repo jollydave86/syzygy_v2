@@ -65,11 +65,11 @@ $highlights = $site['highlights'] ?? [];
         <div class="home-teaser__copy">
             <p class="section__eyebrow">Current Signal</p>
             <h2 class="section__title">Serialized Music Worlds</h2>
-            <p class="section__lede">Move through communications systems, cyber-noir streets, synthetic religion, arcade horror, and the emotional distance between cities.</p>
+            <p class="section__lede">The full catalogue wall — Forever City, switchboard crises, cyber-noir streets, chapel protocols, arcade horror, solo signals, and live transmissions. Every playlist world, not a recent slice.</p>
             <a class="btn btn--primary" href="<?= syzygy_esc(syzygy_url('/music')); ?>">Explore the Catalog</a>
         </div>
         <div class="home-teaser__releases">
-            <?php foreach (array_slice($releases, 0, 3) as $release): ?>
+            <?php foreach ($releases as $release): ?>
                 <a class="home-mini-release" href="<?= syzygy_esc(syzygy_url('/music/' . $release['slug'])); ?>">
                     <img src="<?= syzygy_esc(syzygy_encode_public_path($release['cover'])); ?>" alt="" width="400" height="400" loading="lazy" decoding="async">
                     <span><?= syzygy_esc($release['title']); ?></span>

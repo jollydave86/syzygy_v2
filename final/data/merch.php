@@ -1,6 +1,7 @@
 <?php
 
 $merchReleases = [
+    ['key' => 'forever-city', 'name' => 'Forever City'],
     ['key' => 'the-chapel-protocol-aftermath', 'name' => 'The Chapel Protocol // Aftermath Sequel'],
     ['key' => 'monument-zero', 'name' => 'Monument Zero'],
     ['key' => 'neo-monument', 'name' => 'NEO//MONUMENT : The Crossover'],

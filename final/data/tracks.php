@@ -39,6 +39,29 @@ $featuredPool = [
 ];
 
 $playlists = [
+    'forever-city' => [
+        'label' => 'Forever City',
+        'tracks' => [
+            track('Little Neo City', 'FOREVER CITY', 'https://suno.com/song/407e7b5e-03eb-44d5-aca4-3a0fb92d8771'),
+            track('The City Sings', 'FOREVER CITY', 'https://suno.com/song/5f29c130-6b2d-4c63-9cb1-fb8f2211f63a'),
+            track('Blue Weather', 'FOREVER CITY', 'https://suno.com/song/be2cf368-9382-4804-946c-b6731ee88088'),
+            track('Last Platform', 'FOREVER CITY', 'https://suno.com/song/42e9fee6-1458-4286-a2e3-9be7e8fe96fc'),
+            track('Passenger Heart', 'FOREVER CITY', 'https://suno.com/song/a27b15a0-804a-4aca-a017-5acc0958308c'),
+            track('No Permission', 'FOREVER CITY', 'https://suno.com/song/f71f5e1f-22b5-41f7-b3b1-b469b5ca9be9'),
+            track('No Green Lights', 'FOREVER CITY', 'https://suno.com/song/eb3c3ba6-5e98-4dc2-a6a0-02af97c58e74'),
+            track('Signal Blood', 'FOREVER CITY', 'https://suno.com/song/0694018a-6802-4b18-a6fb-1aaca25fcb1e'),
+            track('Wrong Exit', 'FOREVER CITY', 'https://suno.com/song/4566b2de-8dcb-4221-9dca-13924bc80768'),
+            track('Brake Light', 'FOREVER CITY', 'https://suno.com/song/66c21675-c0eb-42f6-a6cb-1b11e41d5746'),
+            track('The Romance Table', 'FOREVER CITY', 'https://suno.com/song/6596137f-ebfa-47ef-9378-73df8cd92f1d'),
+            track('The Small Hours', 'FOREVER CITY', 'https://suno.com/song/47bd33b9-38f8-4f12-8c35-44e337269efd'),
+            track('Empty Windows', 'FOREVER CITY', 'https://suno.com/song/712b8076-127a-4349-8269-8e0d1cb53056'),
+            track('Still Answering', 'FOREVER CITY', 'https://suno.com/song/cb25af83-539f-4647-ad76-b7ccb3091db4'),
+            track('Cold Father', 'FOREVER CITY', 'https://suno.com/song/67dc74a6-d0bc-4f84-8887-6b3729c747af'),
+            track('All We Were', 'FOREVER CITY', 'https://suno.com/song/6fd6ae70-f358-4c21-bad4-319183366dec'),
+            track('Borrowed Sky', 'FOREVER CITY', 'https://suno.com/song/86605748-b9ab-4fd1-b897-06e4094e0835'),
+            track('Last Render', 'FOREVER CITY', 'https://suno.com/song/caabb711-7700-4d2f-8f33-7b10019fb5cc'),
+        ],
+    ],
     'operation-tomorrowline' => [
         'label' => 'OPERATION // TOMORROWLINE',
         'tracks' => [

@@ -3,7 +3,7 @@
 $site = [
     'name' => 'SYZYGY.VOID',
     'short_name' => 'SYZYGY.VOID',
-    'asset_version' => '20260802n',
+    'asset_version' => '20260915a',
 
     'title' => 'SYZYGY.VOID Official Site | Cinematic Darkwave & Electronic Music',
     'description' => 'Enter SYZYGY.VOID — cinematic darkwave, electronic and dark-futurist music. Explore releases, Solo Signals, lyrics, journals, and the expanding visual archive.',
@@ -106,7 +106,7 @@ $site = [
         [
             'eyebrow' => 'Catalog',
             'title' => 'Music',
-            'text' => 'Public release worlds plus featured singles. Listen on Suno, Spotify, Apple Music, Amazon Music, and YouTube.',
+            'text' => 'Public release worlds plus featured singles. Listen on Suno now — Amazon Music is live; Spotify and Apple Music arrive later.',
             'href' => '/music',
             'cta' => 'Browse Releases',
         ],
