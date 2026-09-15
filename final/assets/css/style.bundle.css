@@ -2949,6 +2949,8 @@ body.is-solo-modal-open .site-header {
     gap: clamp(1rem, 2vw, 1.5rem);
     align-items: stretch;
     grid-auto-rows: 1fr;
+    content-visibility: auto;
+    contain-intrinsic-size: 800px;
 }
 
 .merch-grid > * {
@@ -4278,6 +4280,8 @@ body {
     display: grid;
     grid-template-columns: repeat(3, minmax(0, 1fr));
     gap: 1.5rem;
+    content-visibility: auto;
+    contain-intrinsic-size: 700px;
 }
 
 .profile-grid--compact {
@@ -4858,6 +4862,8 @@ code {
     display: grid;
     grid-template-columns: repeat(4, minmax(0, 1fr));
     gap: 0.7rem;
+    content-visibility: auto;
+    contain-intrinsic-size: 900px;
 }
 
 .home-mini-release,
@@ -4881,7 +4887,7 @@ code {
 
 .home-profile-strip {
     display: grid;
-    grid-template-columns: repeat(4, minmax(0, 1fr));
+    grid-template-columns: repeat(5, minmax(0, 1fr));
     gap: 0.8rem;
 }
 
@@ -5117,6 +5123,10 @@ code {
     .gallery-section .gallery-grid {
         grid-template-columns: repeat(4, minmax(0, 1fr));
     }
+
+    .home-teaser__releases {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
 }
 
 @media (max-width: 991px) {
@@ -5124,6 +5134,14 @@ code {
     .about-worlds,
     .lyrics-layout {
         grid-template-columns: 1fr;
+    }
+
+    .home-teaser__releases {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+
+    .home-profile-strip {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
     }
 
     .home-teaser__grid--reverse .home-teaser__copy {

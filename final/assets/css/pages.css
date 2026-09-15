@@ -207,6 +207,8 @@
     display: grid;
     grid-template-columns: repeat(3, minmax(0, 1fr));
     gap: 1.5rem;
+    content-visibility: auto;
+    contain-intrinsic-size: 700px;
 }
 
 .profile-grid--compact {
@@ -787,6 +789,8 @@ code {
     display: grid;
     grid-template-columns: repeat(4, minmax(0, 1fr));
     gap: 0.7rem;
+    content-visibility: auto;
+    contain-intrinsic-size: 900px;
 }
 
 .home-mini-release,
@@ -810,7 +814,7 @@ code {
 
 .home-profile-strip {
     display: grid;
-    grid-template-columns: repeat(4, minmax(0, 1fr));
+    grid-template-columns: repeat(5, minmax(0, 1fr));
     gap: 0.8rem;
 }
 
@@ -1060,6 +1064,10 @@ code {
     }
 
     .home-teaser__releases {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+
+    .home-profile-strip {
         grid-template-columns: repeat(3, minmax(0, 1fr));
     }
 

@@ -70,8 +70,9 @@ $highlights = $site['highlights'] ?? [];
         </div>
         <div class="home-teaser__releases">
             <?php foreach ($releases as $release): ?>
+                <?php $coverImg = syzygy_responsive_image((string) ($release['cover'] ?? ''), [400, 800]); ?>
                 <a class="home-mini-release" href="<?= syzygy_esc(syzygy_url('/music/' . $release['slug'])); ?>">
-                    <img src="<?= syzygy_esc(syzygy_encode_public_path($release['cover'])); ?>" alt="" width="400" height="400" loading="lazy" decoding="async">
+                    <img src="<?= syzygy_esc($coverImg['src']); ?>" srcset="<?= syzygy_esc($coverImg['srcset']); ?>" sizes="(max-width: 700px) 45vw, 180px" alt="" width="400" height="400" loading="lazy" decoding="async">
                     <span><?= syzygy_esc($release['title']); ?></span>
                 </a>
             <?php endforeach; ?>
@@ -84,11 +85,13 @@ $highlights = $site['highlights'] ?? [];
         <div class="home-teaser__copy">
             <p class="section__eyebrow">Solo Signals</p>
             <h2 class="section__title">Six Voices Outside the Machine</h2>
-            <p class="section__lede">Nova’s voltage, Ash’s damaged minimalism, Lyra’s body-clock percussion, and Lucien’s forward-motion electro rap reveal what changes when the shared system goes quiet.</p>
+            <p class="section__lede">Nova’s voltage, Ash’s damaged minimalism, Lyra’s body-clock percussion, Lucien’s forward-motion electro rap, and Kade’s occupancy architecture reveal what changes when the shared system goes quiet.</p>
             <a class="btn btn--secondary" href="<?= syzygy_esc(syzygy_url('/profiles')); ?>">Meet the Signals</a>
         </div>
         <div class="home-profile-strip">
-            <?php foreach (array_slice($members, 0, 4) as $member): ?>
+            <?php
+            $readyMembers = array_values(array_filter($members, static fn($m) => ($m['status'] ?? '') === 'ready'));
+            foreach (array_slice($readyMembers, 0, 5) as $member): ?>
                 <a href="<?= syzygy_esc(syzygy_url('/profiles/' . $member['slug'])); ?>">
                     <img src="<?= syzygy_esc(syzygy_prefer_public_variant($member['image'], [250, 400])); ?>" alt="<?= syzygy_esc($member['name']); ?>" width="250" height="250" loading="lazy" decoding="async">
                     <span><?= syzygy_esc($member['name']); ?></span>

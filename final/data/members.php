@@ -7,8 +7,8 @@ declare(strict_types=1);
  * Edit platform URLs in each member's `links` array.
  * Empty string => inherit site artist profile when available; otherwise omitted.
  *
- * Ready: Nova, Ash, Lyra, Lucien (canon tracklists).
- * Coming soon: Vanta, Kade (no invented titles/tracklists).
+ * Ready: Nova, Ash, Lyra, Lucien, Kade (canon tracklists).
+ * Coming soon: Vanta (no invented titles/tracklists).
  */
 $members = [
     [
@@ -126,6 +126,7 @@ $members = [
             'THE RELAY SAINT',
             'STILL MOVING',
             'THE GLASS WATER (demo)',
+            'THE TOMORROWLINE (Playlist Cut)',
         ],
         'links' => [
             'suno' => 'https://suno.com/playlist/5bf0841f-9637-47ee-8d95-6d241c20455f',
@@ -159,18 +160,28 @@ $members = [
         'slug' => 'kade-null',
         'name' => 'Kade Null',
         'role' => 'Producer / Architect',
-        'status' => 'coming_soon',
-        'badge' => 'Coming Soon',
-        'release' => null,
-        'teaser' => 'The blueprint ghost behind the signal. Final solo architecture still unresolved.',
-        'bio' => 'Kade is the composer, arranger, and architect everyone trusts — often described as the real SYZYGY. Competing solo directions (NULL ARCHITECTURE / OCCUPANCY ZERO) remain unresolved.',
-        'chapter_bio' => 'No public solo tracklist until the architecture decision is locked. Coming soon.',
+        'status' => 'ready',
+        'badge' => 'Architecture Signal',
+        'release' => 'OCCUPANCY ZERO',
+        'teaser' => 'The blueprint ghost takes occupancy — empty rooms, common time, and house lights after the system goes quiet.',
+        'bio' => 'Kade Null is the composer, arranger, and architect everyone trusts — the real SYZYGY behind the voices. OCCUPANCY ZERO is the locked public solo: modular rooms, borrowed weather, quiet engines, names written in pencil.',
+        'chapter_bio' => 'The competing titles collapse into one transmission. Occupancy Zero is architecture as music — empty space that still holds a pulse.',
         'sound_tags' => ['modular synth', 'ambient score', 'broken beats', 'cinematic ambient'],
         'visual_tags' => ['control room', 'blueprint ghost', 'cold architecture'],
         'image' => '/assets/img-optimized/solo-signals/kade-null.webp',
-        'tracks' => [],
+        'release_slug' => 'occupancy-zero',
+        'tracks' => [
+            'OCCUPANCY ZERO',
+            'THE LOST TAKE',
+            'SECOND LANGUAGE',
+            'COMMON TIME',
+            'BORROWED WEATHER',
+            'QUIET ENGINE',
+            'NAME IN PENCIL',
+            'HOUSE LIGHTS',
+        ],
         'links' => [
-            'suno' => '',
+            'suno' => 'https://suno.com/playlist/913a7f03-7446-4e5a-bb21-56ac22e0bb77',
             'spotify' => '',
             'apple' => '',
             'amazon' => 'https://music.amazon.in/artists/B0FVW8PBJW/syzygy-void',

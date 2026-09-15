@@ -76,6 +76,7 @@ $about = $site['about'] ?? [];
             <p><strong>NO EXIT ARCADE</strong> is arcade horror under a clown game-show machine — competition, CRT pressure, and survival with one life left.</p>
             <p><strong>The Wondering Traveler</strong> moves through international cities as emotional transit: displacement, memory, and being a tourist inside one’s own life.</p>
             <p><strong>OPERATION // TOMORROWLINE</strong> is communications crisis — switchboards, voiceprints, missing operators, and identity turned into records.</p>
+            <p><strong>OCCUPANCY ZERO</strong> is Kade Null’s locked solo architecture — lost takes, common time, quiet engines, and house lights in a room that was always his.</p>
             <a class="btn btn--primary" href="<?= syzygy_esc(syzygy_url('/music')); ?>">Enter the Music Worlds</a>
         </div>
     </div>

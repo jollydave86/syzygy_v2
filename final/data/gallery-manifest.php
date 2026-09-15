@@ -362,6 +362,23 @@ return [
     ],
 
     [
+        'id' => 'occupancy-zero',
+        'label' => 'OCCUPANCY ZERO — Kade Null',
+        'folder' => 'occupancy-zero',
+        'items' => [
+            ['title' => 'OCCUPANCY ZERO (Playlist Cover)', 'file' => '00 - Playlist Cover.webp', 'variant' => 'cover_art', 'random_eligible' => false],
+            ['title' => 'OCCUPANCY ZERO', 'file' => '01-occupancy-zero.webp'],
+            ['title' => 'THE LOST TAKE', 'file' => '02-the-lost-take.webp'],
+            ['title' => 'SECOND LANGUAGE', 'file' => '03-second-language.webp'],
+            ['title' => 'COMMON TIME', 'file' => '04-common-time.webp'],
+            ['title' => 'BORROWED WEATHER', 'file' => '05-borrowed-weather.webp'],
+            ['title' => 'QUIET ENGINE', 'file' => '06-quiet-engine.webp'],
+            ['title' => 'NAME IN PENCIL', 'file' => '07-name-in-pencil.webp'],
+            ['title' => 'HOUSE LIGHTS', 'file' => '08-house-lights.webp'],
+        ],
+    ],
+
+    [
         'id' => 'syzygy-void-live',
         'label' => 'SYZYGY.VOID LIVE',
         'folder' => 'syzygy-void-live',

@@ -60,7 +60,8 @@
                                 <?php foreach ($releaseItems as $item): ?>
                                     <article class="merch-card">
                                         <div class="merch-card__media">
-                                            <img class="merch-card__image" src="<?= syzygy_esc(syzygy_encode_public_path($item['image'] ?? '')); ?>" alt="<?= syzygy_esc($item['alt'] ?? ''); ?>" loading="lazy">
+                                            <?php $merchImg = syzygy_responsive_image((string) ($item['image'] ?? ''), [400, 800, 1200]); ?>
+                                            <img class="merch-card__image" src="<?= syzygy_esc($merchImg['src']); ?>" srcset="<?= syzygy_esc($merchImg['srcset']); ?>" sizes="(max-width: 700px) 50vw, 280px" alt="<?= syzygy_esc($item['alt'] ?? ''); ?>" width="400" height="400" loading="lazy" decoding="async">
                                         </div>
                                         <div class="merch-card__body">
                                             <p class="merch-card__eyebrow"><?= syzygy_esc($item['release_name'] ?? 'SYZYGY.VOID'); ?></p>

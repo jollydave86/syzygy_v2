@@ -253,6 +253,22 @@ $releases = [
         ],
     ],
     [
+        'slug' => 'occupancy-zero',
+        'playlist_key' => 'occupancy-zero',
+        'title' => 'OCCUPANCY ZERO',
+        'eyebrow' => 'Solo Signals / Kade Null',
+        'summary' => 'The architect finally occupies his own room — lost takes, second languages, common time, quiet engines, and house lights after the blueprint goes public.',
+        'cover' => '/assets/img-optimized/gallery/occupancy-zero/00 - Playlist Cover.webp',
+        'status' => 'public',
+        'member_slug' => 'kade-null',
+        'links' => [
+            'suno' => 'https://suno.com/playlist/913a7f03-7446-4e5a-bb21-56ac22e0bb77',
+            'spotify' => '',
+            'apple' => '',
+            'amazon' => 'https://music.amazon.in/artists/B0FVW8PBJW/syzygy-void',
+        ],
+    ],
+    [
         'slug' => 'syzygy-void-live',
         'playlist_key' => 'syzygy-void-live',
         'title' => 'SYZYGY.VOID LIVE',

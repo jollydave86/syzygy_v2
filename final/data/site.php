@@ -3,7 +3,7 @@
 $site = [
     'name' => 'SYZYGY.VOID',
     'short_name' => 'SYZYGY.VOID',
-    'asset_version' => '20260915b',
+    'asset_version' => '20260915c',
 
     'title' => 'SYZYGY.VOID Official Site | Cinematic Darkwave & Electronic Music',
     'description' => 'Enter SYZYGY.VOID — cinematic darkwave, electronic and dark-futurist music. Explore releases, Solo Signals, lyrics, journals, and the expanding visual archive.',
@@ -113,7 +113,7 @@ $site = [
         [
             'eyebrow' => 'Solo Signals',
             'title' => 'Profiles',
-            'text' => 'Six member transmissions. Nova, Ash, Lyra, and Lucien are live. Vanta and Kade remain coming soon.',
+            'text' => 'Six member transmissions. Nova, Ash, Lyra, Lucien, and Kade are live. Vanta remains coming soon.',
             'href' => '/profiles',
             'cta' => 'Open Profiles',
         ],
