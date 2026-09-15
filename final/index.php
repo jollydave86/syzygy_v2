@@ -1,6 +1,14 @@
 <?php
 declare(strict_types=1);
 
+if (PHP_SAPI === 'cli-server') {
+    $cliPath = parse_url((string) ($_SERVER['REQUEST_URI'] ?? '/'), PHP_URL_PATH) ?: '/';
+    $cliFile = __DIR__ . $cliPath;
+    if ($cliPath !== '/' && is_file($cliFile)) {
+        return false;
+    }
+}
+
 require __DIR__ . '/includes/bootstrap.php';
 
 $path = syzygy_current_path();
