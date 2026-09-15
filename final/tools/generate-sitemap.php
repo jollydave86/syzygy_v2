@@ -24,7 +24,7 @@ $urls = [
     ['loc' => '/profiles', 'priority' => '0.9', 'changefreq' => 'weekly'],
     ['loc' => '/lyrics', 'priority' => '0.8', 'changefreq' => 'weekly'],
     ['loc' => '/gallery', 'priority' => '0.7', 'changefreq' => 'weekly'],
-    ['loc' => '/merch', 'priority' => '0.5', 'changefreq' => 'monthly'],
+    ['loc' => '/merch', 'priority' => '0.7', 'changefreq' => 'weekly'],
     ['loc' => '/blog', 'priority' => '0.7', 'changefreq' => 'weekly'],
     ['loc' => '/contact', 'priority' => '0.6', 'changefreq' => 'yearly'],
     ['loc' => '/booking', 'priority' => '0.3', 'changefreq' => 'yearly'],

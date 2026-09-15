@@ -9,8 +9,14 @@
 
 <section class="section">
     <div class="container blog-grid">
-        <?php foreach ($blogPosts as $post): ?>
+        <?php foreach (syzygy_blog_posts_newest_first() as $post): ?>
             <article class="blog-card">
+                <?php if (!empty($post['image'])): ?>
+                    <?php $postImg = syzygy_responsive_image((string) $post['image'], [400, 800]); ?>
+                    <a class="blog-card__media" href="<?= syzygy_esc(syzygy_url('/blog/' . $post['slug'])); ?>">
+                        <img src="<?= syzygy_esc($postImg['src']); ?>" srcset="<?= syzygy_esc($postImg['srcset']); ?>" sizes="(max-width: 700px) 92vw, 360px" alt="" width="800" height="450" loading="lazy" decoding="async">
+                    </a>
+                <?php endif; ?>
                 <p class="blog-card__eyebrow"><?= syzygy_esc($post['eyebrow'] ?? ''); ?> · <?= syzygy_esc($post['date'] ?? ''); ?></p>
                 <h2 class="blog-card__title">
                     <a href="<?= syzygy_esc(syzygy_url('/blog/' . $post['slug'])); ?>"><?= syzygy_esc($post['title']); ?></a>

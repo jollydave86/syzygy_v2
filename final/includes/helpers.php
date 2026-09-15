@@ -158,6 +158,25 @@ if (!function_exists('syzygy_find_blog_post')) {
     }
 }
 
+if (!function_exists('syzygy_blog_posts_newest_first')) {
+    /**
+     * @return list<array<string, mixed>>
+     */
+    function syzygy_blog_posts_newest_first(): array
+    {
+        global $blogPosts;
+        $posts = is_array($blogPosts) ? $blogPosts : [];
+        usort(
+            $posts,
+            static function (array $a, array $b): int {
+                return strcmp((string) ($b['date'] ?? ''), (string) ($a['date'] ?? ''));
+            }
+        );
+
+        return $posts;
+    }
+}
+
 if (!function_exists('syzygy_find_lyric')) {
     function syzygy_find_lyric(string $slug): ?array
     {

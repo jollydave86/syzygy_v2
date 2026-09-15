@@ -3,7 +3,7 @@
 $site = [
     'name' => 'SYZYGY.VOID',
     'short_name' => 'SYZYGY.VOID',
-    'asset_version' => '20260916a',
+    'asset_version' => '20260916b',
 
     'title' => 'SYZYGY.VOID Official Site | Cinematic Darkwave & Electronic Music',
     'description' => 'Enter SYZYGY.VOID — cinematic darkwave, electronic and dark-futurist music. Explore releases, Solo Signals, lyrics, journals, and the expanding visual archive.',

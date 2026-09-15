@@ -32,8 +32,8 @@
   </url>
   <url>
     <loc>https://syzygyvoid.ca/merch</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://syzygyvoid.ca/blog</loc>
@@ -196,8 +196,56 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://syzygyvoid.ca/blog/no-idle-speed-lucien-cross</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/blog/white-voltage-nova-vale</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/blog/deluxe-queen-second-signal</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/blog/body-clock-lyra-static</loc>
+    <lastmod>2026-08-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/blog/the-shape-ash-left</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://syzygyvoid.ca/blog/singles-night-v5-5</loc>
     <lastmod>2026-09-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/blog/era-3-press-week</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/blog/solo-signals-physical-concepts</loc>
+    <lastmod>2026-10-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/blog/forever-cities-october-10</loc>
+    <lastmod>2026-10-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>

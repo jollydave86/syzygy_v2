@@ -814,6 +814,51 @@ code {
     gap: 0.8rem;
 }
 
+.home-merch-strip {
+    display: grid;
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+    gap: 0.8rem;
+}
+
+.home-merch-strip a {
+    display: grid;
+    gap: 0.55rem;
+    color: var(--color-text-soft);
+    font-family: var(--font-ui);
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+}
+
+.home-merch-strip img {
+    width: 100%;
+    aspect-ratio: 3 / 2;
+    object-fit: contain;
+    object-position: center;
+    border: 1px solid rgba(237, 190, 114, 0.14);
+    background: #0b1117;
+}
+
+.home-journal-teaser__more {
+    margin: 1.75rem 0 0;
+}
+
+.blog-card__media {
+    display: block;
+    overflow: hidden;
+    aspect-ratio: 16 / 9;
+    border: 1px solid rgba(237, 190, 114, 0.12);
+    background: var(--color-panel);
+}
+
+.blog-card__media img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
 .home-profile-strip img {
     width: 100%;
     aspect-ratio: 1;
@@ -1063,6 +1108,11 @@ code {
         grid-template-columns: repeat(3, minmax(0, 1fr));
     }
 
+    .home-profile-strip,
+    .home-merch-strip {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+
     .home-teaser__grid--reverse .home-teaser__copy {
         order: 0;
     }
@@ -1089,7 +1139,8 @@ code {
         grid-template-columns: repeat(2, minmax(0, 1fr));
     }
 
-    .home-profile-strip {
+    .home-profile-strip,
+    .home-merch-strip {
         grid-template-columns: repeat(2, minmax(0, 1fr));
     }
 

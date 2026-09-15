@@ -176,8 +176,8 @@ switch ($route) {
     case 'merch':
         syzygy_render('merch', [
             'pageTitle' => 'Merch | SYZYGY.VOID Preorder Placeholders',
-            'pageDescription' => 'SYZYGY.VOID merch concepts and release-linked visuals — preorder placeholders for the cinematic darkwave project.',
-            'pageKeywords' => array_merge($site['keywords'] ?? [], ['merch', 'band merch', 'preorder']),
+            'pageDescription' => 'SYZYGY.VOID merch concepts — Solo Signals and world-album CD, vinyl, cassette, and apparel placeholders. Compressed WebP. Preorder only.',
+            'pageKeywords' => array_merge($site['keywords'] ?? [], ['merch', 'band merch', 'preorder', 'vinyl', 'cassette', 'solo signals merch']),
             'schemaPage' => 'merch',
         ]);
         break;

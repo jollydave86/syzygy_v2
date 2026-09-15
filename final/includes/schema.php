@@ -367,7 +367,7 @@ if (!function_exists('syzygy_build_schema_graph')) {
      */
     function syzygy_build_schema_graph(string $page, array $ctx = []): array
     {
-        global $site, $releases, $members, $playlists, $featuredPool, $blogPosts, $lyrics, $gallery;
+        global $site, $releases, $members, $playlists, $featuredPool, $blogPosts, $lyrics, $gallery, $merch;
 
         $pageTitle = (string) ($ctx['pageTitle'] ?? ($site['title'] ?? 'SYZYGY.VOID'));
         $pageDescription = (string) ($ctx['pageDescription'] ?? ($site['description'] ?? ''));
@@ -635,8 +635,32 @@ if (!function_exists('syzygy_build_schema_graph')) {
                     ['name' => 'Home', 'path' => '/'],
                     ['name' => 'Merch', 'path' => '/merch'],
                 ]);
+                $merchList = [];
+                $pos = 0;
+                foreach (($merch['releases'] ?? []) as $release) {
+                    $pos++;
+                    $merchList[] = [
+                        '@type' => 'ListItem',
+                        'position' => $pos,
+                        'name' => $release['name'] ?? '',
+                        'url' => syzygy_abs_url('/merch'),
+                    ];
+                }
+                $graph[] = [
+                    '@type' => 'CollectionPage',
+                    '@id' => syzygy_schema_id('merch'),
+                    'name' => 'SYZYGY.VOID Archive Store',
+                    'url' => syzygy_abs_url('/merch'),
+                    'description' => $pageDescription,
+                    'mainEntity' => [
+                        '@type' => 'ItemList',
+                        'numberOfItems' => count($merchList),
+                        'itemListElement' => $merchList,
+                    ],
+                ];
                 $graph[] = syzygy_schema_webpage('webpage-merch', $pageTitle, $pageDescription, '/merch', [
                     '@type' => ['WebPage', 'CollectionPage'],
+                    'mainEntity' => ['@id' => syzygy_schema_id('merch')],
                 ]);
                 break;
 
@@ -647,7 +671,7 @@ if (!function_exists('syzygy_build_schema_graph')) {
                 ]);
                 $posts = [];
                 $pos = 0;
-                foreach ($blogPosts as $post) {
+                foreach (syzygy_blog_posts_newest_first() as $post) {
                     $pos++;
                     $posts[] = [
                         '@type' => 'ListItem',
@@ -672,7 +696,7 @@ if (!function_exists('syzygy_build_schema_graph')) {
                             'datePublished' => $p['date'] ?? null,
                             'description' => $p['excerpt'] ?? '',
                         ],
-                        $blogPosts
+                        syzygy_blog_posts_newest_first()
                     ),
                 ];
                 $graph[] = syzygy_schema_webpage('webpage-blog', $pageTitle, $pageDescription, '/blog', [

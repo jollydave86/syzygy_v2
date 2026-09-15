@@ -93,6 +93,40 @@ if (!function_exists('syzygy_prefer_public_variant')) {
     }
 }
 
+if (!function_exists('syzygy_responsive_image')) {
+    /**
+     * @param list<int> $widths
+     * @return array{src:string,srcset:string}
+     */
+    function syzygy_responsive_image(string $basePublicPath, array $widths = [400, 800, 1200]): array
+    {
+        $src = syzygy_prefer_public_variant($basePublicPath, $widths);
+        $parts = [];
+        $info = pathinfo(trim($basePublicPath));
+        $dirname = (string) ($info['dirname'] ?? '');
+        $filename = (string) ($info['filename'] ?? '');
+        $extension = (string) ($info['extension'] ?? '');
+        foreach ($widths as $width) {
+            $width = (int) $width;
+            if ($width <= 0 || $dirname === '' || $filename === '' || $extension === '') {
+                continue;
+            }
+            $candidate = $dirname . '/' . $filename . '-' . $width . '.' . $extension;
+            if (syzygy_public_path_exists($candidate)) {
+                $parts[] = syzygy_encode_public_path($candidate) . ' ' . $width . 'w';
+            }
+        }
+        if ($parts === []) {
+            $parts[] = $src . ' 800w';
+        }
+
+        return [
+            'src' => $src,
+            'srcset' => implode(', ', array_unique($parts)),
+        ];
+    }
+}
+
 if (!function_exists('syzygy_image_public_path')) {
     function syzygy_image_public_path(string $originalPath, ?int $preferredWidth = null): string
     {
