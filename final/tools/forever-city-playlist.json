@@ -1,0 +1,133 @@
+{
+  "playlist_id": "f94c300b-683a-41b0-bba0-7485f7d71018",
+  "name": "Forever City",
+  "image_url": "https://cdn2.suno.ai/c4816d7f.jpeg",
+  "clips": [
+    {
+      "n": 1,
+      "title": "Little Neo City",
+      "id": "407e7b5e-03eb-44d5-aca4-3a0fb92d8771",
+      "image_url": "https://cdn2.suno.ai/dfb371bf-95ff-4c81-81a4-9827b94ec733.jpeg",
+      "is_public": true
+    },
+    {
+      "n": 2,
+      "title": "The City Sings",
+      "id": "5f29c130-6b2d-4c63-9cb1-fb8f2211f63a",
+      "image_url": "https://cdn2.suno.ai/0e61dd7f-3b94-42fb-8668-967cc64ee3db.jpeg",
+      "is_public": true
+    },
+    {
+      "n": 3,
+      "title": "Blue Weather",
+      "id": "be2cf368-9382-4804-946c-b6731ee88088",
+      "image_url": "https://cdn2.suno.ai/03011ff7-b5ef-4079-9e7e-862ea4240aab.jpeg",
+      "is_public": true
+    },
+    {
+      "n": 4,
+      "title": "Last Platform",
+      "id": "42e9fee6-1458-4286-a2e3-9be7e8fe96fc",
+      "image_url": "https://cdn2.suno.ai/501451b1-869f-4a20-a2ba-e891ef7ba884.jpeg",
+      "is_public": true
+    },
+    {
+      "n": 5,
+      "title": "Passenger Heart",
+      "id": "a27b15a0-804a-4aca-a017-5acc0958308c",
+      "image_url": "https://cdn2.suno.ai/0860b540-da8d-4f66-b977-f5f9cd68d7f6.jpeg",
+      "is_public": true
+    },
+    {
+      "n": 6,
+      "title": "No Permission",
+      "id": "f71f5e1f-22b5-41f7-b3b1-b469b5ca9be9",
+      "image_url": "https://cdn2.suno.ai/82beb058-790f-4c11-a79e-e05688631fe6.jpeg",
+      "is_public": true
+    },
+    {
+      "n": 7,
+      "title": "No Green Lights",
+      "id": "eb3c3ba6-5e98-4dc2-a6a0-02af97c58e74",
+      "image_url": "https://cdn2.suno.ai/video_gen_487987ed-d01f-4937-be47-7f4fb1560fab_video_upload_487987ed-d01f-4937-be47-7f4fb1560fab_cover_snapshot_0s_1780436267_image.jpeg",
+      "is_public": true
+    },
+    {
+      "n": 8,
+      "title": "Signal Blood",
+      "id": "0694018a-6802-4b18-a6fb-1aaca25fcb1e",
+      "image_url": "https://cdn2.suno.ai/bdfd550a-f5e5-4c30-9493-402eb48813d5.jpeg",
+      "is_public": true
+    },
+    {
+      "n": 9,
+      "title": "Wrong Exit",
+      "id": "4566b2de-8dcb-4221-9dca-13924bc80768",
+      "image_url": "https://cdn2.suno.ai/video_gen_image_fd4997b3-c154-4292-8f67-ce032a37d084_456dc922-9c83-44f9-b9d1-2c13fd01e4c4.jpeg",
+      "is_public": true
+    },
+    {
+      "n": 10,
+      "title": "Brake Light",
+      "id": "66c21675-c0eb-42f6-a6cb-1b11e41d5746",
+      "image_url": "https://cdn2.suno.ai/image_large_66c21675-c0eb-42f6-a6cb-1b11e41d5746.jpeg",
+      "is_public": true
+    },
+    {
+      "n": 11,
+      "title": "The Romance Table",
+      "id": "6596137f-ebfa-47ef-9378-73df8cd92f1d",
+      "image_url": "https://cdn2.suno.ai/961b5823-c07d-4a05-943a-935b0047f5a4.jpeg",
+      "is_public": true
+    },
+    {
+      "n": 12,
+      "title": "The Small Hours",
+      "id": "47bd33b9-38f8-4f12-8c35-44e337269efd",
+      "image_url": "https://cdn2.suno.ai/47bd33b9-38f8-4f12-8c35-44e337269efd_28cf0b11.jpeg",
+      "is_public": true
+    },
+    {
+      "n": 13,
+      "title": "Empty Windows",
+      "id": "712b8076-127a-4349-8269-8e0d1cb53056",
+      "image_url": "https://cdn2.suno.ai/0afb1f5b-4cae-476c-984e-7b53f9ad5c36.jpeg",
+      "is_public": true
+    },
+    {
+      "n": 14,
+      "title": "Still Answering",
+      "id": "cb25af83-539f-4647-ad76-b7ccb3091db4",
+      "image_url": "https://cdn2.suno.ai/cb25af83-539f-4647-ad76-b7ccb3091db4_449c9e6c.jpeg",
+      "is_public": true
+    },
+    {
+      "n": 15,
+      "title": "Cold Father",
+      "id": "67dc74a6-d0bc-4f84-8887-6b3729c747af",
+      "image_url": "https://cdn2.suno.ai/06fdc770-b19b-4263-bd88-ed829f3b001e.jpeg",
+      "is_public": true
+    },
+    {
+      "n": 16,
+      "title": "All We Were",
+      "id": "6fd6ae70-f358-4c21-bad4-319183366dec",
+      "image_url": "https://cdn2.suno.ai/94d22dbd-8949-46b6-9604-a83800bbdba6.jpeg",
+      "is_public": false
+    },
+    {
+      "n": 17,
+      "title": "Borrowed Sky",
+      "id": "86605748-b9ab-4fd1-b897-06e4094e0835",
+      "image_url": "https://cdn2.suno.ai/a46a29dc-1143-4405-801d-4d29ae9699fe.jpeg",
+      "is_public": true
+    },
+    {
+      "n": 18,
+      "title": "Last Render",
+      "id": "caabb711-7700-4d2f-8f33-7b10019fb5cc",
+      "image_url": "https://cdn2.suno.ai/cbb19c65-fd15-4615-8354-518c2c6646e6.jpeg",
+      "is_public": true
+    }
+  ]
+}

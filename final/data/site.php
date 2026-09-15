@@ -106,7 +106,7 @@ $site = [
         [
             'eyebrow' => 'Catalog',
             'title' => 'Music',
-            'text' => 'Public release worlds plus featured singles. Listen on Suno, Spotify, Apple Music, Amazon Music, and YouTube.',
+            'text' => 'Public release worlds plus featured singles. Listen on Suno now — Amazon Music is live; Spotify and Apple Music arrive later.',
             'href' => '/music',
             'cta' => 'Browse Releases',
         ],
