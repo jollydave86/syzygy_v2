@@ -71,4 +71,17 @@ HTML,
 <p>What you hear on the Music page is the locked public signal. Everything else stays in the machine until it earns a transmission.</p>
 HTML,
     ],
+    [
+        'slug' => 'singles-night-v5-5',
+        'title' => 'Singles Night V5.5 Hits the Catalogue Wall',
+        'date' => '2026-09-16',
+        'eyebrow' => 'Press Signal',
+        'excerpt' => 'Twenty-seven standalone transmissions beside Featured Signals — remasters, remixes, and one-off fire. Songs only. No merch drop.',
+        'image' => '/assets/img-optimized/gallery/singles-night-v5-5/00 - Playlist Cover.webp',
+        'body' => <<<'HTML'
+<p>Singles Night V5.5 is the overflow drawer made public: Neon Thick Skin remastered, Dental Doom, Paranormal Cat, TikTok Lawyer Karen, The New Romantics, and the long corridor of remixes that would not fit a world album.</p>
+<p>Twenty-seven tracks sit beside Featured Signals on the music catalogue. Full Suno playlist and per-clip links, gallery art, and lyrics. No merch — the night is songs, compressed, catalogued, ready.</p>
+<p>If a transmission refused to live inside a city, it lives here.</p>
+HTML,
+    ],
 ];

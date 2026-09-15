@@ -75,7 +75,7 @@ foreach ([$srcDir, $optDir] as $dir) {
 $ctx = stream_context_create([
     'http' => [
         'timeout' => 45,
-        'header' => "User-Agent: SYZYGY.VOID-Gallery-Ingest/1.0\r\nAccept: image/*\r\n",
+        'header' => "User-Agent: Mozilla/5.0 (compatible; SYZYGY.VOID-Gallery-Ingest/1.0)\r\nAccept: image/*\r\nReferer: https://suno.com/\r\n",
     ],
 ]);
 

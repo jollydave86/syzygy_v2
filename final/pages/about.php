@@ -66,6 +66,8 @@ $about = $site['about'] ?? [];
             <h2 class="section__title">Cities, Chapels & Systems</h2>
         </div>
         <div class="about-worlds__copy">
+            <p><strong>Singles Night V5.5</strong> sits beside Featured Signals — remasters, remixes, and one-off transmissions from Neon Thick Skin to THE TOMORROWLINE, a full singles wall in the catalogue.</p>
+            <p><strong>Forever City</strong> is the City of Echoes — Little Neo City grows too advanced and starts singing: romance tables, brake lights, borrowed sky, and the last render of a world that learned to echo itself.</p>
             <p><strong>Monument Zero</strong> is cold architecture, synthetic prayer, glass structures, betrayal, ascension, and collapse.</p>
             <p><strong>Neo-Noir City</strong> brings the system down to street level: couriers, electric rain, debts, syndicates, and monsters under blue light.</p>
             <p><strong>NEO//MONUMENT</strong> collides those two worlds — monumental systems and street-level noir forced into one transmission.</p>
