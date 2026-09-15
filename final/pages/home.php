@@ -125,7 +125,7 @@ $highlights = $site['highlights'] ?? [];
             ?>
                 <a href="<?= syzygy_esc(syzygy_url('/merch')); ?>">
                     <img src="<?= syzygy_esc($merchImg['src']); ?>" srcset="<?= syzygy_esc($merchImg['srcset']); ?>" sizes="(max-width: 700px) 40vw, 160px" alt="<?= syzygy_esc($item['alt'] ?? ''); ?>" width="400" height="267" loading="lazy" decoding="async">
-                    <span><?= syzygy_esc(($item['release_name'] ?? '') . ' · ' . ($item['format_title'] ?? '')); ?></span>
+                    <span><?= syzygy_esc($item['release_name'] ?? ''); ?></span>
                 </a>
             <?php endforeach; ?>
         </div>

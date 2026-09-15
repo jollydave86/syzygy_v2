@@ -845,7 +845,8 @@ code {
 .home-merch-strip img {
     width: 100%;
     aspect-ratio: 3 / 2;
-    object-fit: cover;
+    object-fit: contain;
+    object-position: center;
     border: 1px solid rgba(237, 190, 114, 0.14);
     background: #0b1117;
 }
