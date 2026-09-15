@@ -23,6 +23,36 @@ $releases = [
         ],
     ],
     [
+        'slug' => 'singles-night-v5-5',
+        'playlist_key' => 'singles-night-v5-5',
+        'title' => 'Singles Night V5.5',
+        'eyebrow' => 'Standalone Signals',
+        'summary' => 'A full singles night playlist — remasters, remixes, and one-off transmissions sitting alongside Featured Signals in the music catalogue. Suno-first; Spotify later.',
+        'cover' => '/assets/img-optimized/gallery/singles-night-v5-5/00 - Playlist Cover.webp',
+        'status' => 'public',
+        'links' => [
+            'suno' => 'https://suno.com/playlist/81c8c831-a511-40bd-834a-e82d44aad1e7',
+            'spotify' => '',
+            'apple' => '',
+            'amazon' => 'https://music.amazon.in/artists/B0FVW8PBJW/syzygy-void',
+        ],
+    ],
+    [
+        'slug' => 'forever-city',
+        'playlist_key' => 'forever-city',
+        'title' => 'Forever City',
+        'eyebrow' => 'City of Echoes',
+        'summary' => 'Little Neo City grows too advanced and starts singing — romance tables, brake lights, borrowed sky, and the last render of a world that learned to echo itself.',
+        'cover' => '/assets/img-optimized/gallery/forever-city/00 - Playlist Cover.webp',
+        'status' => 'public',
+        'links' => [
+            'suno' => 'https://suno.com/playlist/f94c300b-683a-41b0-bba0-7485f7d71018',
+            'spotify' => '',
+            'apple' => '',
+            'amazon' => 'https://music.amazon.in/artists/B0FVW8PBJW/syzygy-void',
+        ],
+    ],
+    [
         'slug' => 'operation-tomorrowline',
         'playlist_key' => 'operation-tomorrowline',
         'title' => 'OPERATION // TOMORROWLINE',
@@ -223,6 +253,22 @@ $releases = [
         ],
     ],
     [
+        'slug' => 'occupancy-zero',
+        'playlist_key' => 'occupancy-zero',
+        'title' => 'OCCUPANCY ZERO',
+        'eyebrow' => 'Solo Signals / Kade Null',
+        'summary' => 'The architect finally occupies his own room — lost takes, second languages, common time, quiet engines, and house lights after the blueprint goes public.',
+        'cover' => '/assets/img-optimized/gallery/occupancy-zero/00 - Playlist Cover.webp',
+        'status' => 'public',
+        'member_slug' => 'kade-null',
+        'links' => [
+            'suno' => 'https://suno.com/playlist/913a7f03-7446-4e5a-bb21-56ac22e0bb77',
+            'spotify' => '',
+            'apple' => '',
+            'amazon' => 'https://music.amazon.in/artists/B0FVW8PBJW/syzygy-void',
+        ],
+    ],
+    [
         'slug' => 'syzygy-void-live',
         'playlist_key' => 'syzygy-void-live',
         'title' => 'SYZYGY.VOID LIVE',
@@ -238,8 +284,6 @@ $releases = [
         ],
     ],
 ];
-$foreverLandTeaser = [
-    'title' => 'Forever Land: City of Echoes',
-    'status' => 'coming_soon',
-    'summary' => 'Later Phase 3 world — Little Neo City becomes too advanced and starts singing. Public catalog unlock pending.',
-];
+// Forever City is a public catalogue release (see $releases['forever-city']).
+// Legacy Forever Land teaser retired — do not reintroduce a coming_soon duplicate.
+$foreverLandTeaser = null;

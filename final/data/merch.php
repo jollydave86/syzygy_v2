@@ -1,6 +1,13 @@
 <?php
 
 $merchReleases = [
+    ['key' => 'occupancy-zero', 'name' => 'OCCUPANCY ZERO'],
+    ['key' => 'no-idle-speed', 'name' => 'NO IDLE SPEED'],
+    ['key' => 'white-voltage', 'name' => 'WHITE VOLTAGE'],
+    ['key' => 'deluxe-queen', 'name' => 'DELUXE QUEEN'],
+    ['key' => 'body-clock', 'name' => 'BODY CLOCK'],
+    ['key' => 'the-shape-i-left', 'name' => 'THE SHAPE I LEFT'],
+    ['key' => 'forever-city', 'name' => 'Forever City'],
     ['key' => 'the-chapel-protocol-aftermath', 'name' => 'The Chapel Protocol // Aftermath Sequel'],
     ['key' => 'monument-zero', 'name' => 'Monument Zero'],
     ['key' => 'neo-monument', 'name' => 'NEO//MONUMENT : The Crossover'],
@@ -62,7 +69,7 @@ foreach ($merchReleases as $release) {
 return [
     'eyebrow' => 'PRE ORDER SOON',
     'title' => 'PHYSICAL FORMATS, COLLECTOR EDITIONS, AND APPAREL DROPS',
-    'text' => 'Browse physical release and apparel concepts from the SYZYGY.VOID catalog. Items are preorder placeholders — not active inventory.',
+    'text' => 'Photoreal CD, vinyl, cassette, and apparel concepts from serialized worlds plus Era 3 Solo Signals. Occupancy Zero, No Idle Speed, White Voltage, Deluxe Queen, Body Clock, and The Shape I Left now sit on the same preorder wall. Compressed WebP. Not live inventory.',
     'releases' => $merchReleases,
     'items' => $items,
 ];

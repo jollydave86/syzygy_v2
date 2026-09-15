@@ -66,6 +66,8 @@ $about = $site['about'] ?? [];
             <h2 class="section__title">Cities, Chapels & Systems</h2>
         </div>
         <div class="about-worlds__copy">
+            <p><strong>Singles Night V5.5</strong> sits beside Featured Signals — remasters, remixes, and one-off transmissions from Neon Thick Skin to THE TOMORROWLINE, a full singles wall in the catalogue.</p>
+            <p><strong>Forever City</strong> is the City of Echoes — Little Neo City grows too advanced and starts singing: romance tables, brake lights, borrowed sky, and the last render of a world that learned to echo itself.</p>
             <p><strong>Monument Zero</strong> is cold architecture, synthetic prayer, glass structures, betrayal, ascension, and collapse.</p>
             <p><strong>Neo-Noir City</strong> brings the system down to street level: couriers, electric rain, debts, syndicates, and monsters under blue light.</p>
             <p><strong>NEO//MONUMENT</strong> collides those two worlds — monumental systems and street-level noir forced into one transmission.</p>
@@ -74,7 +76,55 @@ $about = $site['about'] ?? [];
             <p><strong>NO EXIT ARCADE</strong> is arcade horror under a clown game-show machine — competition, CRT pressure, and survival with one life left.</p>
             <p><strong>The Wondering Traveler</strong> moves through international cities as emotional transit: displacement, memory, and being a tourist inside one’s own life.</p>
             <p><strong>OPERATION // TOMORROWLINE</strong> is communications crisis — switchboards, voiceprints, missing operators, and identity turned into records.</p>
+            <p><strong>NO IDLE SPEED</strong> is Lucien Cross in motion — electro-rap, 808 pressure, chapel backs, prize machines, and the Tomorrowline as a personal highway.</p>
+            <p><strong>WHITE VOLTAGE</strong> and <strong>DELUXE QUEEN</strong> are Nova Vale’s dual signal: industrial command, then the colder coronation in the same white fire.</p>
+            <p><strong>BODY CLOCK</strong> is Lyra Static in French — percussion, injury, muscle memory, the body that kept time for everyone else.</p>
+            <p><strong>THE SHAPE I LEFT</strong> is Ash Vex’s negative space: one room, one amplifier, the outline in the wall after Arcade.</p>
+            <p><strong>OCCUPANCY ZERO</strong> is Kade Null’s locked solo architecture — lost takes, common time, quiet engines, and house lights in a room that was always his.</p>
             <a class="btn btn--primary" href="<?= syzygy_esc(syzygy_url('/music')); ?>">Enter the Music Worlds</a>
         </div>
+    </div>
+</section>
+
+<section class="section section--dark">
+    <div class="container">
+        <div class="section-heading">
+            <p class="section__eyebrow">Era 3 / Solo Signals</p>
+            <h2 class="section__title">Five Rooms Off the Shared Machine</h2>
+            <p class="section__lede">The universe does not only serialize cities. It splits. Each ready voice occupies a private frequency — Suno-first, merch-concepted, journaled through October 20.</p>
+        </div>
+        <div class="about-canon-grid">
+            <article>
+                <p class="section__eyebrow">Lucien Cross</p>
+                <h3>NO IDLE SPEED</h3>
+                <p>Ten cuts of electro-rap motion. The Tomorrowline stops being an album world and becomes his tempo. Get on or get left.</p>
+            </article>
+            <article>
+                <p class="section__eyebrow">Nova Vale</p>
+                <h3>WHITE VOLTAGE / DELUXE QUEEN</h3>
+                <p>Eighteen clips, two crowns. Detonation then coronation — glass sirens, throat of light, the last vote.</p>
+            </article>
+            <article>
+                <p class="section__eyebrow">Lyra Static</p>
+                <h3>BODY CLOCK</h3>
+                <p>Six French transmissions. Dry snares, bandaged fingers, the salle that still rings after the sequencer goes quiet.</p>
+            </article>
+            <article>
+                <p class="section__eyebrow">Ash Vex</p>
+                <h3>THE SHAPE I LEFT</h3>
+                <p>Six dirty rooms. He left during Arcade. The EP is the wound catalogued, not a reunion.</p>
+            </article>
+            <article>
+                <p class="section__eyebrow">Kade Null</p>
+                <h3>OCCUPANCY ZERO</h3>
+                <p>Eight modular rooms. The architect finally signs the blueprint in public. House lights up. Occupancy: one.</p>
+            </article>
+            <article>
+                <p class="section__eyebrow">Vanta Rey</p>
+                <h3>Still Coming Soon</h3>
+                <p>Intentionally incomplete. The fragment stays locked until the story says otherwise. Incompleteness is canon.</p>
+            </article>
+        </div>
+        <p class="about-era-cta"><a class="btn btn--secondary" href="<?= syzygy_esc(syzygy_url('/profiles')); ?>">Open Solo Signals</a></p>
     </div>
 </section>

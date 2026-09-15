@@ -16,6 +16,7 @@ if (PHP_SAPI !== 'cli') {
 
 $cssRoot = dirname(__DIR__) . DIRECTORY_SEPARATOR . 'assets' . DIRECTORY_SEPARATOR . 'css';
 $manifest = [
+    'base/fonts.css',
     'base/tokens.css',
     'base/reset.css',
     'base/typography.css',

@@ -38,6 +38,8 @@
     gap: clamp(1rem, 2vw, 1.5rem);
     align-items: stretch;
     grid-auto-rows: 1fr;
+    content-visibility: auto;
+    contain-intrinsic-size: 800px;
 }
 
 .merch-grid > * {

@@ -56,6 +56,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://syzygyvoid.ca/music/singles-night-v5-5</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/music/forever-city</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://syzygyvoid.ca/music/operation-tomorrowline</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -121,6 +131,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://syzygyvoid.ca/music/occupancy-zero</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://syzygyvoid.ca/music/syzygy-void-live</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -156,20 +171,86 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://syzygyvoid.ca/blog/from-syzygy-to-syzygy-void</loc>
-    <lastmod>2026-03-01</lastmod>
+    <loc>https://syzygyvoid.ca/blog/autumn-transmission-oct-20</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://syzygyvoid.ca/blog/ash-leaves-the-arcade</loc>
-    <lastmod>2026-03-12</lastmod>
+    <loc>https://syzygyvoid.ca/blog/house-lights-week</loc>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://syzygyvoid.ca/blog/chapel-and-aftermath</loc>
-    <lastmod>2026-04-02</lastmod>
+    <loc>https://syzygyvoid.ca/blog/solo-signals-physical-concepts</loc>
+    <lastmod>2026-10-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/blog/occupancy-zero-kade-null</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/blog/era-3-press-week</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/blog/singles-night-v5-5</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/blog/forever-city-opens</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/blog/the-shape-ash-left</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/blog/body-clock-lyra-static</loc>
+    <lastmod>2026-08-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/blog/deluxe-queen-second-signal</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/blog/white-voltage-nova-vale</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/blog/no-idle-speed-lucien-cross</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/blog/live-era-set-transmission</loc>
+    <lastmod>2026-06-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/blog/four-thousand-tracks</loc>
+    <lastmod>2026-06-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -180,10 +261,247 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://syzygyvoid.ca/blog/four-thousand-tracks</loc>
-    <lastmod>2026-06-09</lastmod>
+    <loc>https://syzygyvoid.ca/blog/chapel-and-aftermath</loc>
+    <lastmod>2026-04-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/blog/ash-leaves-the-arcade</loc>
+    <lastmod>2026-03-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/blog/from-syzygy-to-syzygy-void</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/neon-thick-skin-remastered</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/dental-doom</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/paranormal-cat</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/1-star</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/tiktok-lawyer-karen</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/the-new-romantics</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/sept-iles-mon-ciel-remastered</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/end-of-the-gospelvas</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/the-hit-that-ruined-you</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/when-i-first-heard-it</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/the-lust-love-extended-remastered</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/bigfoot-dreams-90-s-remastered</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/synthesized-memories</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/tornado-on-the-south</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/bit-byte-bold</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/electric-her</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/heavy-crown</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/blue-ticket-home</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/impulsive-lovers</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/you-re-lying</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/selling-a-dream-remix-remastered</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/selling-a-dream</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/love-is-like-an-oldie-remix</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/love-is-an-oldie</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/fever-receipt</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/bent-ritual</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/the-tomorrowline</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/little-neo-city</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/the-city-sings</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/blue-weather</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/last-platform</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/passenger-heart</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/no-permission</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/no-green-lights</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/signal-blood</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/wrong-exit</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/brake-light</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/the-romance-table</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/the-small-hours</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/empty-windows</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/still-answering</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/cold-father</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/all-we-were</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/borrowed-sky</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/last-render</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://syzygyvoid.ca/lyrics/shift-starts-chapter-1</loc>
@@ -382,6 +700,11 @@
   </url>
   <url>
     <loc>https://syzygyvoid.ca/lyrics/home-is-the-afterglow</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/montreal-tourist-in-my-own-heart</loc>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -941,7 +1264,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://syzygyvoid.ca/lyrics/the-tomorrowline</loc>
+    <loc>https://syzygyvoid.ca/lyrics/the-tomorrowline-no-idle-speed</loc>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -962,6 +1285,11 @@
   </url>
   <url>
     <loc>https://syzygyvoid.ca/lyrics/the-glass-water-demo</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/the-tomorrowline-playlist-cut</loc>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1116,6 +1444,46 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://syzygyvoid.ca/lyrics/occupancy-zero</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/the-lost-take</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/second-language</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/common-time</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/borrowed-weather</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/quiet-engine</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/name-in-pencil</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/lyrics/house-lights</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://syzygyvoid.ca/lyrics/project-sanctus-live</loc>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
@@ -1157,116 +1525,6 @@
   </url>
   <url>
     <loc>https://syzygyvoid.ca/lyrics/the-miracle-feed-live</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://syzygyvoid.ca/lyrics/clockwork-confessions-live</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://syzygyvoid.ca/lyrics/meta-block-live-glitch-communion</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://syzygyvoid.ca/lyrics/synthesized-memories-live</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://syzygyvoid.ca/lyrics/orbiting-you-live</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://syzygyvoid.ca/lyrics/external-pulse-live</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://syzygyvoid.ca/lyrics/destruction-in-the-world-live</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://syzygyvoid.ca/lyrics/montreal-live</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://syzygyvoid.ca/lyrics/queenstown-live</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://syzygyvoid.ca/lyrics/identity-confirmed-live</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://syzygyvoid.ca/lyrics/your-last-call-live</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://syzygyvoid.ca/lyrics/merge-window-live</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://syzygyvoid.ca/lyrics/call-completed-live</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://syzygyvoid.ca/lyrics/no-crown-left-remix</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://syzygyvoid.ca/lyrics/ascend-or-collapse-live</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://syzygyvoid.ca/lyrics/amen-in-static-live</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://syzygyvoid.ca/lyrics/in-oblivion-live</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://syzygyvoid.ca/lyrics/wrong-exit</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://syzygyvoid.ca/lyrics/busted-live</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://syzygyvoid.ca/lyrics/love-is-an-oldie-remix</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://syzygyvoid.ca/lyrics/calls-collide</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://syzygyvoid.ca/lyrics/next-song-cover</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://syzygyvoid.ca/lyrics/old-wound-radio-live</loc>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
