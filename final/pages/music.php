@@ -3,7 +3,7 @@
     <div class="container">
         <p class="section__eyebrow">Catalog</p>
         <h1 class="section__title">Music</h1>
-        <p class="section__lede">Serialized release worlds and Solo Signals — each with its own sound, visual language, and story system.</p>
+        <p class="section__lede">Serialized release worlds and Solo Signals — Occupancy Zero, No Idle Speed, White Voltage, Deluxe Queen, Body Clock, The Shape I Left, plus the city and chapel systems. Each with its own sound, visual language, and story.</p>
     </div>
 </section>
 

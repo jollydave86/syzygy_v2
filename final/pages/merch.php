@@ -66,7 +66,7 @@
                                         <div class="merch-card__body">
                                             <p class="merch-card__eyebrow"><?= syzygy_esc($item['release_name'] ?? 'SYZYGY.VOID'); ?></p>
                                             <h3 class="merch-card__title"><?= syzygy_esc($item['format_title'] ?? ''); ?></h3>
-                                            <p class="merch-card__text"><?= syzygy_esc($item['description'] ?? ''); ?></p>
+                                            <p class="merch-card__description"><?= syzygy_esc($item['description'] ?? ''); ?></p>
                                             <span class="btn btn--secondary is-disabled"><?= syzygy_esc($item['link_label'] ?? 'Pre Order soon!'); ?></span>
                                         </div>
                                     </article>

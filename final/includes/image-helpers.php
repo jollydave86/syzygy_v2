@@ -102,16 +102,19 @@ if (!function_exists('syzygy_responsive_image')) {
     {
         $src = syzygy_prefer_public_variant($basePublicPath, $widths);
         $parts = [];
+        $info = pathinfo(trim($basePublicPath));
+        $dirname = (string) ($info['dirname'] ?? '');
+        $filename = (string) ($info['filename'] ?? '');
+        $extension = (string) ($info['extension'] ?? '');
         foreach ($widths as $width) {
             $width = (int) $width;
-            if ($width <= 0) {
+            if ($width <= 0 || $dirname === '' || $filename === '' || $extension === '') {
                 continue;
             }
-            $candidate = syzygy_prefer_public_variant($basePublicPath, [$width]);
-            if ($candidate === '') {
-                continue;
+            $candidate = $dirname . '/' . $filename . '-' . $width . '.' . $extension;
+            if (syzygy_public_path_exists($candidate)) {
+                $parts[] = syzygy_encode_public_path($candidate) . ' ' . $width . 'w';
             }
-            $parts[] = $candidate . ' ' . $width . 'w';
         }
         if ($parts === []) {
             $parts[] = $src . ' 800w';

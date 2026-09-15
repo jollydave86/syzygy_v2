@@ -80,8 +80,8 @@ HTML,
         'image' => '/assets/img-optimized/gallery/syzygy-void-live/00 - Playlist Cover.webp',
         'body' => <<<'HTML'
 <p>The live set is not a bonus disc. It is the shared machine running hot: Chapel hymns, Tomorrowline calls, arcade glitch, traveler cities, and the Solo Signals that leak through the PA.</p>
-<p>SYZYGY.VOID LIVE locks the crowd energy as canon — ritual glitch, remix pressure, and the moment a studio chapter becomes a stage weapon.</p>
-<p>Listen on Suno. Physical formats remain preorder concepts. Spotify arrives later.</p>
+<p>SYZYGY.VOID LIVE locks the crowd energy as canon — ritual glitch, remix pressure, and the moment a studio chapter becomes a stage weapon. Nova, Vanta, Kade, Lucien, Lyra, and Ash occupy one concert wall.</p>
+<p>This is the press lock for summer: the era set is public, Suno is the listening room, physical formats remain preorder concepts. Spotify arrives later.</p>
 HTML,
     ],
     [
@@ -93,7 +93,8 @@ HTML,
         'image' => '/assets/img-optimized/gallery/no-idle-speed/00 - Playlist Cover.webp',
         'body' => <<<'HTML'
 <p>Lucien Cross was never supposed to stay in the background. NO IDLE SPEED is the motion record: chapel backs, prize machines, glass water, relay saints, still moving.</p>
-<p>The Tomorrowline is not only an album world — it is Lucien’s tempo. Get on or get left.</p>
+<p>Ten transmissions. The official playlist is the locked public sequence, including the Tomorrowline playlist cut that also fires on Singles Night. Electro-rap, industrial 808s, breakbeat — never primarily instrumental.</p>
+<p>The Tomorrowline is not only an album world — it is Lucien’s tempo. Get on or get left. Physical concepts (CD, vinyl, cassette, apparel) now sit on the archive store as preorder language, not inventory.</p>
 HTML,
     ],
     [
@@ -105,7 +106,8 @@ HTML,
         'image' => '/assets/img-optimized/gallery/white-voltage/00 - Playlist Cover.webp',
         'body' => <<<'HTML'
 <p>WHITE VOLTAGE is Nova Vale without the committee. Glass sirens, crown static, unreleased machines, after the halo — the spotlight that used to serve the band now burns for one voice.</p>
-<p>This is the voltage the cities were built to survive.</p>
+<p>Eight chapters of commanding industrial rock and darkwave power. This is the voltage the cities were built to survive. The same Suno playlist later opens into DELUXE QUEEN — one stream, two crowns.</p>
+<p>Press note: Nova is not a side project. She is the front-facing system, temporarily unshared.</p>
 HTML,
     ],
     [
@@ -117,7 +119,8 @@ HTML,
         'image' => '/assets/img-optimized/gallery/deluxe-queen/00 - Playlist Cover.webp',
         'body' => <<<'HTML'
 <p>If WHITE VOLTAGE is the detonation, DELUXE QUEEN is the coronation. Throat of light, static crown, still singing, the last vote.</p>
-<p>Nova’s second signal is sleeker, colder, and just as lethal — a deluxe room inside the same white fire.</p>
+<p>Ten additional clips on the same Nova playlist: regal voltage, glass-lung intimacy, Nordic darksynth exits, and an instrumental crown at the center. Sleeker, colder, just as lethal — a deluxe room inside the same white fire.</p>
+<p>Together the two EPs are eighteen public signals. Merch concepts follow the same dual identity on the store wall.</p>
 HTML,
     ],
     [
@@ -129,7 +132,8 @@ HTML,
         'image' => '/assets/img-optimized/gallery/body-clock/00 - Playlist Cover.webp',
         'body' => <<<'HTML'
 <p>BODY CLOCK is sung in French because the body does not negotiate in English. Premier impact, mémoire musculaire, la salle qui sonne, doigts bandés.</p>
-<p>Lyra Static is the human error the sequencer cannot delete. When the shared machine goes quiet, you can still hear the drummer breathing.</p>
+<p>Six percussion-first transmissions. Lyra Static is the human error the sequencer cannot delete. When the shared machine goes quiet, you can still hear the drummer breathing.</p>
+<p>This is not a novelty language drop. It is injury, endurance, and the pulse that kept time for everyone else until silence became the hardest beat.</p>
 HTML,
     ],
     [
@@ -141,7 +145,8 @@ HTML,
         'image' => '/assets/img-optimized/gallery/the-shape-i-left/00 - Playlist Cover.webp',
         'body' => <<<'HTML'
 <p>Ash Vex left during No Exit Arcade. THE SHAPE I LEFT is not a reunion. It is the wound catalogued: nothing personal, rental rooms, old wound radio, what stayed.</p>
-<p>The band became a universe. Ash became an outline. Both are true at once.</p>
+<p>Six dirty, intimate industrial-rock rooms. One amplifier. Dead channels. The outline a person leaves in the wall after the band becomes a universe.</p>
+<p>The band became a universe. Ash became an outline. Both are true at once. His merch concepts join the preorder wall without pretending he never walked.</p>
 HTML,
     ],
     [
@@ -153,7 +158,8 @@ HTML,
         'image' => '/assets/img-optimized/gallery/forever-city/00 - Playlist Cover.webp',
         'body' => <<<'HTML'
 <p>Forever City is no longer a teaser. Little Neo City grows too advanced and starts singing — eighteen chapters from passenger hearts to last render.</p>
-<p>This is the City of Echoes: a serialized world that sits at the front of the catalogue wall, Suno-first, Spotify later.</p>
+<p>This is the City of Echoes: romance tables, brake lights, borrowed sky, a world that learned to echo itself. It sits on the catalogue wall with full gallery, lyrics, and merch concepts — Suno-first, Spotify later.</p>
+<p>Phase 3 is not a slogan. It is a city that will not stay quiet.</p>
 HTML,
     ],
     [
@@ -165,7 +171,21 @@ HTML,
         'image' => '/assets/img-optimized/gallery/singles-night-v5-5/00 - Playlist Cover.webp',
         'body' => <<<'HTML'
 <p>Singles Night V5.5 is the overflow drawer made public: Neon Thick Skin remastered, Dental Doom, Paranormal Cat, TikTok Lawyer Karen, The New Romantics, and the long corridor of remixes that would not fit a world album.</p>
-<p>It sits beside Featured Signals. No merch drop. Just the songs, compressed, catalogued, ready.</p>
+<p>Twenty-seven tracks. It sits beside Featured Signals. No merch drop — the night is songs, compressed, catalogued, ready.</p>
+<p>If a transmission refused to live inside a city, it lives here.</p>
+HTML,
+    ],
+    [
+        'slug' => 'era-3-press-week',
+        'title' => 'Era 3 Press Week: Five Solos, One Machine',
+        'date' => '2026-09-29',
+        'eyebrow' => 'Press Week',
+        'excerpt' => 'Lucien, Nova, Lyra, Ash, and Kade occupy the public wall before October. Vanta stays unfinished on purpose.',
+        'image' => '/assets/img-optimized/solo-signals/kade-null.webp',
+        'body' => <<<'HTML'
+<p>Press week is not a festival. It is a density test. Five Solo Signals are ready: Lucien’s motion, Nova’s dual crown, Lyra’s body clock, Ash’s outline, Kade’s occupancy.</p>
+<p>Vanta Rey remains coming soon. Incompleteness is still canon. The site does not invent her tracklist to look finished.</p>
+<p>Listen on the five official playlists. Walk the profiles. The universe is larger because the voices are allowed to leave the shared machine and still belong to it.</p>
 HTML,
     ],
     [
@@ -176,8 +196,9 @@ HTML,
         'excerpt' => 'The blueprint ghost takes occupancy — lost takes, common time, quiet engines, house lights.',
         'image' => '/assets/img-optimized/gallery/occupancy-zero/00 - Playlist Cover.webp',
         'body' => <<<'HTML'
-<p>Kade Null’s solo was the last unresolved architecture. OCCUPANCY ZERO locks it: eight rooms, modular pulse, names in pencil.</p>
-<p>The producer is no longer only the ghost in the control room. The house lights are up. The occupancy is one.</p>
+<p>Kade Null’s solo was the last unresolved architecture. OCCUPANCY ZERO locks it: eight rooms — Occupancy Zero, The Lost Take, Second Language, Common Time, Borrowed Weather, Quiet Engine, Name in Pencil, House Lights.</p>
+<p>The producer is no longer only the ghost in the control room. Modular pulse, borrowed weather, names written in pencil. The house lights are up. The occupancy is one.</p>
+<p>Playlist: Kade Null — Occupancy Zero. Gallery and lyrics are public. Profile status: ready.</p>
 HTML,
     ],
     [
@@ -188,8 +209,22 @@ HTML,
         'excerpt' => 'CD, vinyl, cassette, and apparel concepts for the Era 3 singles EPs — compressed WebP, preorder only.',
         'image' => '/assets/img-optimized/merch/occupancy-zero-vinyl.webp',
         'body' => <<<'HTML'
-<p>The archive store expands beyond the serialized worlds. NO IDLE SPEED, WHITE VOLTAGE, DELUXE QUEEN, BODY CLOCK, THE SHAPE I LEFT, and OCCUPANCY ZERO now carry CD, vinyl, double vinyl, cassette, and apparel concepts.</p>
-<p>Nothing is live inventory. Everything is labeled, compressed, and waiting on the same preorder wall as Monument Zero and Chapel Aftermath.</p>
+<p>The archive store expands beyond the serialized worlds. NO IDLE SPEED, WHITE VOLTAGE, DELUXE QUEEN, BODY CLOCK, THE SHAPE I LEFT, and OCCUPANCY ZERO now carry CD, vinyl, double vinyl, cassette, and apparel concepts in the same photographed language as Monument Zero.</p>
+<p>Nothing is live inventory. Everything is compressed WebP (400 / 800 / 1200 where the frame allows) and waiting on the same preorder wall as Chapel Aftermath.</p>
+<p>Official labeled MERCH folders from the Era 3 singles archive can replace these concepts the moment they sync. Until then the store stays fast, labeled, and honest about what it is.</p>
+HTML,
+    ],
+    [
+        'slug' => 'house-lights-week',
+        'title' => 'House Lights Week: Occupancy Goes Physical',
+        'date' => '2026-10-13',
+        'eyebrow' => 'Merch / Architecture',
+        'excerpt' => 'Kade’s vinyl, CD, cassette, and shirt concepts lead the Solo Signals store — still preorder, now photoreal.',
+        'image' => '/assets/img-optimized/merch/occupancy-zero-cd.webp',
+        'body' => <<<'HTML'
+<p>House Lights is the last track on Occupancy Zero and the mood of the merch week: the room is no longer empty, the product shots are no longer flat canvases.</p>
+<p>Jewel-case CDs, sleeve-and-disc vinyl, cassettes, gatefold doubles, black apparel — each Solo EP now occupies the same photographic stage as the world albums. Page weight stays in WebP. The glow stays cinematic.</p>
+<p>Preorder soon. Not a cart. A promise with lighting.</p>
 HTML,
     ],
     [
@@ -200,9 +235,9 @@ HTML,
         'excerpt' => 'Worlds, singles, solos, live set, merch concepts, journals — the public machine through October 20.',
         'image' => '/assets/img-optimized/hero-bg-1200.webp',
         'body' => <<<'HTML'
-<p>By October 20 the public catalogue is a wall, not a teaser: Forever City, Singles Night V5.5, the serialized worlds, five ready Solo Signals including Kade, the live set, and physical concepts across the store.</p>
-<p>Suno is the listening room. Amazon Music is live at artist level. Spotify and Apple Music stay empty until the next seasonal unlock.</p>
-<p>The universe got denser. The pages got lighter. That is the point of this phase.</p>
+<p>By October 20 the public catalogue is a wall, not a teaser: Forever City, Singles Night V5.5, the serialized worlds, five ready Solo Signals including Kade, the live set, photoreal merch concepts, and a journal that runs from origin fracture to this transmission.</p>
+<p>Suno is the listening room. Amazon Music is live at artist level. Spotify and Apple Music stay empty until the next seasonal unlock. Fonts are local. Images are responsive. The universe got denser. The pages got lighter.</p>
+<p>That is the point of this phase. The occupancy is public. The machine is still humming.</p>
 HTML,
     ],
 ];

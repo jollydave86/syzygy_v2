@@ -171,86 +171,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://syzygyvoid.ca/blog/from-syzygy-to-syzygy-void</loc>
-    <lastmod>2026-03-01</lastmod>
+    <loc>https://syzygyvoid.ca/blog/autumn-transmission-oct-20</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://syzygyvoid.ca/blog/ash-leaves-the-arcade</loc>
-    <lastmod>2026-03-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://syzygyvoid.ca/blog/chapel-and-aftermath</loc>
-    <lastmod>2026-04-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://syzygyvoid.ca/blog/solo-signals-separation</loc>
-    <lastmod>2026-05-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://syzygyvoid.ca/blog/four-thousand-tracks</loc>
-    <lastmod>2026-06-09</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://syzygyvoid.ca/blog/live-era-set-transmission</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://syzygyvoid.ca/blog/no-idle-speed-lucien-cross</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://syzygyvoid.ca/blog/white-voltage-nova-vale</loc>
-    <lastmod>2026-07-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://syzygyvoid.ca/blog/deluxe-queen-second-signal</loc>
-    <lastmod>2026-08-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://syzygyvoid.ca/blog/body-clock-lyra-static</loc>
-    <lastmod>2026-08-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://syzygyvoid.ca/blog/the-shape-ash-left</loc>
-    <lastmod>2026-09-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://syzygyvoid.ca/blog/forever-city-opens</loc>
-    <lastmod>2026-09-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://syzygyvoid.ca/blog/singles-night-v5-5</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://syzygyvoid.ca/blog/occupancy-zero-kade-null</loc>
-    <lastmod>2026-10-01</lastmod>
+    <loc>https://syzygyvoid.ca/blog/house-lights-week</loc>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -261,8 +189,92 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://syzygyvoid.ca/blog/autumn-transmission-oct-20</loc>
-    <lastmod>2026-10-20</lastmod>
+    <loc>https://syzygyvoid.ca/blog/occupancy-zero-kade-null</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/blog/era-3-press-week</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/blog/singles-night-v5-5</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/blog/forever-city-opens</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/blog/the-shape-ash-left</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/blog/body-clock-lyra-static</loc>
+    <lastmod>2026-08-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/blog/deluxe-queen-second-signal</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/blog/white-voltage-nova-vale</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/blog/no-idle-speed-lucien-cross</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/blog/live-era-set-transmission</loc>
+    <lastmod>2026-06-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/blog/four-thousand-tracks</loc>
+    <lastmod>2026-06-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/blog/solo-signals-separation</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/blog/chapel-and-aftermath</loc>
+    <lastmod>2026-04-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/blog/ash-leaves-the-arcade</loc>
+    <lastmod>2026-03-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://syzygyvoid.ca/blog/from-syzygy-to-syzygy-void</loc>
+    <lastmod>2026-03-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>

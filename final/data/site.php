@@ -3,7 +3,7 @@
 $site = [
     'name' => 'SYZYGY.VOID',
     'short_name' => 'SYZYGY.VOID',
-    'asset_version' => '20260915c',
+    'asset_version' => '20260915d',
 
     'title' => 'SYZYGY.VOID Official Site | Cinematic Darkwave & Electronic Music',
     'description' => 'Enter SYZYGY.VOID — cinematic darkwave, electronic and dark-futurist music. Explore releases, Solo Signals, lyrics, journals, and the expanding visual archive.',
@@ -60,7 +60,7 @@ $site = [
         'eyebrow' => 'CINEMATIC • DARKWAVE • ELECTRONIC',
         'heading_line_1' => 'SYZYGY.VOID',
         'heading_line_2' => 'SIGNAL ARCHIVE',
-        'text' => 'Dark signal. Human emotion. Cinematic pressure.',
+        'text' => 'Dark signal. Human emotion. Cinematic pressure. Era 3 occupies the wall — solos, singles, and physical concepts in one machine.',
         'primary_cta' => ['label' => 'Enter Music', 'href' => '/music'],
         'secondary_cta' => ['label' => 'Solo Signals', 'href' => '/profiles'],
         'image' => '/assets/img-optimized/hero-bg.webp',
@@ -74,8 +74,8 @@ $site = [
         'image' => '/assets/img-optimized/about-image-400.webp',
         'stats' => [
             ['value' => '4K+', 'label' => 'Tracks'],
-            ['value' => '700+', 'label' => 'Active Fans'],
-            ['value' => '3', 'label' => 'Eras'],
+            ['value' => '16', 'label' => 'Public Worlds'],
+            ['value' => '5', 'label' => 'Ready Solos'],
         ],
     ],
 
@@ -127,9 +127,16 @@ $site = [
         [
             'eyebrow' => 'Journals',
             'title' => 'Blog',
-            'text' => 'Working notes from the signal: history, fracture, Chapel aftermath, and separation experiments.',
+            'text' => 'Press and journals through October 20 — live set, Solo Signals unlocks, Occupancy Zero, merch concepts, and the autumn transmission.',
             'href' => '/blog',
             'cta' => 'Read Journals',
+        ],
+        [
+            'eyebrow' => 'Archive Store',
+            'title' => 'Merch',
+            'text' => 'Photoreal CD, vinyl, cassette, and apparel concepts for serialized worlds and Era 3 solo EPs. Preorder only — compressed WebP, fast grid.',
+            'href' => '/merch',
+            'cta' => 'Open Store',
         ],
         [
             'eyebrow' => 'Signal',

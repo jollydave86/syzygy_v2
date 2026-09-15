@@ -169,23 +169,12 @@ def variants_for_existing() -> None:
 
 
 def main() -> None:
-    makers = {
-        "cd": make_cd,
-        "vinyl": make_vinyl,
-        "double-vinyl": make_double,
-        "cassette": make_cassette,
-        "merch": make_apparel,
-    }
-    for key, title, cover_path in RELEASES:
-        if not cover_path.is_file():
-            print("MISSING COVER", cover_path)
-            continue
-        cover = Image.open(cover_path)
-        for fmt, fn in makers.items():
-            img = fn(cover, title)
-            dest = MERCH / f"{key}-{fmt}"
-            save_set(img, dest)
-            print("wrote", dest.name)
+    """Solo EP merch is photoreal — keep this entry point from overwriting with flat mockups."""
+    import subprocess
+    import sys
+
+    photoreal = Path(__file__).with_name("generate-photoreal-merch.py")
+    subprocess.check_call([sys.executable, str(photoreal)])
     variants_for_existing()
 
 

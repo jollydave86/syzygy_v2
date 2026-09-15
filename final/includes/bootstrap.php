@@ -32,6 +32,9 @@ $merch = require $root . '/data/merch.php';
 $contact = require $root . '/data/contact.php';
 
 require_once $root . '/data/blog.php';
+usort($blogPosts, static function (array $a, array $b): int {
+    return strcmp((string) ($b['date'] ?? ''), (string) ($a['date'] ?? ''));
+});
 require_once $root . '/data/lyrics.php';
 
 $contactMailConfigPath = $root . '/config/contact-mail.php';
