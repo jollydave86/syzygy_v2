@@ -65,7 +65,7 @@ $highlights = $site['highlights'] ?? [];
         <div class="home-teaser__copy">
             <p class="section__eyebrow">Current Signal</p>
             <h2 class="section__title">Serialized Music Worlds</h2>
-            <p class="section__lede">The full catalogue wall — Forever City, switchboard crises, cyber-noir streets, chapel protocols, arcade horror, solo signals, and live transmissions. Every playlist world, not a recent slice.</p>
+            <p class="section__lede">The full catalogue wall — Singles Night V5.5 beside Featured Signals, Forever City, switchboard crises, cyber-noir streets, chapel protocols, arcade horror, solo signals, and live transmissions. Every playlist world, not a recent slice.</p>
             <a class="btn btn--primary" href="<?= syzygy_esc(syzygy_url('/music')); ?>">Explore the Catalog</a>
         </div>
         <div class="home-teaser__releases">

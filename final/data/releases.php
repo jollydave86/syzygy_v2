@@ -23,6 +23,21 @@ $releases = [
         ],
     ],
     [
+        'slug' => 'singles-night-v5-5',
+        'playlist_key' => 'singles-night-v5-5',
+        'title' => 'Singles Night V5.5',
+        'eyebrow' => 'Standalone Signals',
+        'summary' => 'A full singles night playlist — remasters, remixes, and one-off transmissions sitting alongside Featured Signals in the music catalogue. Suno-first; Spotify later.',
+        'cover' => '/assets/img-optimized/gallery/singles-night-v5-5/00 - Playlist Cover.webp',
+        'status' => 'public',
+        'links' => [
+            'suno' => 'https://suno.com/playlist/81c8c831-a511-40bd-834a-e82d44aad1e7',
+            'spotify' => '',
+            'apple' => '',
+            'amazon' => 'https://music.amazon.in/artists/B0FVW8PBJW/syzygy-void',
+        ],
+    ],
+    [
         'slug' => 'forever-city',
         'playlist_key' => 'forever-city',
         'title' => 'Forever City',

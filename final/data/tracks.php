@@ -39,6 +39,38 @@ $featuredPool = [
 ];
 
 $playlists = [
+    'singles-night-v5-5' => [
+        'label' => 'Singles Night V5.5',
+        'tracks' => [
+            track('Neon Thick Skin (Remastered)', 'SINGLES NIGHT V5.5', 'https://suno.com/song/d5d786c1-5fb3-4082-bae6-4d723f8dd5e5'),
+            track('Dental Doom', 'SINGLES NIGHT V5.5', 'https://suno.com/song/453c0a7a-4aa7-4e78-b288-d0306f6cdc30'),
+            track('Paranormal Cat 🐈', 'SINGLES NIGHT V5.5', 'https://suno.com/song/fd42d50a-09cf-4864-a050-5ed3f5d33ef5'),
+            track('1 Star ⭐', 'SINGLES NIGHT V5.5', 'https://suno.com/song/ed6218ae-ff32-4a9e-bfea-f644b9183446'),
+            track('TikTok Lawyer Karen', 'SINGLES NIGHT V5.5', 'https://suno.com/song/4d309212-5710-4bed-a77f-ba835e3a7f41'),
+            track('The New Romantics', 'SINGLES NIGHT V5.5', 'https://suno.com/song/454c13a3-939e-4ddd-8915-3560a19eb6df'),
+            track('Sept-Îles, Mon Ciel (Remastered)', 'SINGLES NIGHT V5.5', 'https://suno.com/song/fe5f9d7c-7c39-40b8-ba2c-f035fcc0909a'),
+            track('End of the Gospelvas', 'SINGLES NIGHT V5.5', 'https://suno.com/song/3d8788d9-daf5-4dac-89da-fd49fdafa0eb'),
+            track('The Hit That Ruined You', 'SINGLES NIGHT V5.5', 'https://suno.com/song/5eb14161-57cc-4c30-a2ea-1c43e6f265c3'),
+            track('When I First Heard It', 'SINGLES NIGHT V5.5', 'https://suno.com/song/5a85882a-771a-40f6-9b96-687966b7d578'),
+            track('The Lust Love - Extended (Remastered)', 'SINGLES NIGHT V5.5', 'https://suno.com/song/3eb08502-a164-47cc-9c8a-3e368ee643b6'),
+            track('Bigfoot Dreams 90\'s ( Remastered)', 'SINGLES NIGHT V5.5', 'https://suno.com/song/f66c466e-5a14-4ff5-bc03-07176a75108e'),
+            track('Synthesized Memories', 'SINGLES NIGHT V5.5', 'https://suno.com/song/2cce5e01-21fe-4fb6-921c-bfd5bb5570e3'),
+            track('Tornado On The South', 'SINGLES NIGHT V5.5', 'https://suno.com/song/ee07b861-151d-45e7-a07d-1876861dbf5b'),
+            track('BIT BYTE BOLD ', 'SINGLES NIGHT V5.5', 'https://suno.com/song/614fa704-5aeb-420b-9a0d-c7500cdeb878'),
+            track('Electric Her', 'SINGLES NIGHT V5.5', 'https://suno.com/song/053b4d17-487e-4b61-8af3-b807b9f2c83d'),
+            track('HEAVY CROWN', 'SINGLES NIGHT V5.5', 'https://suno.com/song/3aa21e91-6acc-40db-998c-d15b19a1c457'),
+            track('BLUE TICKET HOME', 'SINGLES NIGHT V5.5', 'https://suno.com/song/d97dab8f-e099-42a4-8c72-91861f5eb9b2'),
+            track('Impulsive Lovers', 'SINGLES NIGHT V5.5', 'https://suno.com/song/b6f407c2-48a1-4f43-9ef3-ae9be2359e6f'),
+            track('You’re Lying', 'SINGLES NIGHT V5.5', 'https://suno.com/song/7d1b5dc2-fa4f-4954-bbfb-5e805848e43f'),
+            track('Selling a Dream (Remix Remastered)', 'SINGLES NIGHT V5.5', 'https://suno.com/song/803baebc-677a-4266-959c-c10350de7504'),
+            track('Selling a Dream', 'SINGLES NIGHT V5.5', 'https://suno.com/song/d5a1b691-20a4-4d16-9b7f-1d5798df9ad9'),
+            track('Love is like an oldie. (Remix)', 'SINGLES NIGHT V5.5', 'https://suno.com/song/5914e75f-ac1a-4517-9535-4cd96fa50358'),
+            track('Love is an Oldie', 'SINGLES NIGHT V5.5', 'https://suno.com/song/1a30f66b-12cb-46b7-9403-9fcea8e6ca09'),
+            track('FEVER RECEIPT', 'SINGLES NIGHT V5.5', 'https://suno.com/song/7f0dc6d4-1c2e-4ef8-8d64-8a97b1b232d1'),
+            track('BENT RITUAL', 'SINGLES NIGHT V5.5', 'https://suno.com/song/9db9ada1-b840-41e5-b4a8-0a0ce78ebb50'),
+            track('THE TOMORROWLINE', 'SINGLES NIGHT V5.5', 'https://suno.com/song/b4069758-acb5-489b-974c-dd1382b9b302'),
+        ],
+    ],
     'forever-city' => [
         'label' => 'Forever City',
         'tracks' => [
