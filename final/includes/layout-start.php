@@ -69,8 +69,6 @@ $schemaGraph = syzygy_build_schema_graph((string) $schemaPage, [
     <meta name="twitter:title" content="<?= syzygy_esc($pageTitle); ?>">
     <meta name="twitter:description" content="<?= syzygy_esc($pageDescription); ?>">
     <meta name="twitter:image" content="<?= syzygy_esc($ogImageAbs); ?>">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <?php if ($gtmId !== ''): ?>
     <link rel="preconnect" href="https://www.googletagmanager.com">
     <link rel="dns-prefetch" href="https://www.googletagmanager.com">
@@ -82,9 +80,9 @@ $schemaGraph = syzygy_build_schema_graph((string) $schemaPage, [
     ?>
     <link rel="preload" as="image" href="<?= syzygy_esc($heroPreload); ?>" fetchpriority="high" imagesizes="100vw" imagesrcset="<?= syzygy_esc(syzygy_prefer_public_variant($heroPreloadBase, [800])); ?> 800w, <?= syzygy_esc(syzygy_prefer_public_variant($heroPreloadBase, [1200])); ?> 1200w">
     <?php endif; ?>
-    <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;600;700&family=Rajdhani:wght@600;700&display=swap">
-    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;600;700&family=Rajdhani:wght@600;700&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
-    <noscript><link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;600;700&family=Rajdhani:wght@600;700&display=swap" rel="stylesheet"></noscript>
+    <link rel="preload" as="font" type="font/woff2" href="<?= syzygy_esc(syzygy_encode_public_path('/assets/fonts/JTUSjIg69CK48gW7PXoo9Wlhyw.woff2')); ?>" crossorigin>
+    <link rel="preload" as="font" type="font/woff2" href="<?= syzygy_esc(syzygy_encode_public_path('/assets/fonts/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZ9hiA.woff2')); ?>" crossorigin>
+    <link rel="preload" as="font" type="font/woff2" href="<?= syzygy_esc(syzygy_encode_public_path('/assets/fonts/LDI2apCSOBg7S-QT7pa8FvOreec.woff2')); ?>" crossorigin>
     <link rel="stylesheet" href="<?= syzygy_esc(syzygy_encode_public_path('/assets/css/style.bundle.css')); ?>?v=<?= $assetVersion; ?>">
     <link rel="shortcut icon" href="<?= syzygy_esc(syzygy_encode_public_path('/favicon.ico')); ?>?v=<?= $assetVersion; ?>">
     <link rel="apple-touch-icon" sizes="180x180" href="<?= syzygy_esc(syzygy_encode_public_path('/apple-touch-icon.png')); ?>?v=<?= $assetVersion; ?>">

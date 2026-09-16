@@ -60,19 +60,29 @@ $highlights = $site['highlights'] ?? [];
     </div>
 </section>
 
-<section class="section section--dark home-teaser">
-    <div class="container home-teaser__grid">
-        <div class="home-teaser__copy">
+<section class="section section--dark home-signal">
+    <div class="container">
+        <div class="section-heading section-heading--center home-signal__intro">
             <p class="section__eyebrow">Current Signal</p>
             <h2 class="section__title">Serialized Music Worlds</h2>
-            <p class="section__lede">The full catalogue wall — Singles Night V5.5 beside Featured Signals, Forever City, switchboard crises, cyber-noir streets, chapel protocols, arcade horror, solo signals, and live transmissions. Every playlist world, not a recent slice.</p>
-            <a class="btn btn--primary" href="<?= syzygy_esc(syzygy_url('/music')); ?>">Explore the Catalog</a>
+            <p class="section__lede">Playlist worlds on the catalogue wall — Forever City, Solo Signals, singles nights, chapel systems, and live transmissions.</p>
+            <a class="btn btn--primary" href="<?= syzygy_esc(syzygy_url('/music')); ?>">Learn more</a>
         </div>
-        <div class="home-teaser__releases">
-            <?php foreach ($releases as $release): ?>
-                <a class="home-mini-release" href="<?= syzygy_esc(syzygy_url('/music/' . $release['slug'])); ?>">
-                    <img src="<?= syzygy_esc(syzygy_encode_public_path($release['cover'])); ?>" alt="" width="400" height="400" loading="lazy" decoding="async">
-                    <span><?= syzygy_esc($release['title']); ?></span>
+        <div class="home-signal__grid">
+            <?php
+            $homeSignalPool = array_values($releases);
+            shuffle($homeSignalPool);
+            $homeSignalCards = array_slice($homeSignalPool, 0, 9);
+            foreach ($homeSignalCards as $release):
+                $coverImg = syzygy_responsive_image((string) ($release['cover'] ?? ''), [400, 800]);
+            ?>
+                <a class="release-card" href="<?= syzygy_esc(syzygy_url('/music/' . $release['slug'])); ?>">
+                    <div class="release-card__media">
+                        <img src="<?= syzygy_esc($coverImg['src']); ?>" srcset="<?= syzygy_esc($coverImg['srcset']); ?>" sizes="(max-width: 700px) 46vw, 280px" alt="<?= syzygy_esc($release['title']); ?>" width="400" height="400" loading="lazy" decoding="async">
+                    </div>
+                    <p class="release-card__eyebrow"><?= syzygy_esc($release['eyebrow'] ?? ''); ?></p>
+                    <h3 class="release-card__title"><?= syzygy_esc($release['title']); ?></h3>
+                    <p class="release-card__text"><?= syzygy_esc($release['summary'] ?? ''); ?></p>
                 </a>
             <?php endforeach; ?>
         </div>
@@ -84,11 +94,13 @@ $highlights = $site['highlights'] ?? [];
         <div class="home-teaser__copy">
             <p class="section__eyebrow">Solo Signals</p>
             <h2 class="section__title">Six Voices Outside the Machine</h2>
-            <p class="section__lede">Nova’s voltage, Ash’s damaged minimalism, Lyra’s body-clock percussion, and Lucien’s forward-motion electro rap reveal what changes when the shared system goes quiet.</p>
+            <p class="section__lede">Nova’s voltage, Ash’s damaged minimalism, Lyra’s body-clock percussion, Lucien’s forward-motion electro rap, and Kade’s occupancy architecture reveal what changes when the shared system goes quiet.</p>
             <a class="btn btn--secondary" href="<?= syzygy_esc(syzygy_url('/profiles')); ?>">Meet the Signals</a>
         </div>
         <div class="home-profile-strip">
-            <?php foreach (array_slice($members, 0, 4) as $member): ?>
+            <?php
+            $readyMembers = array_values(array_filter($members, static fn($m) => ($m['status'] ?? '') === 'ready'));
+            foreach ($readyMembers as $member): ?>
                 <a href="<?= syzygy_esc(syzygy_url('/profiles/' . $member['slug'])); ?>">
                     <img src="<?= syzygy_esc(syzygy_prefer_public_variant($member['image'], [250, 400])); ?>" alt="<?= syzygy_esc($member['name']); ?>" width="250" height="250" loading="lazy" decoding="async">
                     <span><?= syzygy_esc($member['name']); ?></span>
@@ -98,15 +110,51 @@ $highlights = $site['highlights'] ?? [];
     </div>
 </section>
 
-<section class="section section--dark home-journal-teaser">
+<section class="section section--dark home-store" id="home-archive-store">
+    <div class="container">
+        <div class="section-heading section-heading--center home-store__intro">
+            <p class="section__eyebrow">Archive Store</p>
+            <h2 class="section__title">Physical Concepts, Compressed</h2>
+            <p class="section__lede">CD, vinyl, cassette, and apparel concepts — preorder frames only. Shuffle changes every load.</p>
+            <a class="btn btn--primary" href="<?= syzygy_esc(syzygy_url('/merch')); ?>">Browse Merch</a>
+        </div>
+        <div class="home-store__grid">
+            <?php
+            $homeStorePool = array_values($merch['items'] ?? []);
+            shuffle($homeStorePool);
+            $homeStoreCards = array_slice($homeStorePool, 0, 9);
+            foreach ($homeStoreCards as $item):
+                $merchImg = syzygy_responsive_image((string) ($item['image'] ?? ''), [400, 800]);
+            ?>
+                <a class="home-store__frame" href="<?= syzygy_esc(syzygy_url('/merch')); ?>">
+                    <span class="home-store__frame-media">
+                        <img src="<?= syzygy_esc($merchImg['src']); ?>" srcset="<?= syzygy_esc($merchImg['srcset']); ?>" sizes="(max-width: 700px) 46vw, 280px" alt="<?= syzygy_esc($item['alt'] ?? ''); ?>" width="400" height="267" loading="lazy" decoding="async">
+                    </span>
+                    <span class="home-store__frame-meta">
+                        <span class="home-store__frame-release"><?= syzygy_esc($item['release_name'] ?? ''); ?></span>
+                        <span class="home-store__frame-format"><?= syzygy_esc($item['format_title'] ?? ''); ?></span>
+                    </span>
+                </a>
+            <?php endforeach; ?>
+        </div>
+    </div>
+</section>
+
+<section class="section home-journal-teaser">
     <div class="container">
         <div class="section-heading">
             <p class="section__eyebrow">From the Journal</p>
             <h2 class="section__title">History Behind the Signal</h2>
         </div>
         <div class="blog-grid">
-            <?php foreach (array_slice($blogPosts, 0, 3) as $post): ?>
+            <?php foreach (array_slice(syzygy_blog_posts_newest_first(), 0, 3) as $post): ?>
                 <article class="blog-card">
+                    <?php if (!empty($post['image'])): ?>
+                        <?php $postImg = syzygy_responsive_image((string) $post['image'], [400, 800]); ?>
+                        <a class="blog-card__media" href="<?= syzygy_esc(syzygy_url('/blog/' . $post['slug'])); ?>">
+                            <img src="<?= syzygy_esc($postImg['src']); ?>" srcset="<?= syzygy_esc($postImg['srcset']); ?>" sizes="(max-width: 700px) 92vw, 360px" alt="" width="800" height="450" loading="lazy" decoding="async">
+                        </a>
+                    <?php endif; ?>
                     <p class="blog-card__eyebrow"><?= syzygy_esc($post['eyebrow']); ?> · <?= syzygy_esc($post['date']); ?></p>
                     <h3 class="blog-card__title"><a href="<?= syzygy_esc(syzygy_url('/blog/' . $post['slug'])); ?>"><?= syzygy_esc($post['title']); ?></a></h3>
                     <p class="blog-card__excerpt"><?= syzygy_esc($post['excerpt']); ?></p>
@@ -114,5 +162,6 @@ $highlights = $site['highlights'] ?? [];
                 </article>
             <?php endforeach; ?>
         </div>
+        <p class="home-journal-teaser__more"><a class="btn btn--secondary" href="<?= syzygy_esc(syzygy_url('/blog')); ?>">All Journals</a></p>
     </div>
 </section>

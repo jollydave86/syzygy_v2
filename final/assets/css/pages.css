@@ -810,8 +810,129 @@ code {
 
 .home-profile-strip {
     display: grid;
-    grid-template-columns: repeat(4, minmax(0, 1fr));
+    grid-template-columns: repeat(5, minmax(0, 1fr));
     gap: 0.8rem;
+}
+
+/* Current Signal — music-style catalogue grid */
+.home-signal__intro,
+.home-store__intro {
+    max-width: 38rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: clamp(2.25rem, 4.5vw, 3.25rem);
+}
+
+.home-signal__intro .btn,
+.home-store__intro .btn {
+    margin-top: 1.35rem;
+}
+
+.home-signal__grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: clamp(1.25rem, 2.5vw, 2rem);
+    margin-top: 0.25rem;
+}
+
+.home-signal__grid .release-card {
+    gap: 0.65rem;
+}
+
+.home-signal__grid .release-card__media {
+    aspect-ratio: 1 / 1;
+    background:
+        radial-gradient(ellipse at 40% 20%, rgba(237, 190, 114, 0.07), transparent 60%),
+        #0a0f14;
+}
+
+.home-signal__grid .release-card__text {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+/* Archive Store — randomized 3x3 frames that fill the cell */
+.home-store__grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: clamp(1rem, 2.2vw, 1.5rem);
+}
+
+.home-store__frame {
+    display: grid;
+    grid-template-rows: minmax(0, 1fr) auto;
+    gap: 0.7rem;
+    color: inherit;
+    text-decoration: none;
+}
+
+.home-store__frame-media {
+    display: grid;
+    place-items: center;
+    aspect-ratio: 1 / 1;
+    overflow: hidden;
+    border: 1px solid rgba(237, 190, 114, 0.18);
+    background:
+        radial-gradient(ellipse at 50% 35%, rgba(237, 190, 114, 0.12), transparent 58%),
+        linear-gradient(165deg, #141b24 0%, #080c11 48%, #0d131a 100%);
+}
+
+.home-store__frame-media img {
+    width: 100%;
+    height: 100%;
+    padding: 6%;
+    box-sizing: border-box;
+    object-fit: contain;
+    object-position: center;
+    display: block;
+}
+
+.home-store__frame-meta {
+    display: grid;
+    gap: 0.25rem;
+    min-height: 2.4rem;
+}
+
+.home-store__frame-release {
+    font-family: var(--font-ui);
+    font-size: 0.78rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--color-text-soft);
+}
+
+.home-store__frame-format {
+    font-family: var(--font-ui);
+    font-size: 0.72rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--color-accent);
+}
+
+.home-journal-teaser__more {
+    margin: 1.75rem 0 0;
+}
+
+.about-era-cta {
+    margin: 1.75rem 0 0;
+}
+
+.blog-card__media {
+    display: block;
+    overflow: hidden;
+    aspect-ratio: 16 / 9;
+    border: 1px solid rgba(237, 190, 114, 0.12);
+    background: var(--color-panel);
+}
+
+.blog-card__media img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
 }
 
 .home-profile-strip img {
@@ -1063,6 +1184,15 @@ code {
         grid-template-columns: repeat(3, minmax(0, 1fr));
     }
 
+    .home-profile-strip {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+
+    .home-store__grid,
+    .home-signal__grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
     .home-teaser__grid--reverse .home-teaser__copy {
         order: 0;
     }
@@ -1089,7 +1219,9 @@ code {
         grid-template-columns: repeat(2, minmax(0, 1fr));
     }
 
-    .home-profile-strip {
+    .home-profile-strip,
+    .home-store__grid,
+    .home-signal__grid {
         grid-template-columns: repeat(2, minmax(0, 1fr));
     }
 

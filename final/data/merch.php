@@ -1,15 +1,21 @@
 <?php
 
 $merchReleases = [
-    ['key' => 'forever-city', 'name' => 'Forever City'],
-    ['key' => 'the-chapel-protocol-aftermath', 'name' => 'The Chapel Protocol // Aftermath Sequel'],
-    ['key' => 'monument-zero', 'name' => 'Monument Zero'],
-    ['key' => 'neo-monument', 'name' => 'NEO//MONUMENT : The Crossover'],
-    ['key' => 'neo-noir-city', 'name' => 'Neo-Noir City'],
-    ['key' => 'no-exit-clown-arcade-game-show', 'name' => 'NO EXIT ARCADE: THE CLOWN GAME SHOW'],
-    ['key' => 'operation-tomorrowline', 'name' => 'OPERATION // TOMORROWLINE'],
-    ['key' => 'the-chapel-protocol', 'name' => 'The Chapel Protocol'],
-    ['key' => 'the-wondering-traveler', 'name' => 'The Wondering Traveler'],
+    ['key' => 'occupancy-zero', 'name' => 'OCCUPANCY ZERO', 'music_href' => '/music/occupancy-zero', 'profile_href' => '/profiles/kade-null'],
+    ['key' => 'no-idle-speed', 'name' => 'NO IDLE SPEED', 'music_href' => '/music/no-idle-speed', 'profile_href' => '/profiles/lucien-cross'],
+    ['key' => 'white-voltage', 'name' => 'WHITE VOLTAGE', 'music_href' => '/music/white-voltage', 'profile_href' => '/profiles/nova-vale'],
+    ['key' => 'deluxe-queen', 'name' => 'DELUXE QUEEN', 'music_href' => '/music/deluxe-queen', 'profile_href' => '/profiles/nova-vale'],
+    ['key' => 'body-clock', 'name' => 'BODY CLOCK', 'music_href' => '/music/body-clock', 'profile_href' => '/profiles/lyra-static'],
+    ['key' => 'the-shape-i-left', 'name' => 'THE SHAPE I LEFT', 'music_href' => '/music/the-shape-i-left', 'profile_href' => '/profiles/ash-vex'],
+    ['key' => 'forever-city', 'name' => 'Forever City', 'music_href' => '/music/forever-city', 'profile_href' => ''],
+    ['key' => 'the-chapel-protocol-aftermath', 'name' => 'The Chapel Protocol // Aftermath Sequel', 'music_href' => '/music/chapel-protocol-aftermath', 'profile_href' => ''],
+    ['key' => 'monument-zero', 'name' => 'Monument Zero', 'music_href' => '/music/monument-zero', 'profile_href' => ''],
+    ['key' => 'neo-monument', 'name' => 'NEO//MONUMENT : The Crossover', 'music_href' => '/music/neo-monument', 'profile_href' => ''],
+    ['key' => 'neo-noir-city', 'name' => 'Neo-Noir City', 'music_href' => '/music/neo-noir-city', 'profile_href' => ''],
+    ['key' => 'no-exit-clown-arcade-game-show', 'name' => 'NO EXIT ARCADE: THE CLOWN GAME SHOW', 'music_href' => '/music/no-exit-arcade', 'profile_href' => ''],
+    ['key' => 'operation-tomorrowline', 'name' => 'OPERATION // TOMORROWLINE', 'music_href' => '/music/operation-tomorrowline', 'profile_href' => ''],
+    ['key' => 'the-chapel-protocol', 'name' => 'The Chapel Protocol', 'music_href' => '/music/chapel-protocol', 'profile_href' => ''],
+    ['key' => 'the-wondering-traveler', 'name' => 'The Wondering Traveler', 'music_href' => '/music/wondering-traveler', 'profile_href' => ''],
 ];
 
 $merchFormats = [
@@ -36,8 +42,10 @@ $baseUrl = '/assets/img-optimized/merch/';
 $preorderLink = '#';
 $preorderLabel = 'Pre Order soon!';
 $items = [];
+$releasesWithItems = [];
 
 foreach ($merchReleases as $release) {
+    $releaseItems = 0;
     foreach ($merchFormats as $formatKey => $format) {
         $filename = $release['key'] . '-' . $formatKey . '.webp';
         $filePath = $baseDir . $filename;
@@ -46,6 +54,7 @@ foreach ($merchReleases as $release) {
             continue;
         }
 
+        $releaseItems++;
         $items[] = [
             'release_key' => $release['key'],
             'release_name' => $release['name'],
@@ -56,14 +65,19 @@ foreach ($merchReleases as $release) {
             'alt' => $release['name'] . ' ' . $format['label'],
             'link' => $preorderLink,
             'link_label' => $preorderLabel,
+            'music_href' => $release['music_href'] ?? '',
+            'profile_href' => $release['profile_href'] ?? '',
         ];
+    }
+    if ($releaseItems > 0) {
+        $releasesWithItems[] = $release;
     }
 }
 
 return [
     'eyebrow' => 'PRE ORDER SOON',
     'title' => 'PHYSICAL FORMATS, COLLECTOR EDITIONS, AND APPAREL DROPS',
-    'text' => 'Browse physical release and apparel concepts from the SYZYGY.VOID catalog. Items are preorder placeholders — not active inventory.',
-    'releases' => $merchReleases,
+    'text' => 'Compressed WebP CD, vinyl, cassette, and apparel concepts from serialized worlds plus Era 3 Solo Signals. Occupancy Zero, No Idle Speed, White Voltage, Deluxe Queen, Body Clock, The Shape I Left, and Forever City sit on the same preorder wall. Not live inventory.',
+    'releases' => $releasesWithItems,
     'items' => $items,
 ];

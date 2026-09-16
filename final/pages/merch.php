@@ -44,6 +44,8 @@
                         <?php
                         $key = $release['key'] ?? '';
                         $releaseItems = $itemsByRelease[$key] ?? [];
+                        $musicHref = (string) ($release['music_href'] ?? '');
+                        $profileHref = (string) ($release['profile_href'] ?? '');
                         ?>
                         <div
                             id="merch-panel-<?= syzygy_esc($key); ?>"
@@ -55,17 +57,44 @@
                             <div class="merch-panel__heading">
                                 <p class="section__eyebrow">Release Collection</p>
                                 <h2><?= syzygy_esc($release['name'] ?? 'SYZYGY.VOID'); ?></h2>
+                                <?php if ($musicHref !== '' || $profileHref !== ''): ?>
+                                    <p class="merch-panel__links">
+                                        <?php if ($musicHref !== ''): ?>
+                                            <a href="<?= syzygy_esc(syzygy_url($musicHref)); ?>">Listen on Music</a>
+                                        <?php endif; ?>
+                                        <?php if ($profileHref !== ''): ?>
+                                            <a href="<?= syzygy_esc(syzygy_url($profileHref)); ?>">Solo Signal</a>
+                                        <?php endif; ?>
+                                    </p>
+                                <?php endif; ?>
                             </div>
                             <div class="merch-grid">
                                 <?php foreach ($releaseItems as $item): ?>
                                     <article class="merch-card">
                                         <div class="merch-card__media">
-                                            <img class="merch-card__image" src="<?= syzygy_esc(syzygy_encode_public_path($item['image'] ?? '')); ?>" alt="<?= syzygy_esc($item['alt'] ?? ''); ?>" loading="lazy">
+                                            <?php $merchImg = syzygy_responsive_image((string) ($item['image'] ?? ''), [400, 800, 1200]); ?>
+                                            <img class="merch-card__image" src="<?= syzygy_esc($merchImg['src']); ?>" srcset="<?= syzygy_esc($merchImg['srcset']); ?>" sizes="(max-width: 700px) 50vw, 280px" alt="<?= syzygy_esc($item['alt'] ?? ''); ?>" width="400" height="400" loading="lazy" decoding="async">
                                         </div>
                                         <div class="merch-card__body">
                                             <p class="merch-card__eyebrow"><?= syzygy_esc($item['release_name'] ?? 'SYZYGY.VOID'); ?></p>
                                             <h3 class="merch-card__title"><?= syzygy_esc($item['format_title'] ?? ''); ?></h3>
-                                            <p class="merch-card__text"><?= syzygy_esc($item['description'] ?? ''); ?></p>
+                                            <div class="merch-card__copy">
+                                                <p class="merch-card__description"><?= syzygy_esc($item['description'] ?? ''); ?></p>
+                                                <?php
+                                                $itemMusic = (string) ($item['music_href'] ?? $musicHref);
+                                                $itemProfile = (string) ($item['profile_href'] ?? $profileHref);
+                                                ?>
+                                                <?php if ($itemMusic !== '' || $itemProfile !== ''): ?>
+                                                    <p class="merch-card__links">
+                                                        <?php if ($itemMusic !== ''): ?>
+                                                            <a href="<?= syzygy_esc(syzygy_url($itemMusic)); ?>">Catalogue page</a>
+                                                        <?php endif; ?>
+                                                        <?php if ($itemProfile !== ''): ?>
+                                                            <a href="<?= syzygy_esc(syzygy_url($itemProfile)); ?>">Profile</a>
+                                                        <?php endif; ?>
+                                                    </p>
+                                                <?php endif; ?>
+                                            </div>
                                             <span class="btn btn--secondary is-disabled"><?= syzygy_esc($item['link_label'] ?? 'Pre Order soon!'); ?></span>
                                         </div>
                                     </article>

@@ -1,6 +1,15 @@
 <?php
 declare(strict_types=1);
 
+if (PHP_SAPI === 'cli-server') {
+    $cliPath = parse_url((string) ($_SERVER['REQUEST_URI'] ?? '/'), PHP_URL_PATH) ?: '/';
+    $cliPath = rawurldecode($cliPath);
+    $cliFile = __DIR__ . $cliPath;
+    if ($cliPath !== '/' && !str_contains($cliPath, '..') && is_file($cliFile)) {
+        return false;
+    }
+}
+
 require __DIR__ . '/includes/bootstrap.php';
 
 $path = syzygy_current_path();
@@ -176,8 +185,8 @@ switch ($route) {
     case 'merch':
         syzygy_render('merch', [
             'pageTitle' => 'Merch | SYZYGY.VOID Preorder Placeholders',
-            'pageDescription' => 'SYZYGY.VOID merch concepts and release-linked visuals — preorder placeholders for the cinematic darkwave project.',
-            'pageKeywords' => array_merge($site['keywords'] ?? [], ['merch', 'band merch', 'preorder']),
+            'pageDescription' => 'SYZYGY.VOID merch concepts — Solo Signals and world-album CD, vinyl, cassette, and apparel placeholders. Compressed WebP. Preorder only.',
+            'pageKeywords' => array_merge($site['keywords'] ?? [], ['merch', 'band merch', 'preorder', 'vinyl', 'cassette', 'solo signals merch']),
             'schemaPage' => 'merch',
         ]);
         break;

@@ -26102,4 +26102,1299 @@ Together (soft, fading): Zero / City.',
     'source_clip_id' => '489c76ae-3f90-4ab4-8bc8-2f39c82b2870',
     'imported_at' => '2026-08-02T14:07:39+00:00',
   ),
+  'occupancy-zero' => 
+  array (
+    'status' => 'ready',
+    'body' => '[Instrumental]
+
+Occupancy Zero opens on empty architecture — no lyric prompt was stored on this Suno clip. The room holds the pulse.',
+    'source' => 'https://suno.com/song/dbc17daa-02cd-4886-960f-64d35858f3fc',
+    'source_clip_id' => 'dbc17daa-02cd-4886-960f-64d35858f3fc',
+    'imported_at' => '2026-09-15T03:01:22+00:00',
+  ),
+  'the-lost-take' => 
+  array (
+    'status' => 'ready',
+    'body' => 'Found the drive behind the furnace
+wrapped in tape and speaker wire
+Case marked nothing worth revisiting
+in somebody else’s tired hand
+
+Forty-seven takes in sequence
+all the meters burned in red
+Every room mic left wide open
+every mistake still half alive
+
+Banjo leaning sharp on three
+one dead string refusing shame
+Kick drum dragging past the measure
+bass arriving just too late
+
+Nova breathing near the doorway
+Ash still cursing at the amp
+Someone laughed inside the pre-roll
+
+That became the lost take
+
+They called it rough
+They called it wrong
+But every broken little sound
+still knew where it belonged
+
+Play the lost take
+Let the basement shake
+Let the furnace keep the time
+Let the old pipes resonate
+
+Play the lost take
+Before they cleaned the pain
+You remember who performed it
+I remember what it became
+
+Don’t fix the breath
+Don’t move the snare
+The room was playing too
+Leave it there
+
+I changed the key around two-thirty
+when the high line wouldn’t land
+Moved the bridge behind the silence
+gave the chorus room to stand
+
+Built a pulse from heater knocking
+used a wrench against the pipe
+Kept the banjo through the overdrive
+because the buzz felt more like life
+
+Everybody drifted upstairs
+left the cables, left the heat
+One voice called down from the doorway
+
+Kade, make it feel complete
+
+The finished master lost the laughter
+lost the chair and lost the room
+Lost the small count before the chorus
+lost the air around the tune
+
+They printed every singer clearly
+every player set in place
+Then wrote additional arrangement
+
+where my whole hand shaped the frame
+
+Play the lost take
+Let the basement shake
+Let the furnace keep the time
+Let the old pipes resonate
+
+Play the lost take
+Before they cleaned the pain
+You remember who performed it
+I remember what it became
+
+That banjo
+Ash refusing to smooth it out
+
+That breath
+someone deciding whether to stay
+
+That half-empty bar
+mine
+
+I left it open
+because the song needed somewhere
+to hurt
+
+Turn everything back on
+
+I could rebuild it clean now
+line the transients to the grid
+Take the basement out the bloodline
+hide the things we really did
+
+Make the banjo sound expensive
+make the room less small and worn
+Trim the hum beneath the piano
+file the edges off the storm
+
+But perfection is a landlord
+painting over every mark
+Calling history an error
+when the error held the spark
+
+So I kept the dragging downbeat
+kept the scrape before the chord
+Kept the whisper in the far room
+
+Is this worth recording for
+
+Kept my hands inside the changes
+kept the names beneath the grain
+Kept the whole thing slightly crooked
+
+Till the crooked sounded brave
+
+Play the lost take
+Let the whole house shake
+Let the banjo cut the wire
+Let the bowed strings bend the frame
+
+Play the lost take
+No correction, no restraint
+You remember who performed it
+Now remember what it became
+
+Play the lost take
+Let the old room speak
+Every flaw became a doorway
+Every weakness found the beat
+
+You remember the voices
+I remember every change
+I didn’t save the session
+
+The session saved my name
+
+Take forty-seven
+
+That was the one',
+    'source' => 'https://suno.com/song/cdba99ca-a890-4ba3-a72e-33ab03fea0c9',
+    'source_clip_id' => 'cdba99ca-a890-4ba3-a72e-33ab03fea0c9',
+    'imported_at' => '2026-09-15T03:00:59+00:00',
+  ),
+  'second-language' => 
+  array (
+    'status' => 'ready',
+    'body' => 'You asked me what I meant back then
+while the room was still too loud
+Ash was fighting with the monitor
+Nova trying to sing above it
+
+I said maybe drop the snare there
+Maybe leave that line alone
+You heard practical suggestions
+I heard part of myself go by
+
+I moved the chord beneath the verse
+so your voice could land in it
+Left a bar before the chorus
+when I saw you start to break
+
+I was never being distant
+I was trying to make a place
+Some of us speak in sentences
+Some of us alter the shape
+
+I said it in the silence
+I said it in the change
+I said it when the bridge arrived
+and took the weight away
+
+Music was my first language
+Before I knew what words were for
+I said it in the voicing
+I said it in the closing door
+
+You were waiting for a confession
+I gave you harmony instead
+Music was my first language
+
+Speech came second in my head
+
+There was a night in winter
+you could hear the pipes expand
+Lucien pacing near the hallway
+Lyra tapping out her hands
+
+Somebody said he never says much
+Somebody else said that’s just Kade
+I nearly laughed because the room
+was full of things I’d already said
+
+Every modulation meant stay here
+Every dropout meant I know
+Every low string under a melody
+meant don’t let this one go
+
+I tuned around your differences
+I wrote beneath your fear
+People call that arrangement
+
+Sometimes it was care
+
+I said it in the tension
+I said it in release
+I said it when the wrong note turned
+and sounded like belief
+
+Music was my first language
+Before I knew what words were for
+I said it in the voicing
+I said it in the closing door
+
+You were waiting for a confession
+I gave you harmony instead
+Music was my first language
+
+Speech came second in my head
+
+I know how this sounds
+
+Like an excuse
+
+Like I hid behind the arrangement
+because it was safer than being known
+
+Maybe sometimes I did
+
+But if I changed the key
+to keep your voice from tearing
+
+that was not avoidance
+
+That was love
+with better equipment
+
+So when I answer slowly now
+it isn’t emptiness or doubt
+I’m still searching for the version
+that doesn’t come out as sound
+
+I can try to call things by name
+say what mattered, say what stayed
+Say I held too much in music
+because music always stayed
+
+And if I missed the human timing
+if I let the real words wait
+Then hear them in the lifted ending
+hear them in the breathing space
+
+I was speaking all along
+You just asked the wrong part of me
+
+Music was my first language
+Before I knew what words could do
+I said it in the leaving
+I said it in what carried through
+
+You were waiting for a confession
+I built one in the chords instead
+Music was my first language
+
+Speech came second in my head
+
+Music was my first language
+Now I’m trying to translate
+If I ever sounded distant
+I was only rearranging pain',
+    'source' => 'https://suno.com/song/d40c1154-d37b-4d54-bec9-61f37a380598',
+    'source_clip_id' => 'd40c1154-d37b-4d54-bec9-61f37a380598',
+    'imported_at' => '2026-09-15T03:01:00+00:00',
+  ),
+  'common-time' => 
+  array (
+    'status' => 'ready',
+    'body' => 'Four chairs around the console
+six coffees on the floor
+Nova wanted everything louder
+Ash wanted one thing more
+
+Lyra kept time on the tabletop
+Lucien paced behind the glass
+Vanta moved the running order
+before we\'d finished what we had
+
+And me
+
+I moved the chorus sixteen bars
+so nobody had to lose
+Dropped the key a whole step lower
+changed the kick beneath the groove
+
+Nobody called it diplomacy
+Nobody called it design
+
+We just somehow hit the downbeat
+at approximately the same time
+
+Not perfect
+Not clean
+
+But somewhere between
+what you wanted
+and what I mean
+
+We found common time
+For a minute we were right
+
+Four beats holding
+six different kinds of night
+
+Common time
+No one had to disappear
+
+You brought what you couldn\'t carry
+I made a place for it here
+
+Common time
+Common time
+
+Funny how a room can feel like home
+for four beats at a time
+
+Four beats at a time
+
+I knew when Ash was finished
+before he packed the case
+Knew when Nova needed silence
+from the way she touched her face
+
+Knew when Lyra hated counting
+because she\'d speed the fill instead
+Knew when Lucien had a verse coming
+by the circles that he paced
+
+Vanta liked the red lights brighter
+Kade, can you make this hit
+
+Everybody had a language
+Everybody had a limit
+
+So I learned to leave the gaps in
+learned when not to add a sound
+Learned sometimes the strongest arrangement
+is convincing people to come down
+
+And yeah
+
+I liked being the answer
+liked hearing Kade will know
+
+There are worse ways to feel needed
+than becoming where they go
+
+Not perfect
+Not clean
+
+Somewhere between
+what you feared
+and what you\'d dreamed
+
+We found common time
+For a minute we were right
+
+Four beats holding
+six different kinds of night
+
+Common time
+No one had to disappear
+
+You brought what you couldn\'t carry
+I made a place for it here
+
+Common time
+Common time
+
+Funny how a room can feel like home
+for four beats at a time
+
+Found an old photograph later
+everybody in one frame
+
+Half of us were looking elsewhere
+somebody misspelled my name
+
+I remembered less about the picture
+than the session after that
+
+How we fought about a bridge for hours
+then played it once and laughed
+
+That\'s the part nobody archives
+not the songs, not who was right
+
+Just the stupid little miracle
+of everybody there that night
+
+But there is one thing
+I don\'t say much
+
+Maybe because I don\'t know
+
+Did you love me for the person
+
+or because I made things go
+
+That\'s unfair
+
+I know
+
+You were my friends
+
+You are my friends
+
+But when you\'re always
+the one holding the balance
+
+sometimes you wonder
+
+who notices
+when your hands get tired
+
+Anyway
+
+One, two, three, four
+
+We found common time
+Even when we weren\'t alright
+
+Four beats holding
+six impossible kinds of life
+
+Common time
+Nobody had to disappear
+
+You brought what you couldn\'t carry
+We made a place for it here
+
+Common time
+Common time
+
+Maybe home was never permanent
+
+Maybe that was fine
+
+Common time
+Common time
+
+We were never built forever
+
+But damn
+
+we kept good time
+
+One
+
+Two
+
+Three
+
+Four',
+    'source' => 'https://suno.com/song/3a484ef4-78da-47d3-b754-81c2133a2bdf',
+    'source_clip_id' => '3a484ef4-78da-47d3-b754-81c2133a2bdf',
+    'imported_at' => '2026-09-15T03:01:00+00:00',
+  ),
+  'borrowed-weather' => 
+  array (
+    'status' => 'ready',
+    'body' => 'Every room had its own temperature
+I learned it before I sat down
+
+Nova came in like bad electricity
+so I lowered everything around
+
+Ash could make August feel November
+with one chord hanging in the air
+
+I learned not to fill the silence
+just because silence was there
+
+Lyra moved like the clock offended her
+always half a beat ahead
+
+So I built a floor beneath the rhythm
+and let her run above my head
+
+Lucien needed roads inside the music
+something underneath the word
+
+I gave the bass somewhere to travel
+
+and stayed where I wasn\'t heard
+
+Every room changed temperature
+
+I called the weather mine
+
+Borrowed weather
+borrowed rain
+
+Somebody else\'s thunder
+running through my veins
+
+Borrowed weather
+borrowed light
+
+I knew how everybody felt
+
+before I knew
+what I felt like
+
+What did I feel like
+
+Vanta could walk into a session
+and make the pressure start to fall
+
+Every light became a warning
+every answer felt too small
+
+So I\'d change the running order
+move the fragile songs away
+
+Keep the sharpest parts from touching
+till somebody had a better day
+
+That\'s what I was good at
+
+Reading pressure
+reading air
+
+Knowing who could take the truth
+and when the truth should wait somewhere
+
+People called me steady
+like steady was a trait
+
+Maybe steady was just learning
+how to carry everybody\'s weight
+
+And I liked it
+
+That\'s the difficult part
+
+Being needed has a warmth
+when you\'re freezing in the dark
+
+Every room changed temperature
+
+I called the weather mine
+
+Borrowed weather
+borrowed rain
+
+Somebody else\'s thunder
+running through my veins
+
+Borrowed weather
+borrowed light
+
+I knew how everybody felt
+
+before I knew
+what I felt like
+
+There\'s a window in this empty room
+I never noticed years ago
+
+Maybe because I spent the evenings
+watching everybody else come and go
+
+Tonight the rain is uncomplicated
+
+No one needs me to explain
+
+No singer needs another key
+
+No argument needs a name
+
+No one asking
+Kade, can you fix this
+
+No one waiting by the board
+
+Nothing broken in the monitors
+
+Nothing bleeding through the chords
+
+And I should feel relieved
+
+I think
+
+But silence has a strange design
+
+Take away everybody\'s weather
+
+and I\'m not sure what\'s mine
+
+Do I actually like the rain
+
+Or did Ash
+
+Do I hate bright rooms
+
+Or did Nova
+
+Do I need motion
+
+Or did Lucien
+
+Do I distrust silence
+
+Or was that everyone
+
+What does the room feel like
+
+when I\'m the only person in it
+
+I don\'t know
+
+So I opened up the window
+let the cold come through untouched
+
+Didn\'t shape it for a singer
+didn\'t soften it for us
+
+Didn\'t measure anybody\'s breathing
+didn\'t count who needed space
+
+Let the weather hit me directly
+
+without rearranging its shape
+
+And maybe that\'s the beginning
+
+Not knowing what to call
+
+The feeling when nobody needs you
+
+and you don\'t disappear at all
+
+Borrowed weather
+borrowed rain
+
+I carried everybody\'s thunder
+till I forgot my name
+
+Borrowed weather
+borrowed light
+
+I knew how everybody felt
+
+Now I\'m learning
+what I feel like
+
+Borrowed weather
+let it change
+
+I don\'t have to hold the climate
+I don\'t have to stop the rain
+
+If the room gets cold tonight
+
+I\'ll let the room decide
+
+For once the weather can be weather
+
+and the feeling can be mine',
+    'source' => 'https://suno.com/song/cb87992f-9cc2-4d5f-a9de-19435980890f',
+    'source_clip_id' => 'cb87992f-9cc2-4d5f-a9de-19435980890f',
+    'imported_at' => '2026-09-15T03:01:00+00:00',
+  ),
+  'quiet-engine' => 
+  array (
+    'status' => 'ready',
+    'body' => '# Quiet Engine
+
+No
+
+Keep all of it
+
+Just move it
+
+Kick on one
+leave three empty
+bass comes early
+let it
+
+Guitar late
+good
+stay filthy
+don\'t repair the edge yet
+
+Banjo high
+cut it lower
+make the dead string hit the snare
+
+Synth is drifting
+don\'t correct it
+move the drums until it\'s there
+
+Everybody wants the centre
+that\'s exactly why it breaks
+
+You don\'t fix a crowded signal
+
+You decide what gets the space
+
+Pull it back
+
+Push it left
+
+Kill the pretty
+
+Keep the breath
+
+One more bar
+
+Don\'t explain
+
+Now
+
+let the ugly find the frame
+
+Quiet engine
+under the floor
+
+You don\'t hear it
+till you need one more
+
+Quiet engine
+turning below
+
+Everything fighting
+
+I make it go
+
+Quiet engine
+no spotlight glow
+
+Nobody sees it
+
+Everybody knows
+
+Make it go
+Make it go
+
+Snare too clean
+drag chain across it
+piano bright
+close the lid
+
+Guitar wants eight more measures
+tell the guitar no, it didn\'t
+
+Take the chorus
+lose the first beat
+make the landing feel too soon
+
+Put the tremolo against it
+let the wrong note change the room
+
+Cable hum in channel seven
+that\'s our low drone now
+
+Someone says the tempo\'s broken
+
+Tempo isn\'t broken
+
+You are counting it wrong
+
+I don\'t need another layer
+I need six things to agree
+
+Not on what they\'re trying to say
+
+On where they\'re gonna breathe
+
+Quiet engine
+under the floor
+
+You don\'t hear it
+till you need one more
+
+Quiet engine
+turning below
+
+Everything fighting
+
+I make it go
+
+Quiet engine
+no spotlight glow
+
+Nobody sees it
+
+Everybody knows
+
+That\'s the mistake
+
+Everybody thinks arrangement means adding
+
+Sometimes arrangement is telling
+five beautiful things
+
+they cannot happen
+at the same time
+
+Again
+
+Take the shine off
+leave the scar
+
+Move the silence
+not the bar
+
+Let the bass drag
+let it lean
+
+Build the dirt
+
+into the machine
+
+Now the kick knows where the floor is
+now the banjo cuts the grid
+now the synth can keep on drifting
+because the rhythm learned to bend
+
+Now the guitar stops competing
+now the piano owns the gap
+Now the bass can hit before it
+and the whole thing pulls you back
+
+Nothing here is perfect
+that\'s the reason it can move
+
+Perfect parts make perfect statues
+
+I need something with a pulse
+
+Let the drummer rush the turnaround
+let the tape machine complain
+
+Let the transient hit the ceiling
+
+Let the circuitry feel pain
+
+I don\'t want it clean
+
+I want inevitable
+
+I don\'t want impressive
+
+I want physical
+
+You can measure every frequency
+
+Still miss why the thing survives
+
+A quiet engine isn\'t silent
+
+It\'s the reason noise arrives
+
+Quiet engine
+under the floor
+
+You never saw it
+now you want one more
+
+Quiet engine
+turning below
+
+Everything fighting
+
+I make it go
+
+Quiet engine
+hear the whole room lock
+
+Banjo in the wiring
+bass against the clock
+
+Quiet engine
+nothing standing still
+
+I don\'t make it perfect
+
+I make it
+
+Real
+
+Keep that',
+    'source' => 'https://suno.com/song/1f8a32ee-da1f-4988-8104-f0290e40fa63',
+    'source_clip_id' => '1f8a32ee-da1f-4988-8104-f0290e40fa63',
+    'imported_at' => '2026-09-15T03:01:01+00:00',
+  ),
+  'name-in-pencil' => 
+  array (
+    'status' => 'ready',
+    'body' => 'Box twelve
+bottom shelf
+archive room behind the stairs
+
+Coffee ring
+bent corner
+twenty years of paper air
+
+Session date
+studio three
+every name in printed black
+
+Nova Vale
+Ash Vex
+three more names beneath the track
+
+Then down low
+near the margin
+almost underneath the fold
+
+Additional arrangement
+
+Kade Null
+
+in pencil
+
+Of course
+
+Changed the key
+rewrote the ending
+built the middle eight from scratch
+
+Fixed the count
+moved the downbeat
+made the chorus actually land
+
+Printed credits
+clean alignment
+everyone where they belonged
+
+Then somebody found a pencil
+
+and remembered I was on the song
+
+HB graphite
+
+temporary grey
+
+Funny how the part that held it up
+
+was written like it might erase
+
+Write my name in pencil
+Go ahead
+
+Light enough to lose me
+when the paper gets wet
+
+Write my name in pencil
+Thin and grey
+
+Funny how the weakest mark
+
+held half the song in place
+
+Permanent ink
+beautiful line
+
+Everybody printed
+
+I was added on behind
+
+Write my name in pencil
+
+I can still read mine
+
+Still there
+
+Next sheet
+same handwriting
+production assist, maybe Kade
+
+Maybe
+
+I remember sleeping
+under console lights for three straight days
+
+That compressor chain was mine
+that bass transition too
+
+The silence before Nova entered
+
+Yeah
+
+That was something I chose to do
+
+Ash broke one string
+kept recording
+I cut around the dying note
+
+Built percussion from the fret noise
+
+made the whole damn ending float
+
+Everybody heard emotion
+
+Nobody heard the edit bay
+
+That\'s alright
+
+Until you tell the history
+
+like the history made itself that way
+
+Graphite fingerprints
+all across the frame
+
+You can rub the letters almost clean
+
+but pressure leaves a stain
+
+Write my name in pencil
+Go ahead
+
+Light enough to lose me
+when the paper gets wet
+
+Write my name in pencil
+Thin and grey
+
+Funny how the weakest mark
+
+held half the song in place
+
+Permanent ink
+beautiful line
+
+Everybody printed
+
+I was added on behind
+
+Write my name in pencil
+
+I can still read mine
+
+I know
+
+Credits aren\'t love
+
+Credits aren\'t friendship
+
+Credits aren\'t the hours
+
+And nobody sat around plotting
+how to make Kade feel small
+
+That\'s not what I\'m saying
+
+I\'m saying
+
+sometimes nobody has to mean it
+
+for it to hurt
+
+Found my own handwriting
+on the final page in blue
+
+That\'s the part that got me
+
+I had done it to myself too
+
+Added Kade, additional
+
+because that\'s how I\'d learned to fit
+
+Made myself the parenthesis
+
+then wondered why I lived in it
+
+So no
+
+I don\'t need retroactive statues
+don\'t rewrite the archive now
+
+Don\'t make every old arrangement
+into something holy somehow
+
+Leave the pencil where you found it
+leave the fading graphite line
+
+I just finally understand
+
+temporary ink
+doesn\'t make the work less mine
+
+And that bridge
+
+Mine
+
+That turnaround
+
+Mine
+
+That ugly little bass note
+before the final chorus
+
+Mine
+
+Not because I own the people
+
+Not because I own the sound
+
+Because I was there
+
+and I\'m done editing myself out
+
+Write my name in pencil
+Let it stay
+
+Let the graphite show the pressure
+from the hand that made the change
+
+Write my name in pencil
+I don\'t mind
+
+Ink doesn\'t make a memory
+
+and paper doesn\'t make it mine
+
+Permanent ink
+temporary line
+
+Everybody mattered
+
+So did I
+
+Write my name in pencil
+
+Don\'t erase it this time
+
+No parentheses',
+    'source' => 'https://suno.com/song/7ed04506-cc7d-423f-bde9-dc3be74659c8',
+    'source_clip_id' => '7ed04506-cc7d-423f-bde9-dc3be74659c8',
+    'imported_at' => '2026-09-15T03:01:01+00:00',
+  ),
+  'house-lights' => 
+  array (
+    'status' => 'ready',
+    'body' => 'House Lights
+
+I came back for the silence
+Thought the room had finally closed
+But every wire held a memory
+Every chair still knew its ghost
+
+I turned one lamp above the piano
+Watched the old dust catch the light
+
+Maybe empty doesn’t mean forgotten
+
+Maybe absence isn’t night
+
+I spent years behind the voices
+Putting every piece in place
+
+Tonight I leave one light burning
+
+And finally sign my name
+
+House lights
+Leave one on for me
+
+House lights
+Let the old room breathe
+
+Every song
+Every scar
+Every person that we were
+
+House lights
+
+Don’t go dark yet
+
+We were here
+
+I left some noise inside these walls
+
+I know
+
+I left a note that wouldn’t die
+
+I know
+
+I kept the pulse when time ran wrong
+
+Still there
+
+I left a road beneath the song
+
+Still moving
+
+I left the warning lights in red
+
+I didn’t turn them off
+
+None of you were background
+
+Neither was I
+
+House lights
+Leave one on for me
+
+House lights
+Let the old room breathe
+
+Every song
+Every scar
+Every person that we were
+
+House lights
+
+Don’t go dark yet
+
+We were here
+
+I used to think my job
+was keeping everybody together
+
+Maybe it was
+
+But keeping the room standing
+didn’t mean I had to disappear inside it
+
+This one’s mine
+
+Leave the rough edge
+
+Leave the voltage
+
+Leave the pulse
+
+Leave the road
+
+Leave the red light
+
+Leave the piano
+
+Leave the light
+
+House lights
+Leave them burning bright
+
+House lights
+We made it through the night
+
+Every voice
+Every wound
+Every sound we couldn’t lose
+
+House lights
+
+We were here
+
+And I was too
+
+I was too
+
+You were too
+
+We were here
+
+We were here
+
+House lights',
+    'source' => 'https://suno.com/song/09674d33-d0ff-46be-8dad-8910800c2129',
+    'source_clip_id' => '09674d33-d0ff-46be-8dad-8910800c2129',
+    'imported_at' => '2026-09-15T03:01:01+00:00',
+  ),
 );

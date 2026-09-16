@@ -3,7 +3,7 @@
     <div class="container">
         <p class="section__eyebrow">Catalog</p>
         <h1 class="section__title">Music</h1>
-        <p class="section__lede">Serialized release worlds, Featured Signals, Singles Night V5.5, and Solo Signals — each with its own sound, visual language, and story system.</p>
+        <p class="section__lede">Serialized release worlds and Solo Signals — Occupancy Zero, No Idle Speed, White Voltage, Deluxe Queen, Body Clock, The Shape I Left, Singles Night V5.5, Forever City, plus the city and chapel systems.</p>
     </div>
 </section>
 
@@ -13,7 +13,8 @@
             <?php foreach ($releases as $release): ?>
                 <a class="release-card" href="<?= syzygy_esc(syzygy_url('/music/' . $release['slug'])); ?>">
                     <div class="release-card__media">
-                        <img src="<?= syzygy_esc(syzygy_encode_public_path($release['cover'])); ?>" alt="<?= syzygy_esc($release['title']); ?>" width="400" height="400" loading="lazy" decoding="async">
+                        <?php $coverImg = syzygy_responsive_image((string) ($release['cover'] ?? ''), [400, 800]); ?>
+                        <img src="<?= syzygy_esc($coverImg['src']); ?>" srcset="<?= syzygy_esc($coverImg['srcset']); ?>" sizes="(max-width: 700px) 50vw, 280px" alt="<?= syzygy_esc($release['title']); ?>" width="400" height="400" loading="lazy" decoding="async">
                     </div>
                     <p class="release-card__eyebrow"><?= syzygy_esc($release['eyebrow'] ?? ''); ?></p>
                     <h2 class="release-card__title"><?= syzygy_esc($release['title']); ?></h2>
