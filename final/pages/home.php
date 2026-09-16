@@ -110,7 +110,15 @@ $highlights = $site['highlights'] ?? [];
         </div>
         <div class="home-merch-strip">
             <?php
-            $homeMerchKeys = ['occupancy-zero', 'no-idle-speed', 'white-voltage', 'body-clock', 'the-shape-i-left'];
+            $homeMerchKeys = [
+                'occupancy-zero',
+                'no-idle-speed',
+                'white-voltage',
+                'deluxe-queen',
+                'body-clock',
+                'the-shape-i-left',
+                'forever-city',
+            ];
             $homeMerch = [];
             foreach ($merch['items'] ?? [] as $item) {
                 $rk = (string) ($item['release_key'] ?? '');
