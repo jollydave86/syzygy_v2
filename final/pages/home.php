@@ -60,19 +60,29 @@ $highlights = $site['highlights'] ?? [];
     </div>
 </section>
 
-<section class="section section--dark home-teaser">
-    <div class="container home-teaser__grid">
-        <div class="home-teaser__copy">
+<section class="section section--dark home-signal">
+    <div class="container">
+        <div class="section-heading section-heading--center home-signal__intro">
             <p class="section__eyebrow">Current Signal</p>
             <h2 class="section__title">Serialized Music Worlds</h2>
-            <p class="section__lede">The full catalogue wall — Singles Night V5.5 beside Featured Signals, Forever City, switchboard crises, cyber-noir streets, chapel protocols, arcade horror, solo signals, and live transmissions. Every playlist world, not a recent slice.</p>
-            <a class="btn btn--primary" href="<?= syzygy_esc(syzygy_url('/music')); ?>">Explore the Catalog</a>
+            <p class="section__lede">Playlist worlds on the catalogue wall — Forever City, Solo Signals, singles nights, chapel systems, and live transmissions.</p>
+            <a class="btn btn--primary" href="<?= syzygy_esc(syzygy_url('/music')); ?>">Learn more</a>
         </div>
-        <div class="home-teaser__releases">
-            <?php foreach ($releases as $release): ?>
-                <a class="home-mini-release" href="<?= syzygy_esc(syzygy_url('/music/' . $release['slug'])); ?>">
-                    <img src="<?= syzygy_esc(syzygy_encode_public_path($release['cover'])); ?>" alt="" width="400" height="400" loading="lazy" decoding="async">
-                    <span><?= syzygy_esc($release['title']); ?></span>
+        <div class="home-signal__grid">
+            <?php
+            $homeSignalPool = array_values($releases);
+            shuffle($homeSignalPool);
+            $homeSignalCards = array_slice($homeSignalPool, 0, 9);
+            foreach ($homeSignalCards as $release):
+                $coverImg = syzygy_responsive_image((string) ($release['cover'] ?? ''), [400, 800]);
+            ?>
+                <a class="release-card" href="<?= syzygy_esc(syzygy_url('/music/' . $release['slug'])); ?>">
+                    <div class="release-card__media">
+                        <img src="<?= syzygy_esc($coverImg['src']); ?>" srcset="<?= syzygy_esc($coverImg['srcset']); ?>" sizes="(max-width: 700px) 46vw, 280px" alt="<?= syzygy_esc($release['title']); ?>" width="400" height="400" loading="lazy" decoding="async">
+                    </div>
+                    <p class="release-card__eyebrow"><?= syzygy_esc($release['eyebrow'] ?? ''); ?></p>
+                    <h3 class="release-card__title"><?= syzygy_esc($release['title']); ?></h3>
+                    <p class="release-card__text"><?= syzygy_esc($release['summary'] ?? ''); ?></p>
                 </a>
             <?php endforeach; ?>
         </div>
@@ -100,39 +110,30 @@ $highlights = $site['highlights'] ?? [];
     </div>
 </section>
 
-<section class="section section--dark home-teaser" id="home-archive-store">
-    <div class="container home-teaser__grid">
-        <div class="home-teaser__copy">
+<section class="section section--dark home-store" id="home-archive-store">
+    <div class="container">
+        <div class="section-heading section-heading--center home-store__intro">
             <p class="section__eyebrow">Archive Store</p>
             <h2 class="section__title">Physical Concepts, Compressed</h2>
-            <p class="section__lede">CD, vinyl, cassette, and apparel mockups for the Era 3 solo EPs and Forever City — WebP variants, preorder only. Official labeled merch folders replace these the moment they sync.</p>
+            <p class="section__lede">CD, vinyl, cassette, and apparel concepts — preorder frames only. Shuffle changes every load.</p>
             <a class="btn btn--primary" href="<?= syzygy_esc(syzygy_url('/merch')); ?>">Browse Merch</a>
         </div>
-        <div class="home-merch-strip">
+        <div class="home-store__grid">
             <?php
-            $homeMerchKeys = [
-                'occupancy-zero',
-                'no-idle-speed',
-                'white-voltage',
-                'deluxe-queen',
-                'body-clock',
-                'the-shape-i-left',
-                'forever-city',
-            ];
-            $homeMerch = [];
-            foreach ($merch['items'] ?? [] as $item) {
-                $rk = (string) ($item['release_key'] ?? '');
-                if (($item['format_key'] ?? '') !== 'vinyl' || !in_array($rk, $homeMerchKeys, true) || isset($homeMerch[$rk])) {
-                    continue;
-                }
-                $homeMerch[$rk] = $item;
-            }
-            foreach (array_values($homeMerch) as $item):
+            $homeStorePool = array_values($merch['items'] ?? []);
+            shuffle($homeStorePool);
+            $homeStoreCards = array_slice($homeStorePool, 0, 9);
+            foreach ($homeStoreCards as $item):
                 $merchImg = syzygy_responsive_image((string) ($item['image'] ?? ''), [400, 800]);
             ?>
-                <a href="<?= syzygy_esc(syzygy_url('/merch')); ?>">
-                    <img src="<?= syzygy_esc($merchImg['src']); ?>" srcset="<?= syzygy_esc($merchImg['srcset']); ?>" sizes="(max-width: 700px) 40vw, 160px" alt="<?= syzygy_esc($item['alt'] ?? ''); ?>" width="400" height="267" loading="lazy" decoding="async">
-                    <span><?= syzygy_esc($item['release_name'] ?? ''); ?></span>
+                <a class="home-store__frame" href="<?= syzygy_esc(syzygy_url('/merch')); ?>">
+                    <span class="home-store__frame-media">
+                        <img src="<?= syzygy_esc($merchImg['src']); ?>" srcset="<?= syzygy_esc($merchImg['srcset']); ?>" sizes="(max-width: 700px) 46vw, 280px" alt="<?= syzygy_esc($item['alt'] ?? ''); ?>" width="400" height="267" loading="lazy" decoding="async">
+                    </span>
+                    <span class="home-store__frame-meta">
+                        <span class="home-store__frame-release"><?= syzygy_esc($item['release_name'] ?? ''); ?></span>
+                        <span class="home-store__frame-format"><?= syzygy_esc($item['format_title'] ?? ''); ?></span>
+                    </span>
                 </a>
             <?php endforeach; ?>
         </div>
